@@ -1,8 +1,4 @@
-def get_letter_at_position(expression, position):
-    return expression[position-1]
-
-for i in range(5):
-    input_1 = input()
-    input_2 = int(input())
-    output = get_letter_at_position(input_1, input_2)
-    print(output)
+def first_letter(input_str):
+    words = input_str.split()
+    first_letter = words[0][0]
+    return first_letter + " " + words[1]
