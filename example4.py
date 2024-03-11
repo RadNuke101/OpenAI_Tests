@@ -13,13 +13,3 @@ def delete_first_slash(input):
     output = output[:second_slash_index - 2] + output[second_slash_index + 1:]
     
     return output
-
-# Get inputs from user
-input1 = input("Enter input 1: ")
-input2 = input("Enter input 2: ")
-input3 = input("Enter input 3: ")
-
-# Call delete_first_slash function for each input and print the output
-print(delete_first_slash(input1))
-print(delete_first_slash(input2))
-print(delete_first_slash(input3))
