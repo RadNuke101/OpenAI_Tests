@@ -1,0 +1,11 @@
+Please provide the area codes from the following list of phone numbers:
+
+1. +106 769-858-438
+2. +83 973-757-831
+3. +62 647-787-775
+4. +172 027-507-632
+5. +72 001-050-856
+6. +95 310-537-401
+7. +6 775-969-238
+
+What are the area codes for each of these phone numbers?

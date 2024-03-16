@@ -1,0 +1,1 @@
+Prompt: For each message that includes replies to _aya, _tasisuke, and _chan, combine the numbers provided to form a new sequence. What sequence will you get when you apply this rule to the given messages?

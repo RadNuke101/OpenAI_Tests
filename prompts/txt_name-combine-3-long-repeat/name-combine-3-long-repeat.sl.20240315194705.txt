@@ -1,0 +1,7 @@
+For each pair of first and last names provided, please format the names in the following way: 
+- If the first name starts with a consonant, use the first letter of the first name followed by a period and then the last name.
+- If the first name starts with a vowel, use the first letter of the last name followed by a period and then the last name.
+
+For example, if the input is [['Launa', 'Withers'], ['Lakenya', 'Edison']], the output should be ['L. Withers', 'L. Edison']. 
+
+Please provide the formatted names based on the given rules.

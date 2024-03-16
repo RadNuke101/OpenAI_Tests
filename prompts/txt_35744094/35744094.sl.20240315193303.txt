@@ -1,0 +1,7 @@
+Given a list of URLs that include information about different products and companies, can you provide me with the specific product or company name for each URL? 
+
+For example:
+Input: [['http=//www.apple.com/uk/mac'], ['https=//www.microsoft.com/en-gb/windows'], ['https=//www.microsoft.com/']]
+Output: ['mac', 'windows', 'microsoft']
+
+Please provide the product or company name associated with each URL.

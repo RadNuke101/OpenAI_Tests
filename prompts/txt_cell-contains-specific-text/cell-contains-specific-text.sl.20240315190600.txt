@@ -1,0 +1,1 @@
+For each pair of phrases provided, determine if the second phrase is present in the first phrase. If the second phrase is found within the first phrase, output 'true'. Otherwise, output 'false'.

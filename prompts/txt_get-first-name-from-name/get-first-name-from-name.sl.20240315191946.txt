@@ -1,0 +1,1 @@
+Please provide a list of names in the format [['First Last'], ['First Last'], ['First Last']], and I will return a list of the first names only.

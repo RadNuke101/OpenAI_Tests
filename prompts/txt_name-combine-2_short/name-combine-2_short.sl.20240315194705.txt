@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please generate a list of abbreviated names in the format ['First Name Initial Last Name Initial.']?

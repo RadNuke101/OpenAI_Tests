@@ -1,0 +1,6 @@
+Please extract the titles from the given list of movie information. Each entry consists of a movie title followed by relevant details such as release year, rating, and popularity score. Your task is to identify and list only the movie titles. 
+
+Input: [['valentine day=1915=50==7.1=45'], ['movie blah=2blahblah, The=1914=54==7.9=17']]
+Output: ['valentine day', 'movie blah=2blahblah, The']
+
+What are the titles of the movies in the provided list?

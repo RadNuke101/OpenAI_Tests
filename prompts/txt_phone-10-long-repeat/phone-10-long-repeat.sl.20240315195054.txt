@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to format each phone number by adding parentheses around the area code and hyphens between the different sections. The area code is the first three digits, followed by the next three digits, and then the final four digits. 
+
+For example, if the input is [['+106 769-858-438'], ['+83 973-757-831']], the expected output should be ['+106 (769) 858-438', '+83 (973) 757-831']. 
+
+Please format each phone number accordingly.

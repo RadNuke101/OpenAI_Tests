@@ -1,0 +1,1 @@
+Please provide me with a list of software versions. I will extract the version numbers from each entry and return them in a separate list. For example, if you provide me with [['AIX 5.1'], ['VMware ESX Server 3.5.0 build-110268'], ['Linux Linux 2.6 Linux']], I will return ['5.1', '3.5', '2.6'].

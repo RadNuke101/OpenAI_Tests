@@ -1,0 +1,1 @@
+Given a list of phone numbers, each represented as a list of strings, extract the middle three digits from each phone number and provide them as output. The middle three digits represent a unique identifier within each phone number.

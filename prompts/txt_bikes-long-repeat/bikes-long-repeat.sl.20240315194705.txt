@@ -1,0 +1,1 @@
+Given a list of motorcycle models and their corresponding engine sizes, please generate a new list that includes only the brand names of the motorcycles. Each brand name should be repeated based on the number of engine sizes associated with it.

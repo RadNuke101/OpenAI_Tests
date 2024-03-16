@@ -1,0 +1,4 @@
+Please create email addresses for the following individuals by combining their last names and first initials with "_acme.com": [['brown', 'traci'], ['thomas', 'linda'], ['ward', 'jack']].
+
+Output:
+['tbrown_acme.com', 'lthomas_acme.com', 'jward_acme.com']

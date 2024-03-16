@@ -1,0 +1,1 @@
+Given a list of full names, your task is to extract the last names from each full name and create a new list with just the last names. The last names should be in the same order as the corresponding full names in the original list.

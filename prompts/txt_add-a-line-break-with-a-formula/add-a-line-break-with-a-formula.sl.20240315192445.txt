@@ -1,0 +1,1 @@
+Given a list of information about individuals including their names, addresses, and locations, can you please format the data in a more readable way? Each entry should be displayed with the person's name on the first line, followed by their address on the second line, and their location on the third line. Thank you!

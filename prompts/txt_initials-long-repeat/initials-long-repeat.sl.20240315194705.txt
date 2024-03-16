@@ -1,0 +1,1 @@
+For each name in the list of names provided, please generate their initials by taking the first letter of their first name and the first letter of their last name. Ensure that each set of initials is followed by a period. Return the list of initials in the same order as the original list of names.

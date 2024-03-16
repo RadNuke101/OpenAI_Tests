@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please rearrange the names to display them in the format ['Last Name, Initial.'], where the initial is the first letter of the first name?

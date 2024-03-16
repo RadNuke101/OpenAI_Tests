@@ -1,0 +1,6 @@
+Please extract the email domains from the following tasks and provide them as a list:
+
+1. Send an email to json_acme.com.
+2. Contact help_robot.com for all support requests.
+
+List of email domains: [json_acme.com, help_robot.com]

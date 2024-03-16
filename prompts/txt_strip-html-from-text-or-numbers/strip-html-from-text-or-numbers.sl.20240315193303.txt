@@ -1,0 +1,1 @@
+Please correct the format of the following numbers by removing the HTML tags: [['<b>0.66<b>'], ['<b>0.409<b>'], ['<b>0.7268<b>']]. Once corrected, provide the numbers in their proper format.

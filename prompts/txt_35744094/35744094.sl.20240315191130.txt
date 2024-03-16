@@ -1,0 +1,5 @@
+Given a list of URLs that include information about different technology companies and their products, your task is to extract the names of the products from each URL. 
+
+For example, if the input is [['http=//www.apple.com/uk/mac'], ['https=//www.microsoft.com/en-gb/windows'], ['https=//www.microsoft.com/']], the expected output should be ['mac', 'windows', 'microsoft']. 
+
+Please provide the names of the products mentioned in the URLs.

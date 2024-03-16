@@ -1,0 +1,1 @@
+Please provide me with a list of website domains, each represented as a list of strings. I will extract the top-level domain (TLD) from each domain and return a list of TLDs. For example, given the input [['www.domain.com'], ['mail.net'], ['www.amaon.co.uk']], I will output ['com', 'net', 'uk'].

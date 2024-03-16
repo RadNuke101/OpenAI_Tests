@@ -1,0 +1,1 @@
+Please extract the titles from the given list of movie information.

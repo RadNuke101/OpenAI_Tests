@@ -1,0 +1,1 @@
+Please determine if the following colors are considered warm colors: yellow, gray, black, blue, pink, orange, and turkey. Respond with "true" if the color is warm and "false" if it is not.

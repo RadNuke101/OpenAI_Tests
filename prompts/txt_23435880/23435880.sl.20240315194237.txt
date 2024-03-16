@@ -1,0 +1,1 @@
+For each pair of sentences provided, determine the number of times the second word appears in the first sentence. Count the occurrences of the second word in the first sentence and provide the total count as the output.

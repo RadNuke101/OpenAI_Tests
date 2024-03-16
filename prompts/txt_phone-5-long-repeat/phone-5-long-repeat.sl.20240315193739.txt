@@ -1,0 +1,5 @@
+You have been given a list of phone numbers, each starting with a country code. Your task is to extract the country codes from each phone number and create a new list containing only the country codes. The country code is the set of digits that appear before the first space in each phone number.
+
+For example, from the phone number '+106 769-858-438', the country code is '106'.
+
+Now, write a function that takes the list of phone numbers as input and returns a new list containing only the extracted country codes.

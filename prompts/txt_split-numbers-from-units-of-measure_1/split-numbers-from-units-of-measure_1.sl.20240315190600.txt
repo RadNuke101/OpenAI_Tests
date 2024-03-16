@@ -1,0 +1,1 @@
+Please provide the numerical values from the following list of measurements: [['80v', '3'], ['10hrs', '3'], ['7h', '2'], ['500m', '4']].

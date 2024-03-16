@@ -1,0 +1,1 @@
+You have been given a list of phone numbers in a specific format. Each phone number consists of a country code, followed by the phone number separated by hyphens. Your task is to format these phone numbers in a more readable way by adding parentheses around the area code and changing the hyphens to spaces. Can you please format the phone numbers accordingly?

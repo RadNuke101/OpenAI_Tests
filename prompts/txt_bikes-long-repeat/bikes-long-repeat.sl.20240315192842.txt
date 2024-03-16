@@ -1,0 +1,1 @@
+Please generate a list of motorcycle brands based on the given list of models. Each model is associated with a specific brand. Your task is to extract the brand name from each model and create a new list with the corresponding brand names.

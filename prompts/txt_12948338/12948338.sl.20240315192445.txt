@@ -1,0 +1,1 @@
+Please provide the position of the word that matches the specified criteria in each given sentence.

@@ -1,0 +1,10 @@
+Please combine the first and last names of the following individuals to create a list of full names:
+
+1. Launa Withers
+2. Lakenya Edison
+3. Brendan Hage
+4. Bradford Lango
+5. Rudolf Akiyama
+6. Lara Constable
+
+Your task is to transform the given list of separate first and last names into a list of full names.

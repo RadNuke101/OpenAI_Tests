@@ -1,0 +1,7 @@
+Please correct the URLs in the following list to ensure they are properly formatted:
+
+1. 'https=//abc.com/def'
+2. 'http=//www.abc.com/def/cef'
+3. 'http=//chandoo.org/wp/def-def'
+
+After correcting the URLs, please provide the revised list with the URLs formatted correctly up to the domain level.

@@ -1,0 +1,1 @@
+Please organize the names of individuals based on the given input. Each individual has a first and last name, followed by a number. Sort the names alphabetically by last name and then by first name. Finally, provide a list of unique first names in alphabetical order.

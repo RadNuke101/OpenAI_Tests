@@ -1,0 +1,1 @@
+Please generate a list of countries from the given input. Each sublist represents a group of countries. Combine the countries within each sublist into a single sentence, separating them with commas. Then, create a new list with the first country from each combined sentence.

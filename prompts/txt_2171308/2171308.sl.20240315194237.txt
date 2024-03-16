@@ -1,0 +1,1 @@
+Please provide me with a list of full names, each consisting of a first name and a last name. I will then generate a new list that includes the first initial of the first name followed by the last name for each person. For example, if you provide [['John Doe'], ['Mayur Naik'], ['Nimit Singh']], I will return ['J Doe', 'M Naik', 'N Singh'].

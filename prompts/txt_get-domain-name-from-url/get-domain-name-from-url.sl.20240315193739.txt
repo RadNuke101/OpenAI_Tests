@@ -1,0 +1,7 @@
+You have been given a list of URLs with some extra characters at the end. Your task is to clean up these URLs by removing the extra characters after the last forward slash (/). 
+
+Given the input: [['https=//abc.com/def'], ['http=//www.abc.com/def/cef'], ['http=//chandoo.org/wp/def-def']], can you provide the cleaned up URLs by removing everything after the last forward slash?
+
+For example, if the input is ['https=//abc.com/def'], the cleaned up URL should be 'https=//abc.com/'. 
+
+Please provide the cleaned up URLs for the given inputs.

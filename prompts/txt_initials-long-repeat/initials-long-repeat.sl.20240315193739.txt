@@ -1,0 +1,1 @@
+For each name in the list of names, please provide the initials of the first and last name, separated by a period. Make sure to maintain the same order of names as given in the input list.

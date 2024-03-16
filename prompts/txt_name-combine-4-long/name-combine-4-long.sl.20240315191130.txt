@@ -1,0 +1,5 @@
+Given a list of full names in the format [['First Name', 'Last Name']], your task is to generate a new list where each name is formatted as 'Last Name, First Initial.'. This means that the last name comes first, followed by a comma and a space, and then the first initial of the first name. 
+
+For example, if the input is [['John', 'Doe']], the output should be ['Doe, J.']. 
+
+Please generate the new list based on the given input.

@@ -1,0 +1,1 @@
+Please determine if the given color combinations match the specified colors. If the colors in the combination match any of the specified colors, the output should be 'true'. Otherwise, the output should be 'false'.

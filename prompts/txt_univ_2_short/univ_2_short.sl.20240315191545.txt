@@ -1,0 +1,5 @@
+Given a list of university names and their locations in a nested list format, your task is to transform this data into a single list where each item includes the university name and its location in a grammatically correct format. The university names and locations are currently separated into two elements within each nested list. Your goal is to combine them into a single element for each university, ensuring that the location includes the necessary details such as city, state, and country (if applicable). 
+
+For example, if the input is [['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['UCLA', 'Los Angeles, CA'], ['Cornell University', 'Ithaca, New York, USA']], the expected output should be ['University of Pennsylvania, Phialdelphia, PA, USA', 'UCLA, Los Angeles, CA, USA', 'Cornell University, Ithaca, New York, USA']. 
+
+Please generate a prompt that will return the correct output when given the input, considering the grammar and formatting requirements for university names and locations.

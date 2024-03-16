@@ -1,0 +1,1 @@
+Please format the list of movie titles by removing any extra spaces within each title.

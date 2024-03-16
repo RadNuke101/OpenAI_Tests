@@ -1,0 +1,8 @@
+Please convert the following values to their correct format:
+
+1. -%134
+2. 500
+3. 5.125
+4. -%43.00
+
+What should the correct format be for each value?

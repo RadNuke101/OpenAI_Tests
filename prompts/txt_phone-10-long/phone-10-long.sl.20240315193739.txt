@@ -1,0 +1,3 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. The input consists of phone numbers in the format [['+XXX YYY-ZZZ-ZZZ'], ...] where XXX represents the country code, YYY represents the area code, and ZZZ-ZZZ represents the phone number.
+
+Your task is to convert each phone number into the format '+XXX (YYY) ZZZ-ZZZ' by adding parentheses around the area code. Provide the updated list of phone numbers in the specified format.

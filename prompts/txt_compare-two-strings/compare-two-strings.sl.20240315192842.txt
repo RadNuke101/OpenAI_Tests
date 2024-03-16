@@ -1,0 +1,9 @@
+Please determine if the following pairs of words are identical, taking into account their case sensitivity. For each pair, indicate if they are the same or not by answering 'true' or 'false'.
+
+[['apple', 'apple']] - Are these words the same?  
+[['orange', 'Orange']] - Are these words the same?  
+[['peach', 'peach']] - Are these words the same?  
+[['cherry', 'cherrY']] - Are these words the same?  
+
+Your answers should be:  
+['true', 'false', 'true', 'false']

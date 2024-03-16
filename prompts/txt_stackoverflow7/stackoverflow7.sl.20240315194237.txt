@@ -1,0 +1,1 @@
+Given a list of items with their corresponding model numbers, can you provide a revised list where each item is labeled with its model number in a specific format?

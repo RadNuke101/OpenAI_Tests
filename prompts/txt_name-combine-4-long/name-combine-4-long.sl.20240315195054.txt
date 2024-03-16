@@ -1,0 +1,1 @@
+Please generate a list of names in the format "Last name, First initial" based on the given list of full names.

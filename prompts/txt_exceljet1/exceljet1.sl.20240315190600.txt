@@ -1,0 +1,7 @@
+Given a list of names and email addresses, can you identify the domain names associated with each email address? 
+
+Input: [['ann chang', 'achang_maaker.com'], ['bobby smith', 'bobt_sphynx.uk.co'], ['art lennox', 'art.lennox_svxn.com'], ['smith bagshaw', 'smith_bbbbb.com']]
+
+Output: ['maaker.com', 'sphynx.uk.co', 'svxn.com', 'bbbbb.com']
+
+What are the domain names for each email address in the given list?

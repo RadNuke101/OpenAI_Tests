@@ -1,0 +1,1 @@
+Please provide me with a list of full names, each consisting of a first name and a last name. I will then generate a new list where each name is abbreviated to the first initial of the first name followed by the last name. For example, if you input [['John Doe'], ['Mayur Naik'], ['Nimit Singh']], I will output ['J Doe', 'M Naik', 'N Singh'].

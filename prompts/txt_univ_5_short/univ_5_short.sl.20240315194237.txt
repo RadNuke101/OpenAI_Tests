@@ -1,0 +1,5 @@
+Please provide the locations of the following universities in a consistent format: [['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['UCLA', 'Los Angeles, CA'], ['Cornell University', 'Ithaca, New York, USA'], ['Penn', 'Philadelphia, PA, USA'], ['University of Maryland College Park', 'College Park, MD'], ['University of Michigan', 'Ann Arbor, MI, USA'], ['Columbia University', 'New York, NY, USA'], ['NYU', 'New York, New York, USA']].
+
+Your task is to ensure that each location includes the city, state, and country (if applicable). Once you have completed this task, the output should display the corrected locations in the same order as the input. 
+
+For example, if the input is [['UCLA', 'Los Angeles, CA'], ['NYU', 'New York, New York, USA']], the correct output should be ['Los Angeles, CA, USA', 'New York, NY, USA'].

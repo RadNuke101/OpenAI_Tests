@@ -1,0 +1,1 @@
+Can you please provide the number of non-zero elements in each sublist of the following list: [['7 0 0 5 4 4'], ['0 0 2 3 3 0'], ['5 6 4 6 0 7'], ['0 4 5 0 0 2'], ['3 0 3 0 1 2'], ['5 3 2 5 6 1']]?

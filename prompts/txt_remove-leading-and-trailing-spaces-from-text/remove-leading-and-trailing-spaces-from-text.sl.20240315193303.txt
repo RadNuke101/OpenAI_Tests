@@ -1,0 +1,1 @@
+Please correct the formatting of the movie titles in the following list: [['  The shawshank'], ['The    godfather'], ['    pulp   fiction']]. Once corrected, please provide the list of movie titles in a more readable format.

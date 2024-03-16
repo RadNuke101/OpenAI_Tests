@@ -1,0 +1,5 @@
+Given a list of phone numbers in the format [['###-###-###'], extract the middle three digits from each phone number and return them as a list. 
+
+For example, from the phone number '938-242-504', extract '242' as the middle three digits. 
+
+Can you provide the middle three digits from each of the phone numbers in the following list: [['938-242-504'], ['308-916-545'], ['623-599-749'], ['981-424-843'], ['118-980-214'], ...]?

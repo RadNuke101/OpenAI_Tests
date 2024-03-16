@@ -1,0 +1,1 @@
+Please analyze the following list of numbers and provide the missing values based on the given input: [['7 0 0 5 4 4'], ['0 0 2 3 3 0'], ['5 6 4 6 0 7'], ['0 4 5 0 0 2'], ['3 0 3 0 1 2'], ['5 3 2 5 6 1']]. Your task is to determine the missing numbers in each set. Your output should consist of the missing numbers in the following order: ['3', '3', '4', '2', '2', '6'].

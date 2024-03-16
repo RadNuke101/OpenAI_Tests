@@ -1,0 +1,1 @@
+Please provide a list of codes, some of which include additional characters after the code itself. I will clean up the list by removing any extra characters and return the cleaned list of codes.

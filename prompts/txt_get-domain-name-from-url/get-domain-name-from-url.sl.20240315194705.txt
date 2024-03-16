@@ -1,0 +1,5 @@
+You have been given a list of URLs with different formats. Your task is to extract the main domain from each URL and remove any additional paths or parameters. 
+
+For example, if the input is [['https=//abc.com/def'], ['http=//www.abc.com/def/cef'], ['http=//chandoo.org/wp/def-def']], the expected output should be ['https=//abc.com/', 'http=//www.abc.com', 'http=//chandoo.org/']. 
+
+Please make sure to only keep the main domain and remove any extra paths or parameters to provide a clean and concise list of URLs.

@@ -1,0 +1,9 @@
+Please read the following sentences carefully and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. "Determine if the given sentences contain the words 'yellow', 'green', and 'dog'. If they do, mark it as 'true', otherwise mark it as 'false'."
+
+2. "Check if the sentences mention the colors 'yellow' and 'green' along with the word 'dog'. If they do, indicate 'true', otherwise indicate 'false'."
+
+3. "Identify whether the sentences include the colors 'yellow' and 'green' as well as the word 'dog'. If so, mark it as 'true', if not, mark it as 'false'."
+
+4. "Decide if the sentences feature the colors 'yellow' and 'green' in addition to the word 'dog'. If they do, label it as 'true', if not, label it as 'false'."

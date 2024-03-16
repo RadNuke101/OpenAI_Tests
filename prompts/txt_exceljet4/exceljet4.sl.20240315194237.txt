@@ -1,0 +1,1 @@
+Please provide a list of URLs, each starting with a protocol (e.g., https, ftp, sftp) followed by an equal sign and double slashes, and then the domain or IP address. I will extract the domain or IP address from each URL and provide you with a list of just the domains or IP addresses.

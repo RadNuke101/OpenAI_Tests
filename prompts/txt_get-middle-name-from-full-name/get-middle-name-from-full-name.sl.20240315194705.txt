@@ -1,0 +1,4 @@
+Please provide the middle names or initials of the individuals in the following list: [['susan ann chang'], ['ayako tanaka'], ['bobby t. smith'], ['anthony r. tom brown']]. Your task is to extract the middle names or initials and create a new list with them. 
+
+Input: [['susan ann chang'], ['ayako tanaka'], ['bobby t. smith'], ['anthony r. tom brown']]
+Output: ['ann', '', 't.', 'r. tom']

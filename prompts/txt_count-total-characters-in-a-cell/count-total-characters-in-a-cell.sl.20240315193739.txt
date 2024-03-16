@@ -1,0 +1,1 @@
+Please count the total number of characters in each sentence provided and provide the count as the output.

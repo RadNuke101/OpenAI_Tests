@@ -1,0 +1,1 @@
+Please provide the correct formatting for the following list of values: [['-%134'], ['500'], ['5.125'], ['-%43.00']]. Your task is to ensure that the values are correctly formatted without any unnecessary characters. Once you have made the necessary adjustments, please provide the updated list.

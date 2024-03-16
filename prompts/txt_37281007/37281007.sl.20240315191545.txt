@@ -1,0 +1,7 @@
+Please determine if the following pairs of strings have a specific relationship between them. For each pair, indicate if the second string is a substring of the first string. If it is, answer "true"; otherwise, answer "false".
+
+Input 1: ['ABC', 'D']
+Output 1: false
+
+Input 2: ['ABC', 'BC']
+Output 2: true

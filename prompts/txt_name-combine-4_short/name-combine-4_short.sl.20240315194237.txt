@@ -1,0 +1,1 @@
+Please format the list of names in the following way: [['Lastname1', 'Firstname1'], ['Lastname2', 'Firstname2'], ...]. I will then provide you with the formatted list of names with the last name followed by the first initial, as in ['Lastname1, F.', 'Lastname2, F.', ...].

@@ -1,0 +1,1 @@
+Given a list of countries grouped together, can you identify and separate the countries that are mentioned in each group? For example, if the input is [['india china japan'], ['indonesia korea']], can you determine the individual countries in each group and provide them separately?

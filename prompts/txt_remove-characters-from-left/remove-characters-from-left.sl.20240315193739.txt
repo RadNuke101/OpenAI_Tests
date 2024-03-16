@@ -1,0 +1,5 @@
+Please provide the cleaned version of the following list of alphanumeric strings by removing the numeric characters at the beginning of each string. 
+
+Input: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']]
+
+Output: ['234', '512A', 'DMX']

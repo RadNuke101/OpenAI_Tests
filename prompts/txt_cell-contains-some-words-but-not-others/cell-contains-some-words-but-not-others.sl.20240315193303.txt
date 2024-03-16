@@ -1,0 +1,1 @@
+For each set of words provided, determine if the colors 'red' and 'blue' are present in the phrase. If both colors are present, output 'true'. If only one or neither color is present, output 'false'.

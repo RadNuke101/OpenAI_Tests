@@ -1,0 +1,1 @@
+Please indicate whether the following colors are present in the list: yellow, gray, black, blue, pink, orange, and turkey. For each color, respond with 'true' if it is in the list and 'false' if it is not.

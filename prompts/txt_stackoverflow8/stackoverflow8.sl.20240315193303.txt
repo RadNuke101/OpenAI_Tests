@@ -1,0 +1,1 @@
+Please provide me with a list of file paths. Each file path should contain the location of a file and the name of the file itself. For example, [['home/Excel/Sheet1.xls'], ['home/user/Sheet1.xls']]. Based on this input, I will return a list of just the file names from each file path.

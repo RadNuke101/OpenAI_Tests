@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them in a format that includes the last name first, followed by a comma and then the first name. This new format will make it easier to identify individuals based on their last names.

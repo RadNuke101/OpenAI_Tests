@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them in a specific format. For each pair of first and last names, combine them with the last name first followed by a space and then the first name. Ensure that each pair is repeated three times. Finally, list all the rearranged pairs in the same order as the original list.

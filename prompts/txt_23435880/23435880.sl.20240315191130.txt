@@ -1,0 +1,1 @@
+Please count the number of times the word "apple" appears in the sentence "apple apples" and the number of times the word "orange" appears in the sentence "an orange among the oranges is a spoiled orange." Let me know the results.

@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please format them in a way that includes only the first initial of the last name followed by a period.

@@ -1,0 +1,1 @@
+For each pair of sentences provided, please count the number of times the second word appears in the first sentence. Then, provide the total count for each pair as the output.

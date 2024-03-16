@@ -1,0 +1,1 @@
+Given a list of names and their corresponding email domains, can you identify and provide a list of just the domains?

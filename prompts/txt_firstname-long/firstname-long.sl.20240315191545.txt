@@ -1,0 +1,1 @@
+Given a list of full names, your task is to extract and return only the first names of each individual.

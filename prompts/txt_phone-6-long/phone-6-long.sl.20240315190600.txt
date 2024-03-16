@@ -1,0 +1,1 @@
+Please provide a list of phone numbers in international format. I will extract the last three digits of each phone number and return them to you.

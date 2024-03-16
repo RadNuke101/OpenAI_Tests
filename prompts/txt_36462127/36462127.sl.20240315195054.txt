@@ -1,0 +1,5 @@
+Given a list of strings where each string represents a path separated by '/', your task is to identify the last element in each path. 
+
+For example, if the input is [['ABCDE/FGHI/JKL/MNOPQR'], ['A/ABCDE/FGHI/JKL']], the last elements in the paths are 'MNOPQR' and 'JKL'. 
+
+Can you provide the last elements of each path in the given list of strings?

@@ -1,0 +1,1 @@
+Combine the first initial of the first name with the last name to create a new format for each person's name. For example, 'Launa Withers' becomes 'L. Withers'. Can you generate the new format for each person's name based on the given input?

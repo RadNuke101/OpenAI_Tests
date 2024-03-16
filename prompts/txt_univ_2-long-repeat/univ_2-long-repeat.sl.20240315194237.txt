@@ -1,0 +1,1 @@
+Given a list of university names and their corresponding locations, your task is to format the data in a way that includes the country for each university. The output should consist of the university name, city, and country. Make sure to handle any duplicate entries by including the country information.

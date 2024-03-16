@@ -1,0 +1,8 @@
+Please determine if the following pairs of words are identical in terms of both spelling and case sensitivity. If they are, respond with "true"; if not, respond with "false".
+
+1. ['apple', 'apple'] - 
+2. ['orange', 'Orange'] - 
+3. ['peach', 'peach'] - 
+4. ['cherry', 'cherrY'] - 
+
+Provide your answers as a list of "true" or "false" corresponding to each pair of words.

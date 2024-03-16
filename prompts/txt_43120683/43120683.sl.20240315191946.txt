@@ -1,0 +1,1 @@
+Given a list of pairs where the first element is a number and the second element is a fruit, please generate a new list where each number is followed by the corresponding fruit in plural form. For example, if the input is [['one, 1'], ['two, 2'], ['three, 3'], ['four, 4']], the output should be ['one apple', 'two bananas', 'three strawberries', 'four oranges'].

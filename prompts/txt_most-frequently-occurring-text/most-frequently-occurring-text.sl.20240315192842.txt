@@ -1,0 +1,15 @@
+Please select the word that best fits the pattern in the following list of word sets: 
+
+1. cat, dog, cat
+2. blue, red, red
+3. firm, firm, soft
+4. soft, soft, soft
+
+Which word should come next in the pattern? 
+
+A) cat
+B) red
+C) firm
+D) soft
+
+Please choose the word that completes the sequence.

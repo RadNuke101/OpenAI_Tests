@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by replacing the hyphens with periods. 
+
+For example, if the input is [['938-242-504'], ['938-242-504']], the output should be ['938.242.504', '938.242.504']. 
+
+Please provide the updated phone numbers with periods instead of hyphens.

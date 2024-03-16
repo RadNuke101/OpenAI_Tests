@@ -1,0 +1,7 @@
+You have been given a list of phone numbers in a specific format. Each phone number consists of a country code, area code, and phone number separated by hyphens. Your task is to format these phone numbers in a more readable way by adding parentheses around the area code. 
+
+Write a program that takes the list of phone numbers as input and returns the formatted phone numbers with parentheses around the area code. 
+
+For example, if the input is [['+106 769-858-438'], ['+83 973-757-831']], the output should be ['+106 (769) 858-438', '+83 (973) 757-831']. 
+
+Your program should be able to handle any number of phone numbers in the input list.

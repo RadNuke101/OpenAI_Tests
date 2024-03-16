@@ -1,0 +1,6 @@
+Can you please extract the numerical values from the following sentences and provide them to me separately? The sentences are as follows: 
+1. '100 apples'
+2. 'the price is %500 dollars'
+3. 'serial number %003399'
+
+I will need the numbers extracted from each sentence in order to assist you further.

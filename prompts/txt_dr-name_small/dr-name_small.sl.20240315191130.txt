@@ -1,0 +1,1 @@
+Given a list of full names, please generate a list of titles followed by the first names of the individuals.

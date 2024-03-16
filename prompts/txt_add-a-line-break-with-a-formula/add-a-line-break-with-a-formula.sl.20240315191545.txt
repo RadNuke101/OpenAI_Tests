@@ -1,0 +1,1 @@
+Please format the given list of names, addresses, and locations into a more readable format.

@@ -1,0 +1,3 @@
+Please generate a list of countries from the given input. Each sublist contains multiple countries separated by spaces. Your task is to combine the countries within each sublist into a single string, separated by commas. Then, for each combined string of countries, extract the first two countries and create a new list with these pairs. 
+
+For example, given the input [['india china japan'], ['indonesia korea']], you should combine the countries within each sublist to get 'india china japan' and 'indonesia korea'. Then, extract the first two countries from each combined string to get 'india china' and 'indonesia'. This final list should be your output.

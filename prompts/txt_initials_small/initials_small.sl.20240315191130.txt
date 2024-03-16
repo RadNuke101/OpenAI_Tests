@@ -1,0 +1,1 @@
+Given a list of full names, please provide the abbreviated form of each name by taking the first letter of the first name and the first letter of the last name, separated by a period.

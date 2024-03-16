@@ -1,0 +1,3 @@
+Please correct the following fruit names by removing the numbers at the end: [['apples30', '7'], ['peaches24', '8'], ['peaches0', '8'], ['pears', '6']].
+
+Corrected fruit names: ['apples', 'peaches', 'peaches', 'pears'].

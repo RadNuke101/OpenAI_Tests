@@ -1,0 +1,1 @@
+Please provide me with a list of alphanumeric strings, each accompanied by a numerical value. I will then remove the first character from each string based on the corresponding numerical value and return the modified strings. For example, given [['1234', '1'], ['**512A', '2'], ['343DMX', '3']], I will output ['234', '512A', 'DMX'].

@@ -1,0 +1,3 @@
+Please transform the following list of values into a more readable format by removing any unnecessary characters and symbols: [['-%134'], ['500'], ['5.125'], ['-%43.00']].
+
+After the transformation, the output should be: ['%134', '500', '5.125', '%43.00'].

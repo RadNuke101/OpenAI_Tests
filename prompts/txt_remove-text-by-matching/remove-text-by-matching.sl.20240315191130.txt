@@ -1,0 +1,1 @@
+Please remove the dashes and combine the numbers in the following phone numbers to create a new list: [['801-345-1987'], ['612-554-2000']].

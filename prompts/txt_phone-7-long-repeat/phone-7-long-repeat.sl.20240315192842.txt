@@ -1,0 +1,7 @@
+Given a list of phone numbers in the format [['+Country Code Phone Number'], ...], your task is to extract the last three digits of each phone number. These three digits represent a unique identifier for each phone number. 
+
+Write a function that takes the input list of phone numbers and returns a list of the last three digits of each phone number. 
+
+For example, if the input is [['+106 769-858-438'], ['+83 973-757-831'], ...], the output should be ['858', '757', ...]. 
+
+Please write the function to achieve this task.

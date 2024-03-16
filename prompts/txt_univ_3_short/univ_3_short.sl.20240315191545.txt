@@ -1,0 +1,1 @@
+Given a list of universities and their locations, please provide a prompt that will return a list of the corresponding cities and states in a grammatically correct format.

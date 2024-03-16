@@ -1,0 +1,6 @@
+Please extract the relevant information from the following text and provide it in a clear and concise manner:
+
+Input: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']]
+Output: [' jim mcdonald', ' price is ', ' apples']
+
+Describe the relationship between the inputs and outputs.

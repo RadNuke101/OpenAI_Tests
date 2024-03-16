@@ -1,0 +1,1 @@
+Please rearrange the following lists of numbers in ascending order: [['101'], ['1002'], ['743']].

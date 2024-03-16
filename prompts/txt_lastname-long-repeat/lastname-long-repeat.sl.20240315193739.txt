@@ -1,0 +1,1 @@
+You have a list of full names and you need to extract the last names from each full name. Your task is to generate a prompt that will return a list of last names when given a list of full names. Make sure to account for the grammar and structure of the input and output.

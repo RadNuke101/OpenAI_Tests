@@ -1,0 +1,1 @@
+Please generate a list of locations based on the given list of universities. Each location should include the city and state, with the state abbreviated as "USA" at the end.

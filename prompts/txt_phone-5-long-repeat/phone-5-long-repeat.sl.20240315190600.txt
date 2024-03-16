@@ -1,0 +1,11 @@
+Given a list of phone numbers with country codes, your task is to extract the country codes from each phone number. The country code is the set of digits that appear before the first space in each phone number. 
+
+For example, from the phone number '+106 769-858-438', the country code is '106'. 
+
+Please write a function that takes a list of phone numbers as input and returns a list of the corresponding country codes. 
+
+Input: [['+106 769-858-438'], ['+106 769-858-438'], ['+106 769-858-438'], ...]
+
+Output: ['106', '106', '106', '83', '83', '83', ...]
+
+Make sure to handle the grammar correctly and provide the country codes in the same order as the input phone numbers.

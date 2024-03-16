@@ -1,0 +1,1 @@
+Please extract the numerical values from the following sentences and provide them as a list: [['100 apples'], ['the price is %500 dollars'], ['serial number %003399']].

@@ -1,0 +1,1 @@
+Please provide a list of date ranges in the format [['MM/DD/YY-MM/DD/YY', '1'], ['MM/DD/YY-MM/DD/YY', '2'], ...]. I will extract the start and end dates from each range and return them as a list of individual dates in the format ['MM/DD/YY', 'MM/DD/YY', ...].

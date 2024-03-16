@@ -1,0 +1,1 @@
+I have a list of software versions in various formats. Your task is to extract the version numbers from each entry. For example, from 'AIX 5.1', you should extract '5.1'. Can you provide me with the version numbers extracted from each entry in the list?

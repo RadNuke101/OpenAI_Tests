@@ -1,0 +1,9 @@
+Please read the following sentences and determine if the given colors match the descriptions provided:
+
+1. "A yellow dog on green grass."
+2. "A warm gray sweater."
+3. "Blue neon signs."
+4. "Hot pink socks."
+5. "Deep black eyes."
+
+For each sentence, indicate if the colors mentioned match the specified criteria.

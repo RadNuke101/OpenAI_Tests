@@ -1,0 +1,5 @@
+Please provide the distances in miles for the following trips: [['736 miles'], ['1255 miles'], ['1221 miles'], ['790 miles']].
+
+After processing the information, the distances for the trips are: ['736', '1255', '1221', '790'].
+
+Thank you for your input!

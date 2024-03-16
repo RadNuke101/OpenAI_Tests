@@ -1,0 +1,1 @@
+Please provide me with a list of company names in the format [['Name= Company Name']]. I will extract the company names from the input and provide you with a refined list of just the company names. For example, if you input [['Name= ABC Retailers'], [' ame= XYZ Suppliers']], I will return ['ABC Retailers', 'XYZ Suppliers'].

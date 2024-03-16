@@ -1,0 +1,1 @@
+Given a list of names, each representing a person, your task is to generate a list of titles for each person. The titles should be in the format "Dr. [First Name]". For example, if the input is [['John Doe'], ['Jane Smith']], the output should be ['Dr. John', 'Dr. Jane']. Create a prompt that will guide you to generate the correct list of titles for the given list of names.

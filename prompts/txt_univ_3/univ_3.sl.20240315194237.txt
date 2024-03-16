@@ -1,0 +1,1 @@
+Please generate a list of locations based on the given list of universities. Each university is associated with a specific location. Your task is to extract the locations from the list of universities and provide them in a standardized format. The output should include the city and state abbreviation, if applicable, followed by "USA" for consistency.

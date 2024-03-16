@@ -1,0 +1,1 @@
+Please select the word that best describes the common characteristic among the following groups of words: ['cat', 'dog', 'cat'], ['blue', 'red', 'red'], ['firm', 'firm', 'soft'], ['soft', 'soft', 'soft']. The correct answer should be a single word that represents the common theme among all the groups.

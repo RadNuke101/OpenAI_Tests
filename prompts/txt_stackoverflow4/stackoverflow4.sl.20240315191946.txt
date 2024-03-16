@@ -1,0 +1,1 @@
+Please format the given list of color codes in a more readable way by removing the unnecessary characters and separating the color components with spaces.

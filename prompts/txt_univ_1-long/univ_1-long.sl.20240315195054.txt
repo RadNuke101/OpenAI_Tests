@@ -1,0 +1,1 @@
+Given a list of universities and their locations, please generate a prompt that will return the list of universities with their respective locations.

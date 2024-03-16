@@ -1,0 +1,1 @@
+Please determine whether the given list of projects falls under a specific category. If a project is labeled as "some project" or "other project," it should be marked as true. However, if a project is labeled as "overhead," it should be marked as false. Evaluate each project list accordingly and provide the corresponding output of true or false.

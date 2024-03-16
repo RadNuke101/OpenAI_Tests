@@ -1,0 +1,1 @@
+Please provide a list of text messages containing dates and times in the format of "Month Day, Year, Hour=Minute AM/PM - Phone Number= Message". I will extract and return just the dates and times for each message.

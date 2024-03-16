@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. Each phone number is currently represented as a list containing a single string with the format 'XXX-XXX-XXX'. Your goal is to transform each phone number into a string with the format '(XXX) XXX-XXX'. 
+
+For example, the phone number '938-242-504' should be transformed into '(938) 242-504'. 
+
+Please write a function that takes the list of phone numbers as input and returns a new list with each phone number formatted correctly.

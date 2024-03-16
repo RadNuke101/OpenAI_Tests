@@ -1,0 +1,1 @@
+Please extract the relevant information from the following lists of items and descriptions. Your task is to identify and list the specific details related to passengers and boxes. Pay attention to the format and structure of the information provided. What are the details that include the words "PAX" and "BOX" in the given input?

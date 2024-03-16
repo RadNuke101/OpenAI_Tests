@@ -1,0 +1,1 @@
+Please provide a list of full names in the format [['First Last'], ['First Last'], ...]. I will then generate a list of initials for each name in the format ['First Initial.Last Initial.', 'First Initial.Last Initial.', ...].

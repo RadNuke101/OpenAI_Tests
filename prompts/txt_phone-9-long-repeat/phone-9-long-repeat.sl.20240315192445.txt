@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by adding periods after every three digits. The input consists of phone numbers in the format [['+xxx xxx-xxx-xxx'], ...] and the output should be a list of phone numbers in the format ['xxx.xxx.xxx.xxx', ...].

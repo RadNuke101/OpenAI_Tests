@@ -1,0 +1,1 @@
+Please provide a list of phone numbers in the format [['xxx-xxx-xxx'], ['xxx-xxx-xxx'], ...]. I will extract the first three digits of each phone number and return them in a new list.

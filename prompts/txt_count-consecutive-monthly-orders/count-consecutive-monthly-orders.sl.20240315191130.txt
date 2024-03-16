@@ -1,0 +1,1 @@
+Please analyze the given list of lists containing numbers. For each sublist, determine the number of non-zero elements present. Provide the count for each sublist in the same order as the input.

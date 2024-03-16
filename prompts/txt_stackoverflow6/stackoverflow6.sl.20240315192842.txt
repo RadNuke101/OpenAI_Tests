@@ -1,0 +1,1 @@
+Please extract the text after the '=' symbol in each sentence and provide it as a list.

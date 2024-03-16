@@ -1,0 +1,13 @@
+Please rearrange the following sentences in the correct order to form a coherent statement: 
+
+1. 'I love apples'
+2. 'I hate bananas'
+3. 'banana'
+
+Once you have rearranged the sentences, please do the same for the following set of sentences:
+
+1. 'I love apples'
+2. 'I hate bananas'
+3. 'apple'
+
+Your final answer should be a reordering of the sentences that makes sense in the context of expressing preferences for fruits.

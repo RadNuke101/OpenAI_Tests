@@ -1,0 +1,1 @@
+Please rearrange the following information to form a coherent sentence: [['year= 2016'], ['make= subaru'], ['model= outback wagon'], ['fuel economy= 25/33']].

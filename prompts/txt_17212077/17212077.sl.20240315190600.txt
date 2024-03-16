@@ -1,0 +1,7 @@
+Please format the dates in the following list to display only the month and year:
+
+[['01/15/2013'], ['03/07/2011'], ['05/09/2009']]
+
+After formatting, the list should look like this:
+
+['01/2013', '03/2011', '05/2009']

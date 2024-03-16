@@ -1,0 +1,1 @@
+Given a list of full names of individuals, your task is to generate a list of titles with the first names of those individuals. For example, if the input is [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']], the output should be ['Dr. Nancy', 'Dr. Andrew', 'Dr. Jan', 'Dr. Mariya']. Remember to add the title "Dr." before each first name.

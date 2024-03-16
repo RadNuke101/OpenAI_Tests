@@ -1,0 +1,1 @@
+Please provide me with a list of nested strings where each string represents a level in a hierarchy. For example, [['one'], ['one/ntwo'], ['one/ntwo/nthree']]. I will then assign a numerical value to each level in the hierarchy. What would be the numerical values for the given hierarchy?

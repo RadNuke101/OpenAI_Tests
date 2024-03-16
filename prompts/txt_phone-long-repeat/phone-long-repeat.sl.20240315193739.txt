@@ -1,0 +1,1 @@
+Given a list of phone numbers, each represented as a list of strings with the format '###-###-###', extract the first three digits of each phone number and create a new list with these extracted digits. The new list will contain the first three digits of each phone number in the same order as the original list.

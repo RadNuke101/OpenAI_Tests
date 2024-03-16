@@ -1,0 +1,5 @@
+Please clean up the following list of values by removing any unnecessary characters and formatting them correctly. 
+
+Input: [['-%134'], ['500'], ['5.125'], ['-%43.00']]
+
+Output: ['%134', '500', '5.125', '%43.00']

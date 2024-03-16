@@ -1,0 +1,7 @@
+Please read the following sentences and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. "Given a list of sentences containing specific colors and objects, determine if the sentences include the words 'yellow', 'green', and 'dog'. Return 'true' if all three words are present, and 'false' if any of the words are missing."
+2. "Analyze a series of sentences mentioning colors and objects. If the sentences mention 'yellow', 'green', and 'dog', output 'true'; otherwise, output 'false'."
+3. "Review sentences featuring colors and objects. If the sentences contain the words 'yellow', 'green', and 'dog', mark them as 'true'; otherwise, mark them as 'false'."
+
+Please select the sentence that accurately describes the relationship between the inputs and outputs provided.

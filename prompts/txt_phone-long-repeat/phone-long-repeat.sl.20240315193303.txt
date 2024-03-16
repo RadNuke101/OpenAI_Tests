@@ -1,0 +1,1 @@
+Given a list of phone numbers in the format [['xxx-xxx-xxx'], ['xxx-xxx-xxx'], ...], can you extract the first three digits of each phone number and create a new list with these digits repeated three times each?

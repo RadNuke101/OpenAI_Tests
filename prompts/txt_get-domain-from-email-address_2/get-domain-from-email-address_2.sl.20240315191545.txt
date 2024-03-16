@@ -1,0 +1,6 @@
+Given a list of names and email addresses, please provide the username part of each email address. 
+
+Input: [['ann chang', 'achang_maaker.com'], ['bobby smith', 'bobt_sphynx.uk.co'], ['art lennox', 'art.lennox_svxn.com']]
+Output: ['achang', 'bobt', 'art.lennox']
+
+What are the usernames associated with the email addresses provided?

@@ -1,0 +1,5 @@
+Given a list of plant species with varying levels of taxonomic classification, your task is to simplify the names by removing any additional taxonomic information. For example, if the input is [['Polygonum amphibium']], the output should be ['Polygonum']. Can you provide the simplified names of the following plant species? 
+
+Input: [['Polygonum amphibium'], ['Hippuris vulgaris'], ['Lysimachia vulgaris'], ['Juncus bulbosus ssp. bulbosus'], ['Lycopus europaeus ssp. europaeus'], ['Nymphaea alba']] 
+
+Output: ['Polygonum', 'Hippuris', 'Lysimachia', 'Juncus bulbosus', 'Lycopus europaeus', 'Nymphaea']

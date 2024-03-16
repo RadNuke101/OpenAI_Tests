@@ -1,0 +1,6 @@
+Please rearrange the names in the following format: Last name, First name. 
+
+Input: [['chang,amy'], ['smith,bobby'], ['lennox,aaron']]
+Output: ['amy,chang', 'bobby,smith', 'aaron,lennox']
+
+Can you please provide the names in the correct order?

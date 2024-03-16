@@ -1,0 +1,1 @@
+For each pair of sentences provided, determine if the second sentence contains a specific word from the first sentence. If the word is present, output 'true', otherwise output 'false'.

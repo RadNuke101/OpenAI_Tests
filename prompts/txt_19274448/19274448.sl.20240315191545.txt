@@ -1,0 +1,6 @@
+Please determine if the following strings contain the pattern '999' within them. 
+
+Input 1: 'dhfjd9999999dfda'
+Input 2: 'ddsss999dfdfsfd'
+
+For each input, indicate 'true' if the pattern '999' is present, and 'false' if it is not.

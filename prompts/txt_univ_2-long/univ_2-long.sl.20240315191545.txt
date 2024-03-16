@@ -1,0 +1,1 @@
+Given a list of universities and their locations, please format the list to include the full address for each university, including the city, state, and country (if applicable).

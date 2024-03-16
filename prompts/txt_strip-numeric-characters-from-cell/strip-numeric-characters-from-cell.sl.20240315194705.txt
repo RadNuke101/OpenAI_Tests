@@ -1,0 +1,1 @@
+Please extract the relevant information from the following text: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']].

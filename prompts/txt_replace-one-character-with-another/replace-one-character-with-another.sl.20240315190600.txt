@@ -1,0 +1,6 @@
+Please format the phone numbers in the following list by adding dashes between the numbers. 
+
+Input: [['801 456 8756'], ['978 456 8756']]
+Output: ['801-456-8756', '978-456-8756']
+
+Can you please provide the formatted phone numbers as shown in the output?

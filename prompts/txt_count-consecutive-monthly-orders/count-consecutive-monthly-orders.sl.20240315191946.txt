@@ -1,0 +1,1 @@
+Can you please provide the numbers in the third column of each row from the given matrix?

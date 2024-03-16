@@ -1,0 +1,1 @@
+You have a list of fruits and their corresponding numbers. Each fruit corresponds to a specific number. Your task is to create a new list where each number is followed by the name of a fruit. Remember to use the correct grammar when combining the numbers and fruit names.

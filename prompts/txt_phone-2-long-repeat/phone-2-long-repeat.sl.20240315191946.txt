@@ -1,0 +1,5 @@
+Given a list of phone numbers, each represented as a list of strings with the format '###-###-###', your task is to extract the last three digits of each phone number and create a new list containing these three-digit sequences. 
+
+To achieve this, you need to iterate through the input list and for each phone number, extract the last three digits. Finally, compile these three-digit sequences into a new list.
+
+Can you generate a prompt that will accomplish this task?

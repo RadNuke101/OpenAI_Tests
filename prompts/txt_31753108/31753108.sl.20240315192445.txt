@@ -1,0 +1,7 @@
+Please provide me with a list of devices and their corresponding serial numbers. I will extract the serial numbers for you. For example, if you provide me with the following list:
+
+1. Tire Pressure ABC123873 Monitor
+2. Oil Life ABC849999999021 gauge
+3. Air conditioner GHF211 maintenance
+
+I will return the extracted serial numbers for you.

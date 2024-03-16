@@ -1,0 +1,1 @@
+Please provide a list of birth records in the format [['geb. DD MMM YYYY Location']], and I will extract the locations for you.

@@ -1,0 +1,1 @@
+Please count the total number of characters in each phrase provided and provide the sum.

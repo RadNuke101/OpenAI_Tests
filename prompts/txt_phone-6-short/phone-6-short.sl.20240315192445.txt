@@ -1,0 +1,1 @@
+Please provide a list of phone numbers in international format, each containing a country code and a series of numbers separated by hyphens. I will extract and return the second set of numbers from each phone number.

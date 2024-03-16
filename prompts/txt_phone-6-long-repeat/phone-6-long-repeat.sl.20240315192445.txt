@@ -1,0 +1,1 @@
+Given a list of phone numbers in the format [['+Country Code Phone Number'], ['+Country Code Phone Number'], ...], can you extract and return the phone numbers from each entry?

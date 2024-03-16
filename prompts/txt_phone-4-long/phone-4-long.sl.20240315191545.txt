@@ -1,0 +1,1 @@
+Please format the given list of phone numbers into a more readable format with periods separating the digits.

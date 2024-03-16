@@ -1,0 +1,1 @@
+When provided with a list of phone numbers in a specific format, you are able to extract the last three digits of each phone number. These extracted digits represent a unique pattern or sequence within the phone numbers. Your task is to generate a prompt that will return these extracted digits when given a list of phone numbers.

@@ -1,0 +1,1 @@
+Given a list of full names, your task is to extract and return only the first names. This will involve splitting each full name into its first and last name components, and then returning just the first name. Your prompt should ask the user to provide a list of full names and specify that you will extract and return only the first names.

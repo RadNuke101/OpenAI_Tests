@@ -1,0 +1,1 @@
+Please provide a list of plant names in a specific format, with each name enclosed in square brackets and separated by commas. I will then transform the names by removing any additional information after the first word in each name. For example, if you input [['Polygonum amphibium'], ['Hippuris vulgaris']], I will return ['Polygonum', 'Hippuris'].

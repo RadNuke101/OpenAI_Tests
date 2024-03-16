@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them in a way that the last name comes before the first name. This will involve switching the order of each pair of names.

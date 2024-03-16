@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them in a specific format. For each pair of first and last names, combine them with the last name first followed by a space and then the first name. Ensure that the names are separated by a comma and a space. Return the rearranged list of names in the specified format.

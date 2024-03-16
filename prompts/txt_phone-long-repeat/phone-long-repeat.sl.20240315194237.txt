@@ -1,0 +1,1 @@
+Please generate a list of unique area codes from the given list of phone numbers. Each phone number in the input list consists of a phone number in the format 'XXX-XXX-XXX', where 'XXX' represents the area code. Your task is to extract and list all unique area codes from the input list.

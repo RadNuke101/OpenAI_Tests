@@ -1,0 +1,1 @@
+When provided with a list of names in the format [['First Name', 'Last Name']], I can help you format these names in a specific way. For example, if you give me [['Launa', 'Withers'], ['Launa', 'Withers'], ['Launa', 'Withers']], I can return ['Withers, L.', 'Withers, L.', 'Withers, L.']. Let me know if you need assistance with formatting names in this manner.

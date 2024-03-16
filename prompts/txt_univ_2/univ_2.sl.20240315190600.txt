@@ -1,0 +1,5 @@
+Given a list of university names and their locations, your task is to format the information correctly by including the country in the location if it is missing. Here is an example input: [['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['UCLA', 'Los Angeles, CA'], ['Cornell University', 'Ithaca, New York, USA'], ['Penn', 'Philadelphia, PA, USA'], ['University of Maryland College Park', 'College Park, MD'], ['University of Michigan', 'Ann Arbor, MI, USA']]
+
+Your task is to ensure that each university name is followed by its location, including the country if it is missing. Your output should look like this: ['University of Pennsylvania, Phialdelphia, PA, USA', 'UCLA, Los Angeles, CA, USA', 'Cornell University, Ithaca, New York, USA', 'Penn, Philadelphia, PA, USA', 'University of Maryland College Park, College Park, MD, USA', 'University of Michigan, Ann Arbor, MI, USA'].
+
+Please format the university locations correctly by adding the country if it is missing.

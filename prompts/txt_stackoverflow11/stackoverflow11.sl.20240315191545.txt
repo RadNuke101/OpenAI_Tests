@@ -1,0 +1,9 @@
+Given a list of strings containing various information such as codes, descriptions, and quantities, your task is to identify and extract specific phrases related to passengers and boxes. 
+
+For example, from the input [['2283-332-44543 CAP DDT PPL445_ HEEN PAX 77820']], you should focus on the phrase 'HEEN PAX 77820' which indicates passenger information.
+
+Similarly, from the input [['44372-33-3223 TYYTE CAP BOX 1550 244 BOX PPSSA223_ PAX']], you should pay attention to the phrase 'PAX' which refers to passengers and 'BOX 1550 244 BOX PPSSA223_' which indicates box information.
+
+Lastly, from the input [['PRECISE 77 CLEAR BLUE 99WIE_ BOX 4403 PAX SSKA']], you should extract the phrase 'BOX 4403 PAX SSKA' which contains both box and passenger details.
+
+By identifying and extracting these specific phrases related to passengers and boxes, you can provide valuable information to assist in organizing and managing the items effectively.

@@ -1,0 +1,1 @@
+Given a list of names in the format [['last_name', 'first_name']], please generate a list of email addresses by combining the first letter of the first name with the last name, followed by '_acme.com'. For example, if the input is [['brown', 'traci'], ['thomas', 'linda'], ['ward', 'jack']], the output should be ['tbrown_acme.com', 'lthomas_acme.com', 'jward_acme.com'].

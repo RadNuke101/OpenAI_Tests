@@ -1,0 +1,1 @@
+Please provide the key word that is the focus of each phrase in the following list: [['focus on one thing at a time'], ['premature opt is the root of all evil'], ['where is life']].

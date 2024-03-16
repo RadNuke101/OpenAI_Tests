@@ -1,0 +1,1 @@
+Please separate the countries listed in each group with commas. For example, if the input is [['india, china, japan'], ['indonesia, korea']], the output should be ['india, china', 'indonesia'].

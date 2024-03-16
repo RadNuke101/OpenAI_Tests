@@ -1,0 +1,1 @@
+For each list of projects provided, determine if the project "some project" is included. If "some project" is included in the list, output "true"; otherwise, output "false".

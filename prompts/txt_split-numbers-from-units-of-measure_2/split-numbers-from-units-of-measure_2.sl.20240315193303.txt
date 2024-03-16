@@ -1,0 +1,3 @@
+Please provide the unit of measurement for each item in the following list: [['80v', '3'], ['10hrs', '3'], ['7h', '2'], ['500m', '4']].
+
+After analyzing the input, please arrange the units of measurement in the order they appear in the list.

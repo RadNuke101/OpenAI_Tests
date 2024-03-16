@@ -1,0 +1,1 @@
+Please generate a list of cities and their corresponding states or countries based on the given list of universities. Each city should be followed by its state or country, and if a city appears multiple times, include it only once in the list.

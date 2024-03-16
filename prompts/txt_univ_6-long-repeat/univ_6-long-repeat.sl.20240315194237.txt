@@ -1,0 +1,1 @@
+Given a list of universities and their respective locations, please generate a prompt that will return a list of formatted locations including the city and state, with "USA" added if applicable.

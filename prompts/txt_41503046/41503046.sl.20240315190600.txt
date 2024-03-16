@@ -1,0 +1,10 @@
+Please provide the scientific names of the following plants and I will return their corresponding common names:
+
+1. Polygonum amphibium
+2. Hippuris vulgaris
+3. Lysimachia vulgaris
+4. Juncus bulbosus ssp. bulbosus
+5. Lycopus europaeus ssp. europaeus
+6. Nymphaea alba
+
+Once you provide the scientific names, I will give you the common names of these plants.

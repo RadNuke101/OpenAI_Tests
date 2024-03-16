@@ -1,0 +1,1 @@
+Please provide me with a list of strings containing file paths. I will then extract the last two directories from each path and return them as a list. For example, given the input [['ABCDE/FGHI/JKL/MNOPQR'], ['A/ABCDE/FGHI/JKL']], I will output ['MNOPQR', 'JKL'].

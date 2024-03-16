@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by replacing the hyphens with periods. The input consists of nested lists, where each inner list contains a single phone number. Your goal is to transform each phone number into the desired format and return a list of these formatted phone numbers. 
+
+For example, if the input is [['123-456-789'], ['987-654-321']], the output should be ['123.456.789', '987.654.321']. 
+
+Please write a function that takes the input described above and returns the formatted phone numbers as specified.

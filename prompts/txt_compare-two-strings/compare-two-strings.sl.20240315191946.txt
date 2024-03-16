@@ -1,0 +1,8 @@
+Please determine if the following pairs of words are identical (case-sensitive) and provide 'true' if they are, and 'false' if they are not:
+
+1. apple and apple
+2. orange and Orange
+3. peach and peach
+4. cherry and cherrY
+
+What is the correct output for each pair?

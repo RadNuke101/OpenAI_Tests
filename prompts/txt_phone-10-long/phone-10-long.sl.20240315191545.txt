@@ -1,0 +1,3 @@
+You have been given a list of phone numbers in a specific format. Each phone number consists of a country code, area code, and phone number separated by hyphens. Your task is to format these phone numbers in a more user-friendly way by adding parentheses around the area code. 
+
+Given the list of phone numbers, your prompt should return the formatted phone numbers with the area code enclosed in parentheses.

@@ -1,0 +1,1 @@
+Please provide me with a list of software versions. I will extract the version numbers from each input and return them to you in a neat list.

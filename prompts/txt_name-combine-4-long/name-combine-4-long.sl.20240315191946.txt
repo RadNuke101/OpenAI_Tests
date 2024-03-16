@@ -1,0 +1,1 @@
+Please provide a list of names in the format [['First Name', 'Last Name'], ...]. I will then generate a list of names in the format ['Last Name, Initial.'] based on the input you provide.

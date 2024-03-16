@@ -1,0 +1,1 @@
+For each set of numbers provided in the following format: [['7 0 0 5 4 4'], ['0 0 2 3 3 0'], ['5 6 4 6 0 7'], ['0 4 5 0 0 2'], ['3 0 3 0 1 2'], ['5 3 2 5 6 1']], please determine the highest number in each set. Your task is to identify and list the highest number from each set.

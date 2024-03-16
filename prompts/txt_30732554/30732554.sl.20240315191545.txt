@@ -1,0 +1,1 @@
+Please format the given list of items by removing any unnecessary characters and spaces.

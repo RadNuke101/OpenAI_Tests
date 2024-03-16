@@ -1,0 +1,1 @@
+Please provide a list of full names in the format [['First Name Last Name'], ['First Name Last Name'], ...]. I will extract the last names from each full name and return them in a list.

@@ -1,0 +1,1 @@
+Given a list of universities and their locations in the format [['University Name', 'City, State, Country']], can you please generate a prompt that will return the list of universities with their respective locations, maintaining the same format and order as the input?

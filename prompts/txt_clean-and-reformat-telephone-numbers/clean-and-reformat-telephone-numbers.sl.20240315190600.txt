@@ -1,0 +1,1 @@
+Please format the phone numbers in the list below to remove any special characters and spaces, so that they are in a standard numerical format.

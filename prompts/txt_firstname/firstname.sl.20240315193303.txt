@@ -1,0 +1,8 @@
+Please provide the first and last names of the individuals listed below, and I will return their first names only:
+
+1. Nancy FreeHafer
+2. Andrew Cencici
+3. Jan Kotas
+4. Mariya Sergienko
+
+Output: ['Nancy', 'Andrew', 'Jan', 'Mariya']

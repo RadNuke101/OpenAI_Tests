@@ -1,0 +1,6 @@
+Please determine if the following pairs of strings have a specific relationship and provide the corresponding output:
+
+1. Pair: 'ABC' and 'D'
+2. Pair: 'ABC' and 'BC'
+
+For each pair, indicate if the second string is a subset of the first string. Respond with 'true' if the second string is a subset of the first string, and 'false' if it is not.

@@ -1,0 +1,1 @@
+Please generate a list of cities and states for the universities provided in the input.

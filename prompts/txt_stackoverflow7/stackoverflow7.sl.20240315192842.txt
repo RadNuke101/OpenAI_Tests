@@ -1,0 +1,1 @@
+Given a list of items with their corresponding model numbers, can you please provide a revised list with just the item names and any additional details such as specific model numbers? For example, if the input is [['Item 1 AQ-S810W-2AVDF', 'AQ-S810W-2AVDF'], ['Item 2 AQ-230A-1DUQ', 'AQ-230A']], the output should be ['Item 1', 'Item 2 -1DUQ'].

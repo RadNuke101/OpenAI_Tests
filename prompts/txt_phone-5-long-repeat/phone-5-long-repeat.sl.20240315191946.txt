@@ -1,0 +1,5 @@
+Given a list of phone numbers with country codes, your task is to extract the country codes from each phone number and create a new list containing only the country codes. Each phone number is represented as a list of strings, where the country code is the first element in each list.
+
+For example, if the input is [['+106 769-858-438'], ['+83 973-757-831']], the output should be ['106', '83'].
+
+Now, generate a prompt that will return the output when given the input.

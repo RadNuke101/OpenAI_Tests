@@ -1,0 +1,1 @@
+Given the list of input values representing dimensions and quantities, calculate the total number of characters in each element. For example, in the first element '100x15x50', there are a total of 7 characters. In the second element 'cat-in-the-hat', there are a total of 11 characters. Calculate the total number of characters in each element and provide the results as output.

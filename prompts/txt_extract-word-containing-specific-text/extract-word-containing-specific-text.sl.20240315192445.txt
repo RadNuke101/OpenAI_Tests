@@ -1,0 +1,5 @@
+Please provide the email addresses mentioned in the following tasks: 
+1. Send an email to json_acme.com
+2. Contact help_robot.com for all support requests. 
+
+What are the email addresses you need to retrieve?

@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by adding periods after every three digits. The input consists of phone numbers in a nested list format, and the output should be a list of the same phone numbers but with periods added for better readability.

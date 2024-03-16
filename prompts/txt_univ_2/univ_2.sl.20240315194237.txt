@@ -1,0 +1,5 @@
+Given a list of universities and their locations in the format [['University Name', 'City, State, Country']], can you please format the list to include the country for each university? 
+
+Input: [['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['UCLA', 'Los Angeles, CA'], ['Cornell University', 'Ithaca, New York, USA'], ['Penn', 'Philadelphia, PA, USA'], ['University of Maryland College Park', 'College Park, MD'], ['University of Michigan', 'Ann Arbor, MI, USA']]
+
+Output: ['University of Pennsylvania, Phialdelphia, PA, USA', 'UCLA, Los Angeles, CA, USA', 'Cornell University, Ithaca, New York, USA', 'Penn, Philadelphia, PA, USA', 'University of Maryland College Park, College Park, MD, USA', 'University of Michigan, Ann Arbor, MI, USA']

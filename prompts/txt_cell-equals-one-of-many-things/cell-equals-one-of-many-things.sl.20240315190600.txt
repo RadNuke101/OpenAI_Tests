@@ -1,0 +1,17 @@
+Please indicate whether the following colors are primary colors or not by typing 'true' or 'false' for each color:
+
+1. Yellow
+2. Gray
+3. Black
+4. Blue
+5. Pink
+6. Orange
+7. Turkey
+
+Is 'yellow' a primary color? (true/false)
+Is 'gray' a primary color? (true/false)
+Is 'black' a primary color? (true/false)
+Is 'blue' a primary color? (true/false)
+Is 'pink' a primary color? (true/false)
+Is 'orange' a primary color? (true/false)
+Is 'turkey' a primary color? (true/false)

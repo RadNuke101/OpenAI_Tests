@@ -1,0 +1,7 @@
+Please create email addresses for the following individuals by combining their last names and first initials with the domain name "acme.com":
+
+1. Traci Brown
+2. Linda Thomas
+3. Jack Ward
+
+Combine the first initial of the first name with the last name for each individual to create their email address.

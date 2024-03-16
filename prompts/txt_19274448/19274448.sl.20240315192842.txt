@@ -1,0 +1,7 @@
+Please determine if the following strings contain the pattern '999' repeated three times consecutively. 
+
+Input 1: 'dhfjd9999999dfda'
+Input 2: 'ddsss999dfdfsfd'
+
+Are the patterns present in the strings?
+Output: 'true', 'false'

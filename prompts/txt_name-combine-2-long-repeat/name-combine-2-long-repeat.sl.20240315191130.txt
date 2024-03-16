@@ -1,0 +1,1 @@
+You have a list of full names in the format of [['First Name', 'Last Name']]. Your task is to generate a new list where each full name is abbreviated to just the first initial of the first name followed by a period and the last name. Make sure to maintain the original order of the names.

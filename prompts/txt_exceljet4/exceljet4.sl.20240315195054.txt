@@ -1,0 +1,1 @@
+Please provide a list of URLs with different protocols, such as 'https', 'ftp', or 'sftp'. I will extract the domain names and paths from each URL and provide you with a clean list of just the domain names and paths.

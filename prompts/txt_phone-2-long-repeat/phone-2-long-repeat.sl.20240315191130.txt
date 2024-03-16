@@ -1,0 +1,1 @@
+Given a list of phone numbers with repeated area codes, your task is to extract the unique area codes from each phone number. The area code is the first three digits of each phone number. Return a list of all unique area codes present in the given list of phone numbers.

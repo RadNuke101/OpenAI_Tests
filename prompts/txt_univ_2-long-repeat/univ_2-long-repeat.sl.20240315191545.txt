@@ -1,0 +1,1 @@
+Given a list of university names and their corresponding locations, your task is to format the data in a way that includes the country for each university. The output should consist of the university name, city, state, and country. Your goal is to ensure that each university location is accurately represented with the appropriate grammar and punctuation.

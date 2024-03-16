@@ -1,0 +1,1 @@
+Please format the dates in the following way: [['01/15/2013'], ['03/07/2011'], ['05/09/2009']]. I will then provide you with the revised dates in the format of ['01/2013', '03/2011', '05/2009'].

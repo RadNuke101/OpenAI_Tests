@@ -1,0 +1,1 @@
+Given a list of universities and their locations, please provide the locations in a standardized format with the country abbreviation included.

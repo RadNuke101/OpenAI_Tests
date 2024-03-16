@@ -1,0 +1,1 @@
+For each pair of phrases provided, determine if the second word in the first phrase matches the second word in the second phrase. If there is a match, output 'true', otherwise output 'false'.

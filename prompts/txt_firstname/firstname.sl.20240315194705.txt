@@ -1,0 +1,4 @@
+Please provide the first and last names of the individuals listed below, separated by a space. I will then return their first names only. 
+
+Input: [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']]
+Output: ['Nancy', 'Andrew', 'Jan', 'Mariya']

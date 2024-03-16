@@ -1,0 +1,1 @@
+Please count the number of characters in each sentence and provide the counts in the order in which the sentences were given.

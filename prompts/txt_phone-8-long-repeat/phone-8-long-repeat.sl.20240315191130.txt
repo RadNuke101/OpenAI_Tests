@@ -1,0 +1,9 @@
+Given a list of phone numbers with country codes and phone numbers, please extract the last three digits of each phone number. These three digits represent a unique identifier for each phone number. 
+
+For example, if you are given the following list of phone numbers:
+[['+106 769-858-438'], ['+83 973-757-831'], ['+62 647-787-775'], ['+172 027-507-632'], ['+72 001-050-856']]
+
+Your task is to extract the last three digits from each phone number:
+['438', '831', '775', '632', '856']
+
+Please provide the extracted three-digit identifiers as the output.

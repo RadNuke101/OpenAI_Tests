@@ -1,0 +1,7 @@
+Given a list of strings where each string represents a path separated by slashes, can you identify the last element in each path? 
+
+For example:
+Input: [['ABCDE/FGHI/JKL/MNOPQR'], ['A/ABCDE/FGHI/JKL']]
+Output: ['MNOPQR', 'JKL']
+
+Please provide the last element in each path.

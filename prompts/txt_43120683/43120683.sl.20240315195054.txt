@@ -1,0 +1,1 @@
+Given a list of pairs where each pair consists of a word and a number, your task is to create a new list where each word is combined with a specific fruit based on its corresponding number. For example, if the pair is ['one, 1'], the word 'one' should be combined with 'apple'. Make sure to use the correct plural form of the fruit based on the number.

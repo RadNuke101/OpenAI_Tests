@@ -1,0 +1,1 @@
+Please provide a list of text messages containing dates and times in the format of "Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum". I will extract and return only the dates and times in the format of "Dec 2, 2014, 11=23 PM".

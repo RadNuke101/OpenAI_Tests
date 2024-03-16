@@ -1,0 +1,12 @@
+Please provide the locations of the universities listed below. 
+
+1. University of Pennsylvania
+2. UCLA
+3. Cornell University
+4. Penn
+5. University of Maryland College Park
+6. University of Michigan
+7. Columbia University
+8. NYU
+
+Make sure to include the city and state for each university.

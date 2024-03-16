@@ -1,0 +1,9 @@
+Please provide me with a list of devices and their corresponding serial numbers. Each device is followed by a description that includes the serial number. Your task is to extract and list only the serial numbers from the descriptions. 
+
+For example, if the input is:
+[['Tire Pressure ABC123873 Monitor'], [' Oil Life ABC849999999021 gauge'], [' Air conditioner GHF211 maintenance']]
+
+Your output should be:
+['ABC123873', 'ABC849999999021', 'GHF211'] 
+
+Please proceed with providing the necessary information.

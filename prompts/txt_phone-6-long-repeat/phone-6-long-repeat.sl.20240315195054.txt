@@ -1,0 +1,5 @@
+Given a list of phone numbers with country codes, your task is to extract the area codes from each phone number. The area code is the three-digit code that follows the country code in the phone number. 
+
+For example, from the phone number '+106 769-858-438', the area code is '769'. 
+
+Please generate a prompt that takes a list of phone numbers as input and returns a list of area codes extracted from each phone number.

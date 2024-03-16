@@ -1,0 +1,5 @@
+Please remove the dashes from the following phone numbers and provide them in a concatenated format:
+
+Input: [['801-345-1987'], ['612-554-2000']]
+
+Output: ['8013451987', '6125542000']

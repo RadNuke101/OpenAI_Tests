@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to combine each pair into a single string representing a full name. The output should consist of a list of these full names.

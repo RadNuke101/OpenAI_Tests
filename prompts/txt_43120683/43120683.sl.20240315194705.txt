@@ -1,0 +1,1 @@
+Given a list of pairs where each pair consists of a word and a number, your task is to create a new list where each word is followed by a fruit corresponding to the number. Make sure to use the correct plural form of the fruit based on the number.

@@ -1,0 +1,1 @@
+For each set of words provided, determine if the specified colors match the given objects. If the colors match, output 'true', otherwise output 'false'.

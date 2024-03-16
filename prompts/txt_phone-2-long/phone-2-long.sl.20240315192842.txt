@@ -1,0 +1,1 @@
+Please generate a list of the last three digits of each phone number from the given list of phone numbers.

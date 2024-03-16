@@ -1,0 +1,1 @@
+Please format the given list of color codes in the following way: replace the slashes with spaces and remove the angle brackets.

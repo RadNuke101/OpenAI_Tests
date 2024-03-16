@@ -1,0 +1,1 @@
+Please generate a list of the brand names of the motorcycles based on the given list of models. Each model is listed with its brand name followed by the engine size. Your task is to extract and list only the brand names from the input list.

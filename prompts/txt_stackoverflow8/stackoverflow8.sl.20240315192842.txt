@@ -1,0 +1,1 @@
+Please provide me with a list of file paths. Each file path should contain the name of a file. I will then extract the names of the files from the paths and return them to you. For example, if you provide me with [['home/Excel/Sheet1.xls'], ['home/user/Sheet1.xls']], I will return ['Sheet1.xls', 'Sheet1.xls'].

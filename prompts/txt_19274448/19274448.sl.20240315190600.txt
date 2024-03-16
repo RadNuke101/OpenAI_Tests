@@ -1,0 +1,9 @@
+Please determine if the following strings contain a sequence of at least 7 consecutive digits. 
+
+Input 1: 'dhfjd9999999dfda'
+Input 2: 'ddsss999dfdfsfd'
+
+Based on the inputs provided, please indicate if each string contains a sequence of at least 7 consecutive digits.
+
+Output 1: 'true'
+Output 2: 'false'

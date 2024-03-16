@@ -1,0 +1,6 @@
+Prompt: For each message that includes replies to _aya, _tasisuke, and _chan, combine the numbers mentioned in the message to form a unique code. 
+
+Input: [['replies to _aya, _tasisuke, and _chan', '1'], ['replies to _aya, _tasisuke, and _chan', '2'], ['replies to _aya, _tasisuke, and _chan', '3']]
+Output: ['12', '18', '33']
+
+Instructions: Combine the numbers mentioned in each message that includes replies to _aya, _tasisuke, and _chan to create a unique code.

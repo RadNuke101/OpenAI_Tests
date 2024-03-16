@@ -1,0 +1,1 @@
+Please count the number of times the second word appears in the first sentence.

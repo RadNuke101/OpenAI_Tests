@@ -1,0 +1,1 @@
+Given a list of pairs where the first element is a string and the second element is a character, rearrange the characters in each string to create new strings. The new strings should be formed by moving the character specified in the pair to the front of the string, while keeping the remaining characters in their original order. Return a list of the newly formed strings.

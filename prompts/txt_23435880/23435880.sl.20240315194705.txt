@@ -1,0 +1,1 @@
+For each set of phrases provided, count the number of times a specific word appears in the first phrase. Then, determine how many times that same word appears in the second phrase. Your task is to compare these counts and provide the total number of times the word appears in the second phrase.

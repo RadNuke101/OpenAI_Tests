@@ -1,0 +1,12 @@
+Please provide the usernames for the following email addresses:
+
+1. ann chang - achang_maaker.com
+2. bobby smith - bobt_sphynx.uk.co
+3. art lennox - art.lennox_svxn.com
+
+Output:
+1. achang
+2. bobt
+3. art.lennox
+
+Please provide the usernames associated with each email address.

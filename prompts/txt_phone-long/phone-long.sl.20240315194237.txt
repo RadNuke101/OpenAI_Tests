@@ -1,0 +1,1 @@
+Please generate a list of phone numbers from the given data by extracting the first three digits of each phone number.

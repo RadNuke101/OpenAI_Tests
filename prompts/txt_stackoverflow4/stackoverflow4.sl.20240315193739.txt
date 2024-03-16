@@ -1,0 +1,1 @@
+Transform the given list of color codes into a more readable format by removing the unnecessary characters and formatting them correctly.

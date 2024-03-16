@@ -1,0 +1,1 @@
+You have a list of universities and their corresponding locations. Your task is to organize the locations in a standardized format, including the city and state, and country if applicable. Provide the updated list of locations for each university in the format: [City, State, Country].

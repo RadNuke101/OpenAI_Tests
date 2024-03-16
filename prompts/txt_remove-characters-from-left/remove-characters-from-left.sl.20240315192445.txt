@@ -1,0 +1,1 @@
+Please provide the cleaned up versions of the following strings by removing any non-numeric characters from the first element of each pair: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']].

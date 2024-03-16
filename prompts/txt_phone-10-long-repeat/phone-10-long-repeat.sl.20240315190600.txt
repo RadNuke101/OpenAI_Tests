@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to format each phone number in a more readable way. The input consists of phone numbers with country codes, area codes, and phone numbers separated by hyphens. Your task is to convert each phone number into a format that includes parentheses around the area code and a space between the country code, area code, and phone number. 
+
+For example, if the input is [['+106 769-858-438'], ['+83 973-757-831']], the output should be ['+106 (769) 858-438', '+83 (973) 757-831']. 
+
+Please provide the formatted phone numbers based on the given input.

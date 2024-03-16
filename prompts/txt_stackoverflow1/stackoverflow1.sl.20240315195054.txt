@@ -1,0 +1,4 @@
+Please provide a list of trucking companies. I will help you format the names correctly. 
+
+Input: [['Trucking Inc.'], ['New Truck Inc'], ['ABV Trucking Inc, LLC']]
+Output: ['Trucking', 'New Truck', 'ABV Trucking']

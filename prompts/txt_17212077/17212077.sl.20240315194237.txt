@@ -1,0 +1,1 @@
+Please format the dates in the following format: [['MM/DD/YYYY'], ['MM/DD/YYYY'], ['MM/DD/YYYY']]. I will then provide you with the dates in the format ['MM/YYYY'].

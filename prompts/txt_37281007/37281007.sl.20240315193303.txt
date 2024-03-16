@@ -1,0 +1,1 @@
+Please determine if the second element in each sub-array is a substring of the first element. If it is, respond with 'true', otherwise respond with 'false'.

@@ -1,0 +1,1 @@
+Given a list of phone numbers, please extract the area codes from each phone number and provide them as a separate list. The area code is the first three digits of each phone number. For example, from the phone number '938-242-504', the area code is '938'. Please generate a prompt that will return the list of area codes when given a list of phone numbers.

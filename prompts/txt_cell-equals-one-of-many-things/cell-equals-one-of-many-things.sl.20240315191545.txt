@@ -1,0 +1,9 @@
+Please indicate whether the following colors are primary colors. 
+
+1. yellow - true
+2. gray - false
+3. black - false
+4. blue - true
+5. pink - true
+6. orange - true
+7. turkey - false

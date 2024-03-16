@@ -1,0 +1,1 @@
+When provided with a list of website domains, can you identify the top-level domain (TLD) for each one? For example, given the domains [['www.domain.com'], ['mail.net'], ['www.amaon.co.uk']], can you determine the TLDs ['com', 'net', 'uk'] associated with each domain?

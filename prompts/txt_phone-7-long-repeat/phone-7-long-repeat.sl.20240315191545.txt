@@ -1,0 +1,1 @@
+Given a list of phone numbers in the format [['+country code phone number'], ...], can you extract the last three digits of each phone number and provide them as a list?

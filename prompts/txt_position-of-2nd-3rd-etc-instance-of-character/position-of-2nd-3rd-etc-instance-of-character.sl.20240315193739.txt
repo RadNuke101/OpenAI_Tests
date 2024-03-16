@@ -1,0 +1,1 @@
+For each set of input data provided, calculate the total number of characters in the first element of the list, then multiply that by the third element of the list. The resulting number is the output.

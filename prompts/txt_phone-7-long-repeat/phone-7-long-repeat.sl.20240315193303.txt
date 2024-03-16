@@ -1,0 +1,1 @@
+For each phone number in the list, extract the last three digits after the last hyphen.

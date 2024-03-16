@@ -1,0 +1,1 @@
+Given a list of pairs where the first element is a number and the second element is a fruit, please generate a new list where each number is followed by the corresponding fruit. Make sure to use the correct plural form of the fruit based on the number provided.

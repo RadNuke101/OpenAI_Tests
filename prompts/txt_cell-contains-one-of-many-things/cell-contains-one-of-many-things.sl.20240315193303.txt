@@ -1,0 +1,6 @@
+Please read the following sentences and determine if they contain the words 'yellow', 'green', and 'dog'. Respond with 'true' if all three words are present, and 'false' if not.
+
+1. Is there a yellow dog on green grass?
+2. Is there a warm gray sweater?
+3. Is there a yellow sun in a green field?
+4. Is there a yellow neon sign with a green background?

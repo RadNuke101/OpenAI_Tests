@@ -1,0 +1,1 @@
+Please rearrange the following characters in each set to form a new sequence of strings: [['zx66448', 'z'], ['zx66448', 'x'], ['zx66448', '6'], ['zx66448', '4'], ['zx66448', '8']]. Once rearranged, you should be able to generate the following output: ['x66448', 'z66448', 'zx448', 'zx668', 'zx6644'].

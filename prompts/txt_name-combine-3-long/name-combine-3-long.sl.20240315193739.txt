@@ -1,0 +1,1 @@
+Given a list of full names, your task is to abbreviate each name by taking the first letter of the first name and combining it with the last name. For example, 'Launa Withers' becomes 'L. Withers'. Please generate the abbreviated names based on the following list of full names: [['Launa', 'Withers'], ['Lakenya', 'Edison'], ['Brendan', 'Hage'], ...].

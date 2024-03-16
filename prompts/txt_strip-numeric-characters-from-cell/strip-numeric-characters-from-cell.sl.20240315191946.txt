@@ -1,0 +1,1 @@
+Please extract the relevant information from the following data: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']]. What should be returned is a list of key details from each input, such as the name, price, and quantity. This will help organize the information effectively.

@@ -1,0 +1,1 @@
+Please correct the formatting of the following list of values: [['-%134'], ['500'], ['5.125'], ['-%43.00']]. Once corrected, please provide the values in a more readable format.

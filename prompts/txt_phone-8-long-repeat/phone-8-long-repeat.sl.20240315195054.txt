@@ -1,0 +1,5 @@
+Given a list of phone numbers with country codes and phone numbers, please extract the last three digits of each phone number. These three digits represent a unique identifier for each phone number. 
+
+For example, if you have the phone number '+106 769-858-438', the unique identifier would be '438'. 
+
+Please provide the unique identifiers for all the phone numbers in the list.

@@ -1,0 +1,7 @@
+Please read the following sentences and determine if they accurately describe the relationship between the input and output:
+
+1. "For each set of words provided, determine if the specified colors match the given objects. If they do, answer 'true'; if not, answer 'false'."
+2. "Analyze the color combinations in each phrase and decide if they match the criteria provided. Respond with 'true' if they do and 'false' if they do not."
+3. "Examine the color associations in the phrases and indicate whether they align with the specified colors. Select 'true' for a match and 'false' for a mismatch."
+4. "Evaluate the color references in the phrases and ascertain if they correspond to the designated colors. Choose 'true' for a match and 'false' for a discrepancy."
+5. "Review the color descriptions in the phrases and determine if they adhere to the given color requirements. Indicate 'true' for a match and 'false' for a non-match."

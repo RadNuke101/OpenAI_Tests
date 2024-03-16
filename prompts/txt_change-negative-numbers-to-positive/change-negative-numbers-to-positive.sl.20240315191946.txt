@@ -1,0 +1,1 @@
+Please provide the list of values enclosed in brackets. I will then remove any special characters and convert the numbers to their proper format.

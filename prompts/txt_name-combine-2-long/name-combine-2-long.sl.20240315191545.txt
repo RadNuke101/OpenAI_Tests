@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please generate a shortened version of the full name by taking the first letter of the first name and combining it with the last name.

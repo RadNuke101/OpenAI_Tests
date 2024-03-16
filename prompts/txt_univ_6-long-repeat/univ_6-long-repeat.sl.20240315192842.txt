@@ -1,0 +1,1 @@
+Please generate a list of cities and their corresponding states in the United States based on the given list of universities and their locations. Make sure to format the output with the city followed by the state, and include "USA" where applicable.

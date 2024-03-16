@@ -1,0 +1,8 @@
+For each phone number in the list of lists provided, please format the phone number in the following way: 
+
+- Enclose the area code in parentheses
+- Separate the area code, exchange code, and subscriber number with a hyphen
+
+For example, if the input is [['123-456-789']], the output should be ['(123) 456-789']. 
+
+Now, please generate the formatted phone numbers for the given list of phone numbers.

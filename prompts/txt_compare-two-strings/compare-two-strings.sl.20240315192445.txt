@@ -1,0 +1,6 @@
+Please determine if the following pairs of words are identical (case-sensitive) and provide 'true' or 'false' accordingly:
+
+1. Are 'apple' and 'apple' the same? (Answer: true)
+2. Are 'orange' and 'Orange' the same? (Answer: false)
+3. Are 'peach' and 'peach' the same? (Answer: true)
+4. Are 'cherry' and 'cherrY' the same? (Answer: false)

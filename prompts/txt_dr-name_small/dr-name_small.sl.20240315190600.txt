@@ -1,0 +1,1 @@
+Given a list of full names, transform each name into a formal title by adding "Dr." before the first name. For example, if the input is [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']], the output should be ['Dr. Nancy', 'Dr. Andrew', 'Dr. Jan', 'Dr. Mariya'].

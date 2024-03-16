@@ -1,0 +1,1 @@
+Please count the occurrences of the letter 'n' in the name "Hannah" and provide the result.

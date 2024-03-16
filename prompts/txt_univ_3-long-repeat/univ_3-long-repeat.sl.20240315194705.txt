@@ -1,0 +1,1 @@
+Given a list of universities and their respective locations, can you generate a list of the locations with proper formatting including the city and state, followed by the country (if applicable)?

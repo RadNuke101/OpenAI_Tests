@@ -1,0 +1,1 @@
+For each phone number provided in the input, please extract the last three digits of the phone number.

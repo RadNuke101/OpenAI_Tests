@@ -1,0 +1,1 @@
+Please provide a simplified version of the file names by removing the file extensions.

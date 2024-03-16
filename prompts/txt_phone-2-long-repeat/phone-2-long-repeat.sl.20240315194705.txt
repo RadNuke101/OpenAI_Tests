@@ -1,0 +1,5 @@
+Given a list of phone numbers, each represented as a list of digits, your task is to extract the last three digits from each phone number and create a new list containing these three-digit sequences. 
+
+For example, from the phone number '938-242-504', you would extract '504'. 
+
+Please generate a prompt that takes a list of phone numbers and outputs a list of the last three digits from each phone number.

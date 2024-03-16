@@ -1,0 +1,1 @@
+You have a list of items with their corresponding numbers. Please provide a new list where each item is paired with a fruit.

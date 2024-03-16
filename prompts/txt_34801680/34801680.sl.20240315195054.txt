@@ -1,0 +1,1 @@
+Please provide me with a list of retailers and suppliers. Each entry should be in the format of "Name= Company Name". I will then extract the company names and provide you with a refined list.

@@ -1,0 +1,1 @@
+Please determine if the given items match the specified colors. For each set of items and colors provided, indicate whether all the colors mentioned are present in the items.

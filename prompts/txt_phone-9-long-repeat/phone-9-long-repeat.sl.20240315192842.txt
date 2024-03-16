@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by adding periods after every three digits. The input consists of phone numbers in a list of lists, where each inner list contains a single phone number. The output should be a list of the same phone numbers but with periods added after every three digits. 
+
+For example, if the input is [['+83 973-757-831']], the output should be ['83.973.757.831']. 
+
+Please provide the updated phone numbers in the requested format.

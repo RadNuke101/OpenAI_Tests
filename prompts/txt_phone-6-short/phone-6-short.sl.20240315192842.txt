@@ -1,0 +1,1 @@
+Please provide me with a list of phone numbers in international format. I will extract the middle three digits from each number and return them to you. For example, if you input [['+106 769-858-438'], ['+83 973-757-831']], I will return ['769', '973'].

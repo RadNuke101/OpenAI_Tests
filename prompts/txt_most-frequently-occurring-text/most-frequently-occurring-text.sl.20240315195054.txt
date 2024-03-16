@@ -1,0 +1,12 @@
+Please select the word that best fits the pattern in the following list of word groups: 
+
+1. ['cat', 'dog', 'cat']
+2. ['blue', 'red', 'red']
+3. ['firm', 'firm', 'soft']
+4. ['soft', 'soft', 'soft']
+
+Based on the pattern observed in the word groups above, please choose the word that should come next in the sequence: 
+
+- ['cat', 'red', 'firm', _______] 
+
+What word do you think should replace the blank space in the sequence?

@@ -1,0 +1,3 @@
+Please rearrange the names in the following list to display them in the format of "Last Name First Name": [['Launa', 'Withers'], ['Lakenya', 'Edison'], ['Brendan', 'Hage'], ['Bradford', 'Lango'], ['Rudolf', 'Akiyama'], ['Lara', 'Constable']].
+
+After rearranging the names, please provide the updated list.

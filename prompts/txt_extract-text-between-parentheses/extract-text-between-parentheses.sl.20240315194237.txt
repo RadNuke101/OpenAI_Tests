@@ -1,0 +1,1 @@
+Please provide a list of names followed by their corresponding ages enclosed in angle brackets. For example, [['Jones <60>'], ['Jones <57>'], ['Jones <55>']]. Based on this information, can you provide me with a list of just the ages?

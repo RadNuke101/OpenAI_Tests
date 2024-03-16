@@ -1,0 +1,3 @@
+Please provide the username associated with each email address in the following list of contacts: [['ann chang', 'achang_maaker.com'], ['bobby smith', 'bobt_sphynx.uk.co'], ['art lennox', 'art.lennox_svxn.com']].
+
+Output the usernames in the correct format: ['achang', 'bobt', 'art.lennox'].

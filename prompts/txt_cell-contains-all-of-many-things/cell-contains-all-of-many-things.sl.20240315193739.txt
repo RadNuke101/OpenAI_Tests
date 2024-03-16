@@ -1,0 +1,6 @@
+Please read the following sentences carefully and determine if the given keywords 'yellow', 'green', and 'dog' appear in the sentence. If all three keywords are present, please respond with 'true'. If not, please respond with 'false'.
+
+1. "A yellow sun in a green field"
+2. "Lone dog with a green frisbie on yellow sand"
+3. "yellow neon sign with a green background"
+4. "yellow dog on green grass"

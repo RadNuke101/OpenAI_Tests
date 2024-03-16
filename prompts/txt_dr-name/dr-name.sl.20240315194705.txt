@@ -1,0 +1,1 @@
+Given a list of full names of individuals, please provide their corresponding titles by adding "Dr." in front of their first names. For example, if the input is [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']], the output should be ['Dr. Nancy', 'Dr. Andrew', 'Dr. Jan', 'Dr. Mariya'].

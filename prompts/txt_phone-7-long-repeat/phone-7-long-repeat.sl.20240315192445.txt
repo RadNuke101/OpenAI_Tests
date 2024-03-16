@@ -1,0 +1,1 @@
+When provided with a list of phone numbers in a specific format, I can extract the last three digits of each phone number. These digits represent a unique identifier for each phone number. Let me know if you need assistance with this task.

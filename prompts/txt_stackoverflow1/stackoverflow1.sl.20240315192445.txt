@@ -1,0 +1,1 @@
+Please provide a list of trucking company names. I will help you format them correctly by removing unnecessary words like "Inc." or "LLC". For example, if you input [['Trucking Inc.'], ['New Truck Inc'], ['ABV Trucking Inc, LLC']], I will return ['Trucking', 'New Truck', 'ABV Trucking']. Let's get started!

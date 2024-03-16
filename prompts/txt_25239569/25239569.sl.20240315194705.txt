@@ -1,0 +1,1 @@
+You have been given a list of advertising campaign names that need to be refined for clarity and consistency. Your task is to review each campaign name and make necessary adjustments to ensure they are grammatically correct and convey the intended message effectively. Once you have refined the campaign names, provide the updated versions in a list format.

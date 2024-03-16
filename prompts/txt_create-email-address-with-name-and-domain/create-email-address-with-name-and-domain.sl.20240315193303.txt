@@ -1,0 +1,1 @@
+Please combine the first and last names of each person along with their email domain to create a username. For example, for ['ayako', 'ogawa', 'acme.com'], the username would be 'aogawa_acme.com'. Can you generate the usernames for the given list of people: [['ayako', 'ogawa', 'acme.com'], ['amy', 'johnson', 'google.com'], ['tom', 'chang', 'upenn.edu']]?

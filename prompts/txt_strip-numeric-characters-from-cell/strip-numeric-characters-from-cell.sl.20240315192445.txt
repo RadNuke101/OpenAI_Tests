@@ -1,0 +1,6 @@
+Please extract the relevant information from the following text and provide it in a clearer format:
+
+Input: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']]
+Output: [' jim mcdonald', ' price is ', ' apples']
+
+Can you identify and separate the key details from each text snippet?

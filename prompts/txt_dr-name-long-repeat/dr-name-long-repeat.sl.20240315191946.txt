@@ -1,0 +1,1 @@
+Generate a list of titles for a group of individuals based on their names. Each name should be preceded by "Dr." to indicate a professional title. The input consists of a list of names, and the output should be a list of titles corresponding to each name.

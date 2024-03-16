@@ -1,0 +1,5 @@
+Please determine if the following statements are grammatically correct and match the provided output:
+
+1. "A bird in the hand is worth 2 in the bush." - Is this statement true or false?
+2. "A bird in the hand is worth two in the bush." - Is this statement true or false?
+3. "The 15 shortcuts you simply must know" - Is this statement true or false?

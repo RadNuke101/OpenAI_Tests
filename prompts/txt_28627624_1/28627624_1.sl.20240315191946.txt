@@ -1,0 +1,10 @@
+Please extract the timestamps from the following text messages and provide them in a formatted manner. 
+
+Input: 
+[['Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum'], ['Dec 2, 2014, 11=24 PM - +91 90000 80000= loren']]
+
+Output:
+['Dec 2, 2014, 11=23 PM', 'Dec 2, 2014, 11=24 PM']
+
+Relationship: 
+The output should consist of the timestamps extracted from the input text messages, presented in a clear and organized format.

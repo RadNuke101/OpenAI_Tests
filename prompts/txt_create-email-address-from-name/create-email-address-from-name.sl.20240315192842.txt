@@ -1,0 +1,1 @@
+Please create email addresses for the following individuals by combining their last name and first initial with the domain name "acme.com": [['brown', 'traci'], ['thomas', 'linda'], ['ward', 'jack']].

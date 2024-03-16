@@ -1,0 +1,7 @@
+Please organize the following dates and actions in chronological order, starting from the earliest:
+
+1. 11/1/2015 - First call
+2. 11/1/2015 - First call, 12/3/2015 - order placed
+3. 11/1/2015 - First call, 12/3/2015 - order placed, 11/15/2015 - follow-up, interested
+
+Please list them in the correct order, with the actions described in the format "date - action".

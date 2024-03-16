@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format by adding periods between the digits. For example, the phone number '938-242-504' should be converted to '938.242.504'. Please provide the updated list of phone numbers in the requested format.

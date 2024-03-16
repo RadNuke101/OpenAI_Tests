@@ -1,0 +1,6 @@
+Please provide the email addresses from the following requests:
+
+1. Send an email to json_acme.com.
+2. Contact help_robot.com for all support requests.
+
+Email addresses: ['json_acme.com', 'help_robot.com']

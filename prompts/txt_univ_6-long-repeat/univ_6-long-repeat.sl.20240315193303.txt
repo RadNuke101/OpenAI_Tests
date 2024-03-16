@@ -1,0 +1,1 @@
+You have been given a list of universities and their corresponding locations. Your task is to organize this information into a concise list that includes the cities and states of each university. Remember to include the proper punctuation and formatting to ensure clarity.

@@ -1,0 +1,3 @@
+Please rearrange the names in the following list to have the last name come before the first name: [['chang,amy'], ['smith,bobby'], ['lennox,aaron']].
+
+After rearranging, please provide the updated list with the names in the format of 'last name, first name'.

@@ -1,0 +1,1 @@
+Please provide me with a list of full names, each enclosed in its own sublist. I will then return a list of the first names extracted from the input sublists.

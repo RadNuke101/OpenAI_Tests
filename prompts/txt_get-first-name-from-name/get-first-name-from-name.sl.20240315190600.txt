@@ -1,0 +1,4 @@
+Please provide the first names of the individuals listed below to create a list of names with proper formatting. 
+
+Input: [['Susan Ann Chang'], ['Ayako Tanaka'], ['Bobby T. smth']]
+Output: ['Susan', 'Ayako', 'Bobby']

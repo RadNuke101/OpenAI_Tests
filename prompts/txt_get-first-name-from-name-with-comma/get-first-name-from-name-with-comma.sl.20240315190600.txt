@@ -1,0 +1,1 @@
+Please organize the list of names provided based on the given input. Each name is followed by a number, indicating the order in which they appear. Can you please rearrange the names alphabetically and provide them in the correct order?

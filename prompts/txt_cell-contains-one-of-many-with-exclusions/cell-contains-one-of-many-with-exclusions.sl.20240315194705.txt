@@ -1,0 +1,9 @@
+Please determine if the following statements are true or false based on the given input:
+
+1. Is it true that the phrase "yellow dog on green grass" contains the words "yellow" and "green" but not "cat"?
+2. Is it false that the phrase "warm gray sweater" contains the words "yellow" and "green" but not "cat"?
+3. Is it false that the phrase "blue neon signs" contains the words "blue" and "green" but not "neon"?
+4. Is it true that the phrase "hot pink socks" contains the words "blue" and "pink" but not "neon"?
+5. Is it false that the phrase "deep black eyes" contains the words "yellow" and "green" but not "neon"?
+
+Please respond with 'true' or 'false' for each statement.

@@ -1,0 +1,5 @@
+Please format the phone numbers in the following list to remove any special characters and spaces:
+
+[['801-456-8765'], ['<978> 654-0299'], ['978.654.0299']]
+
+Once you have done this, please provide the updated list of phone numbers.

@@ -1,0 +1,1 @@
+Please provide a list of file names that need to be formatted correctly. Each file name should be in the format of 'filename.extension'. I will remove the file extensions and return the cleaned up names for you.

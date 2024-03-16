@@ -1,0 +1,8 @@
+Please organize the following list of files by their dates and file names:
+
+[['011016_assignment.xlsx', '1'], ['011016_assignment.xlsx', '2'], ['030116_cost.xlsx', '1'], ['030116_cost.xlsx', '2']]
+
+After organizing, please provide the dates and file names separately in the following format:
+
+Dates: '011016', '030116'
+File Names: 'assignment.xlsx', 'cost.xlsx'

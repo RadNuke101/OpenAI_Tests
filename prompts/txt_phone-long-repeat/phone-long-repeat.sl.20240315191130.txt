@@ -1,0 +1,1 @@
+Given a list of phone numbers in the format [['XXX-XXX-XXX'], ['XXX-XXX-XXX'], ...], can you extract the first three digits of each phone number and create a new list with these digits?

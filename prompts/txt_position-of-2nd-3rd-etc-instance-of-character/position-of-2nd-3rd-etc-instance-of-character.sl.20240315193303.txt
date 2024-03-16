@@ -1,0 +1,1 @@
+For each set of instructions provided, calculate the total number of characters in the first element of the list, excluding the specified character in the second element, and then multiply the result by the number in the third element. Find the final result for each set of instructions.

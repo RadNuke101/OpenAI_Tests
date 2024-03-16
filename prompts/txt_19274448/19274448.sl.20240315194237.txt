@@ -1,0 +1,6 @@
+Please determine if the following strings contain a sequence of nine consecutive 9's. 
+
+Input 1: 'dhfjd9999999dfda'
+Input 2: 'ddsss999dfdfsfd'
+
+For each input, indicate 'true' if the string contains a sequence of nine consecutive 9's, and 'false' if it does not.

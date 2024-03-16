@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please rearrange them to form a full name in the format "Lastname Firstname". Then, combine all the rearranged names into a list while maintaining the original order. This list will contain the full names of individuals based on their first and last names given in separate pairs.

@@ -1,0 +1,1 @@
+Please rearrange the following characters in a way that forms a meaningful sequence: [['zx66448', 'z'], ['zx66448', 'x'], ['zx66448', '6'], ['zx66448', '4'], ['zx66448', '8']]. Your task is to create new sequences by moving one character at a time to the front of the string 'zx66448'. Once rearranged, provide the resulting sequences in ascending order.

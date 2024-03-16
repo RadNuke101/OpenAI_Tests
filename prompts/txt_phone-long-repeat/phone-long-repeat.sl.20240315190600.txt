@@ -1,0 +1,5 @@
+Given a list of phone numbers, where each phone number is represented as a list of digits, your task is to extract the area code from each phone number. The area code is the first three digits of each phone number.
+
+For example, from the phone number ['938-242-504'], the area code is '938'. 
+
+Please write a function that takes a list of phone numbers and returns a list of the corresponding area codes.

@@ -1,0 +1,9 @@
+Please format the names in the following way: 
+
+[['Launa', 'Withers'], ['Lakenya', 'Edison'], ['Brendan', 'Hage'], ['Bradford', 'Lango'], ['Rudolf', 'Akiyama'], ['Lara', 'Constable']]
+
+as 
+
+['L. Withers', 'L. Edison', 'B. Hage', 'B. Lango', 'R. Akiyama', 'L. Constable']
+
+Can you please format the names accordingly?

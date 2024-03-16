@@ -1,0 +1,7 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. Each phone number is represented as a list containing a string of numbers separated by hyphens. 
+
+To complete this task, you need to transform each phone number from the input list into a standard phone number format. The standard phone number format includes parentheses around the area code and a hyphen between the next three digits and the final four digits. 
+
+For example, the phone number '938-242-504' should be transformed into '(938) 242-504'. 
+
+Please write a function that takes the input list of phone numbers and returns a new list with each phone number converted to the standard format.

@@ -1,0 +1,1 @@
+Given a list of names and their corresponding email domains, can you identify and list out the domains from the email addresses provided? Your task is to extract and list the domain names from the email addresses associated with each individual. Remember to consider the grammar and format the domain names correctly.

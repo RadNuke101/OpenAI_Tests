@@ -1,0 +1,1 @@
+Given a list of pairs where each pair consists of a word and a number, your task is to create a new list where each word is followed by a fruit corresponding to the number. For example, if the input is [['one, 1'], ['two, 2'], ['three, 3'], ['four, 4']], the output should be ['one apple', 'two bananas', 'three strawberries', 'four oranges'].

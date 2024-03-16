@@ -1,0 +1,1 @@
+Please transform the given dates into a shorter format by removing the day and keeping only the month and year.

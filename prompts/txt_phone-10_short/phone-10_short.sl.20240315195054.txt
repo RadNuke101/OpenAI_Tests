@@ -1,0 +1,1 @@
+Please format the phone numbers in the following way: add parentheses around the area code and hyphens between the different sections. For example, change '+106 769-858-438' to '+106 (769) 858-438'.

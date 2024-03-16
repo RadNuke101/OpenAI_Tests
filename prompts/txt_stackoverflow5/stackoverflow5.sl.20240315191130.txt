@@ -1,0 +1,1 @@
+Please extract the titles from the given list of movie entries. Each entry consists of a title followed by relevant information separated by equal signs. Your task is to identify and list only the titles of the movies.

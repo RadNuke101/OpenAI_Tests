@@ -1,0 +1,1 @@
+Please analyze the given list of lists containing sets of numbers. For each set, determine the number of unique elements present. Your task is to provide a list of the counts of unique elements in each set.

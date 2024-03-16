@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], your task is to generate a new list of abbreviated names in the format ['Last Name, Initial.']. Each abbreviated name should consist of the last name followed by a comma and the initial of the first name. Let's get started!

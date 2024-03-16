@@ -1,0 +1,1 @@
+Please transform the given list of codes and descriptions into a new list where only the codes are included.

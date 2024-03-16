@@ -1,0 +1,1 @@
+Please provide me with a list of full names, and I will assist you by extracting and formatting the first names from each full name.

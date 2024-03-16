@@ -1,0 +1,5 @@
+Given a list of full names in the format [['First Name', 'Last Name'], ...], your task is to convert each full name into an abbreviated form where only the first letter of the first name is displayed followed by a period and the full last name. 
+
+For example, the full name 'Launa Withers' would be abbreviated as 'L. Withers'. 
+
+Please generate the abbreviated names for the provided list of full names.

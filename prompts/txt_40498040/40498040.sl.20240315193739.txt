@@ -1,0 +1,1 @@
+For each list of projects provided, determine if the word "overhead" is included in the list. If "overhead" is present in the list, output "true"; otherwise, output "false".

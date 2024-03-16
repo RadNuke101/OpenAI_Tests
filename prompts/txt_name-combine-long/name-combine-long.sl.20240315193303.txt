@@ -1,0 +1,1 @@
+Given a list of first and last names, please generate a prompt that will return the full names by combining the first and last names with a space in between.

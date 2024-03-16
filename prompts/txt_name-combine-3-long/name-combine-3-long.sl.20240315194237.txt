@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], please generate a new list of initials with last names, following the format ['F. Last Name'].

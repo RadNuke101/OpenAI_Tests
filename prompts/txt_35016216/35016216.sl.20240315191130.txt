@@ -1,0 +1,3 @@
+Please select the items that are related in the following list: [['C0abc', 'def'], ['aabc', 'def'], ['C0dd', 'qwe'], ['dd', 'qwe']]
+
+Which items are related?

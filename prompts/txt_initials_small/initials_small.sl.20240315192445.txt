@@ -1,0 +1,7 @@
+Please provide the abbreviated initials of the following names: 
+1. Nancy FreeHafer
+2. Andrew Cencici
+3. Jan Kotas
+4. Mariya Sergienko
+
+Your task is to generate the abbreviated initials for each name.

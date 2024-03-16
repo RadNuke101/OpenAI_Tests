@@ -1,0 +1,1 @@
+Given a list of pairs where each pair consists of a number and a word, your task is to create a new list where each word is combined with a fruit based on the number provided. For example, if the pair is ['one, 1'], the output should be 'one apple'. Can you generate the new list by matching the numbers with the corresponding fruits?

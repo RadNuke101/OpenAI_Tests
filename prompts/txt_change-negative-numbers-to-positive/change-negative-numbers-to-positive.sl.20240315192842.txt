@@ -1,0 +1,6 @@
+Please rearrange the following lists of numbers and symbols to form a new list with the symbols in the correct format:
+
+Input: [['-%134'], ['500'], ['5.125'], ['-%43.00']]
+Output: ['%134', '500', '5.125', '%43.00']
+
+Can you please organize the elements in the input lists to match the format of the elements in the output list?

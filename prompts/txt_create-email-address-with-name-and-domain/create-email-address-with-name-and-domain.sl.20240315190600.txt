@@ -1,0 +1,1 @@
+Given a list of names and corresponding email domains, can you create a new list where each entry combines the first initial of the first name, the last name, and the email domain, separated by an underscore?

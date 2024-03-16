@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. The input consists of phone numbers in a list, where each phone number is represented as a string of digits separated by hyphens. Your job is to transform each phone number into a more user-friendly format by adding parentheses around the area code and inserting a space before the last four digits. 
+
+For example, the phone number '938-242-504' should be transformed into '(938) 242-504'. 
+
+Please provide the transformed phone numbers in the same order as the input list.

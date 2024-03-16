@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them into a new list where each name is formatted as "Lastname Firstname". Make sure to maintain the original order of names in the new list.

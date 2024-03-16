@@ -1,0 +1,1 @@
+Given a list of items with their corresponding model numbers, your task is to generate a new list with the item names only. Some items have additional information such as color codes or variations in the model number. Your job is to extract the item names while preserving any additional details that may be present.

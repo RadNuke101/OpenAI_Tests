@@ -1,0 +1,1 @@
+For each pair of sentences provided, determine the number of times the second word appears in the first sentence. Count how many times the word in the second sentence appears in the first sentence.

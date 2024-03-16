@@ -1,0 +1,1 @@
+Please provide me with a list of file paths. Each file path consists of a directory structure leading to a specific file. For example, [['home/Excel/Sheet1.xls'], ['home/user/Sheet1.xls']]. I will then extract the names of the files from the file paths and provide you with a list of just the file names. For the given input, the output should be ['Sheet1.xls', 'Sheet1.xls'].

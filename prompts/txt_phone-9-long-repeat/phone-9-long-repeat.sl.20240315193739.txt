@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, can you please format them in a more readable way by separating the numbers with periods instead of dashes?

@@ -1,0 +1,3 @@
+Please provide a list of strings representing a hierarchical structure. Each string should contain a series of elements separated by slashes. For each level of depth in the hierarchy, assign a numerical value starting from 1. Your task is to map the depth of each element in the hierarchy to its corresponding numerical value. 
+
+For example, if the input is [['one'], ['one/ntwo'], ['one/ntwo/nthree']], the output should be ['1', '2', '3'].

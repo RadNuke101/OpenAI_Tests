@@ -1,0 +1,1 @@
+Please extract the text after the '=' symbol in each item of the given list of messages that contain dates and phone numbers.

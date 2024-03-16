@@ -1,0 +1,3 @@
+Please provide the middle names or initials of the individuals in the following list: [['susan ann chang'], ['ayako tanaka'], ['bobby t. smith'], ['anthony r. tom brown']]. 
+
+The corresponding middle names or initials are: ['ann', '', 't.', 'r. tom'].

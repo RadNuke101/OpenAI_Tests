@@ -1,0 +1,1 @@
+Please provide the last names and first names of the individuals in the following format: [['Last name', 'First name']]. I will then rearrange the names to display them in the format of 'Last name, First initial.' For example, if you input [['Launa', 'Withers']], I will output 'Withers, L.' Let's get started!

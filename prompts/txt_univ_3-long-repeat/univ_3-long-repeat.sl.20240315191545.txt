@@ -1,0 +1,1 @@
+Given a list of universities and their respective locations, can you generate a new list that includes the cities and states of each university in the format "City, State, Country"?

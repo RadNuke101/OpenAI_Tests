@@ -1,0 +1,1 @@
+Can you please extract the relevant information from the given list of strings? The information we are looking for includes details such as passenger names, box numbers, and any other important information. Remember to pay attention to the specific keywords like "PAX" and "BOX" to ensure you capture all the necessary details.

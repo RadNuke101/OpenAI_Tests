@@ -1,0 +1,1 @@
+Please provide me with a list of devices and their corresponding serial numbers. I will extract the serial numbers for you. For example, if you provide me with [['Tire Pressure ABC123873 Monitor'], [' Oil Life ABC849999999021 gauge'], [' Air conditioner GHF211 maintenance']], I will return ['ABC123873', 'ABC849999999021', 'GHF211'].

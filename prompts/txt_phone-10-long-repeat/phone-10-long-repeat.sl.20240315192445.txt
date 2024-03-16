@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, your task is to format each phone number by adding parentheses around the area code and hyphens between the different sections. Each phone number should be displayed in the format: "+XXX (XXX) XXX-XXX". Provide the formatted phone numbers based on the input list.

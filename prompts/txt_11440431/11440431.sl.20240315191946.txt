@@ -1,0 +1,17 @@
+Please correct the grammar in the following list of business activities:
+
+1. ['Mining US']
+2. ['Soybean Farming CAN']
+3. ['Soybean Farming']
+4. ['Oil Extraction US']
+5. ['Fishing']
+
+After correcting the grammar, the list should read as follows:
+
+1. Mining
+2. Soybean Farming
+3. Soybean Farming
+4. Oil Extraction
+5. Fishing
+
+Please make the necessary corrections to ensure the accuracy of the business activities listed.

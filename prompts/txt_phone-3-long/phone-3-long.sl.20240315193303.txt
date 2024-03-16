@@ -1,0 +1,5 @@
+You have been given a list of phone numbers in a specific format. Each phone number is represented as a list containing a string of numbers. Your task is to convert these phone numbers into a more readable format by adding parentheses around the area code and inserting hyphens to separate the different parts of the number. 
+
+For example, the phone number ['938-242-504'] should be converted to '(938) 242-504'.
+
+Please write a program that takes the given list of phone numbers and returns a new list with the phone numbers formatted as described above.

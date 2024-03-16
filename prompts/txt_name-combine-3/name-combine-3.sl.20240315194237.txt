@@ -1,0 +1,1 @@
+Combine the first initial of the first name with the last name to create a list of abbreviated names.

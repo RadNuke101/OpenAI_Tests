@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], your task is to generate a new list of abbreviated names in the format ['Last Name, First Initial']. Each abbreviated name corresponds to a full name from the input list. Your prompt should return the correct abbreviated names based on the given full names.

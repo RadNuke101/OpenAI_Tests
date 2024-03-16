@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please provide a shortened version of each name by taking the first letter of the first name and the full last name, followed by a period?

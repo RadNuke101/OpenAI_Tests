@@ -1,0 +1,1 @@
+For each list of full names provided, please generate a list of initials by taking the first letter of the first name and the first letter of the last name, separated by a period. Make sure to maintain the order of the names in the output list.

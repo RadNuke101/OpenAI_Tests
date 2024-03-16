@@ -1,0 +1,1 @@
+Please provide a list of codes, each followed by a description. I will clean up the list by removing any unnecessary characters and return the cleaned list of codes.

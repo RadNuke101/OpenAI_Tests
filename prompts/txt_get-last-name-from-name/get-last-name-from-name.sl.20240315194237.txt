@@ -1,0 +1,5 @@
+Please provide the last names of the individuals in the following list: [['Park Kim'], ['Lee Kim'], ['Kim Lee']].
+
+Output: ['Kim', 'Kim', 'Lee']
+
+Can you identify the common last names shared by the individuals listed above?

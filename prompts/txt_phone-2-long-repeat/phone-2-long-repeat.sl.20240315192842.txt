@@ -1,0 +1,1 @@
+For each set of phone numbers provided, please extract the last three digits of each number and list them in the same order.

@@ -1,0 +1,3 @@
+Please extract the relevant information from the following text: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']].
+
+What should be returned is a list of key details from each input, without the numerical values. For example, from '34653 jim mcdonald', we should return ' jim mcdonald'. From 'price is 500', we should return ' price is '. And from '100 apples', we should return ' apples'. Can you provide the extracted details based on this description?

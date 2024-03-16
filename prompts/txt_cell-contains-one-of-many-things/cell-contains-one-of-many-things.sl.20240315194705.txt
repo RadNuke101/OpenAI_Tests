@@ -1,0 +1,7 @@
+Please read the following sentences carefully and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. "Identify whether the given sentences contain the words 'yellow', 'green', and 'dog'."
+2. "Decide if the sentences match the criteria of having 'yellow', 'green', and 'dog' in them."
+3. "Check if the sentences meet the requirement of having 'yellow', 'green', and 'dog' as keywords."
+
+After reading the sentences and applying the criteria, please provide the corresponding output of 'true' or 'false' for each sentence.

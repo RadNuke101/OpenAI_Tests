@@ -1,0 +1,5 @@
+Given a list of phone numbers, each represented as a list of strings with the format '###-###-###', your task is to extract the last three digits of each phone number and create a new list containing these three-digit sequences. 
+
+For example, if the input is [['938-242-504'], ['308-916-545'], ['623-599-749']], the output should be ['504', '545', '749']. 
+
+Now, generate a prompt that will take a similar input and return the corresponding output.

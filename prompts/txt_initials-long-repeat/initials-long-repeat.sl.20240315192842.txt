@@ -1,0 +1,1 @@
+Given a list of full names, your task is to generate a list of initials for each name. The initials should consist of the first letter of the first name followed by a period and the first letter of the last name followed by a period. Ensure that the initials are in uppercase. Let's get started!

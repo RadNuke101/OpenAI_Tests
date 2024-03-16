@@ -1,0 +1,1 @@
+Please provide the phone numbers in the format of country code followed by the area code and phone number, separated by spaces. I will extract and return the area codes from each phone number.

@@ -1,0 +1,1 @@
+Given a list of phone numbers with country codes and phone numbers, can you extract the last three digits of each phone number?

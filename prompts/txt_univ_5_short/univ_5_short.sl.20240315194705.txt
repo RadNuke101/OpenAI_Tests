@@ -1,0 +1,1 @@
+Please generate a list of locations based on the given list of universities. Each location should be formatted as "City, State, Country" if applicable.

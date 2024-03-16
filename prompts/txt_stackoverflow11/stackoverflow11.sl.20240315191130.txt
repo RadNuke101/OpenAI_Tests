@@ -1,0 +1,1 @@
+Given a list of strings containing various information such as product codes, descriptions, and quantities, can you identify and extract the phrases that refer to the number of passengers or items in a box? Please provide the relevant phrases in the format of "description quantity code" for each string.

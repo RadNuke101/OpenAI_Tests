@@ -1,0 +1,1 @@
+Given a list of URLs that include information about different products and their respective companies, can you provide me with the names of the products mentioned in each URL? For example, if I give you the URL "http=//www.apple.com/uk/mac", can you tell me the product name mentioned in that URL?

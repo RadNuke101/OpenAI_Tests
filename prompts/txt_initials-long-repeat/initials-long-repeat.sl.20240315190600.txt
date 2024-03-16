@@ -1,0 +1,1 @@
+Given a list of full names, please generate a list of initials for each name. Ensure that the initials are formatted with a period after each letter and a space between each set of initials. Remember to maintain the same order as the original list of names.

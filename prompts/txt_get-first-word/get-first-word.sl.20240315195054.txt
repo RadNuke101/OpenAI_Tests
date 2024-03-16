@@ -1,0 +1,1 @@
+Please provide a list of sentences. I will extract the first word from each sentence and return them as a list. For example, if you input [['The quick brown fox.'], ['quick brown fox.'], ['fox']], I will output ['The', 'quick', ''].

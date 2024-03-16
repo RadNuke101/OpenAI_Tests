@@ -1,0 +1,1 @@
+You have a list of names in the format [['First Name', 'Last Name']]. Your task is to rearrange the names to be in the format 'Last Name First Name'. Can you generate a prompt that will help you achieve this task efficiently?

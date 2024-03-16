@@ -1,0 +1,1 @@
+Please format the given list of color codes into a more readable format. Each color code is currently enclosed in brackets and contains a color name followed by RGB values in angle brackets. Your task is to extract the color name and RGB values from each element and present them in a clear and concise manner.

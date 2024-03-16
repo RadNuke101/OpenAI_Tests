@@ -1,0 +1,1 @@
+Given a list of items with their corresponding model numbers, please provide a prompt that accurately describes each item. The prompt should include the item number and any additional information such as model numbers or specifications. Your goal is to generate a prompt that clearly identifies each item while maintaining proper grammar and formatting.

@@ -1,0 +1,8 @@
+Please correct the following fruit names by removing the numbers at the end:
+
+1. apples30 should be corrected to apples
+2. peaches24 should be corrected to peaches
+3. peaches0 should be corrected to peaches
+4. pears should be left unchanged
+
+Please make the necessary corrections and provide the corrected fruit names.

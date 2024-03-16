@@ -1,0 +1,5 @@
+You have been given a list of phone numbers in a specific format. Your task is to convert each phone number into a more readable format by adding parentheses around the area code and separating the numbers with dashes. 
+
+For example, if you are given the phone number '+106 769-858-438', you should convert it to '+106 (769) 858-438'.
+
+Can you please convert all the phone numbers in the given list to the specified format?

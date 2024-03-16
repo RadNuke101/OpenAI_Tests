@@ -1,0 +1,1 @@
+For each pair of first and last names provided in the list, please format them in the following way: Last name, first initial. Make sure to maintain the order of the names as they appear in the list. This will help in creating a new list where each name is represented by their last name followed by the first initial.

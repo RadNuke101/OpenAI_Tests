@@ -1,0 +1,1 @@
+Please provide the cleaned up URLs from the following list of links: [['https=//exceljet.net/catalog'], ['https=//microsoft.com'], ['ftp=//someserver.com'], ['sftp=//127.0.0.1']].

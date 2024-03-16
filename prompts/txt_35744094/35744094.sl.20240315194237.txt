@@ -1,0 +1,1 @@
+Given a list of URLs that include specific company names and products, can you extract the names of the products mentioned in each URL? For example, from the URL 'http=//www.apple.com/uk/mac', can you identify that the product mentioned is 'mac'? Apply this process to the provided list of URLs and return a list of the identified product names.

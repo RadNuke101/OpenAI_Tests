@@ -1,0 +1,1 @@
+Please provide the cleaned up version of the following list of alphanumeric strings: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']]. Remember to remove any non-alphanumeric characters and only keep the specified number of characters as indicated by the second element in each sublist.

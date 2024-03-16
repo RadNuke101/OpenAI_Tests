@@ -1,0 +1,6 @@
+Please generate a list of countries from the given input. Each sublist contains countries that are geographically close to each other. Your task is to combine the countries within each sublist into a single string, separating them with a space. Then, provide the combined countries from each sublist as the output. 
+
+Input: [['india china japan'], ['indonesia korea']]
+Output: ['india china', 'indonesia']
+
+Combine the countries within each sublist to create a list of neighboring countries.

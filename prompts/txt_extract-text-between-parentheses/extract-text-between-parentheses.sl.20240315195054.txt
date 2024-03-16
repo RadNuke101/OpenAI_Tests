@@ -1,0 +1,1 @@
+Please provide a list of names followed by their respective scores enclosed in angle brackets. I will then extract and return the scores in a separate list.

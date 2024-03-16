@@ -1,0 +1,1 @@
+Given a list of full names, your task is to extract and return only the first names. Your job is to take the list of full names and output a new list containing only the first names.

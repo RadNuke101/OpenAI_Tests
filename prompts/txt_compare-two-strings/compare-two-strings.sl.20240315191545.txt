@@ -1,0 +1,8 @@
+Please determine if the following pairs of fruits are identical in spelling, taking into account the case sensitivity. For each pair, indicate if they are the same (true) or different (false). 
+
+[['apple', 'apple']] - true
+[['orange', 'Orange']] - false
+[['peach', 'peach']] - true
+[['cherry', 'cherrY']] - false
+
+Based on the comparison, provide 'true' or 'false' for each pair.

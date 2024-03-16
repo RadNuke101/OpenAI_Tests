@@ -1,0 +1,9 @@
+Please indicate whether the following statements are true or false based on the given input:
+
+1. "some project" and "other project" are both included in the list.
+2. "some project" is included in the list.
+3. "overhead" is included in the list.
+4. "some project" and "overhead" are both included in the list.
+5. "some project", "other", and "boo" are all included in the list.
+
+Provide your answers as either "true" or "false" for each statement.

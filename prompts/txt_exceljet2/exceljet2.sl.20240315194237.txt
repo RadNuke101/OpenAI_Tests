@@ -1,0 +1,1 @@
+For each domain name provided, please extract the top-level domain (TLD) and list them in the correct order.

@@ -1,0 +1,1 @@
+Please format the given list of names in the following way: For each pair of first and last names, abbreviate the first name to its first letter followed by a period, and then display the last name in full.

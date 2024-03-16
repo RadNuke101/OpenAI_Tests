@@ -1,0 +1,8 @@
+Please determine if the following pairs of fruits are identical. Pay attention to the capitalization of the letters. 
+
+1. apple and apple
+2. orange and Orange
+3. peach and peach
+4. cherry and cherrY
+
+For each pair, indicate if they are the same (true) or different (false).

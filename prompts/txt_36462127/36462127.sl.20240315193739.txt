@@ -1,0 +1,3 @@
+Please provide a list of strings containing paths separated by slashes. Each path consists of multiple segments. Your task is to identify the last segment of each path and return them in a new list. 
+
+For example, given the input [['ABCDE/FGHI/JKL/MNOPQR'], ['A/ABCDE/FGHI/JKL']], you should return ['MNOPQR', 'JKL'].

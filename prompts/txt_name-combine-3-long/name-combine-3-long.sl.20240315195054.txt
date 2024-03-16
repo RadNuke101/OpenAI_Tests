@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please generate a new list where each name is abbreviated to just the first initial of the first name followed by the full last name?

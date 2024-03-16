@@ -1,0 +1,1 @@
+Please provide me with a list containing various codes, some of which include additional information after a vertical bar. I will process the list and return a new list with only the codes, removing any additional information.

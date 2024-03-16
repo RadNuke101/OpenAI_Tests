@@ -1,0 +1,6 @@
+Please provide the cleaned version of the following codes. 
+
+Input: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']]
+Output: ['234', '512A', 'DMX']
+
+Relationship: The cleaned version of the codes provided in the input is obtained by removing the first character from each code. Please provide the cleaned version of the codes.

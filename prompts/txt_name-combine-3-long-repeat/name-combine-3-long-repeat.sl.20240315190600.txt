@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please format them in the following way: take the first letter of the first name and add a period, followed by a space, and then the last name. If there are multiple instances of the same name pair, repeat the formatting accordingly. Your task is to transform the list of name pairs into the specified format.

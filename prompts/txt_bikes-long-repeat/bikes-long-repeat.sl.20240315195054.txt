@@ -1,0 +1,1 @@
+Given a list of motorcycle models with their corresponding engine sizes, your task is to extract and list only the brand names from each entry. For example, from the input [['Ducati100']], you should output 'Ducati'. Make sure to maintain the order of the brands as they appear in the input list.

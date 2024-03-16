@@ -1,0 +1,1 @@
+Please provide a list of names in the format [['First Name', 'Last Name'], ...]. I will then rearrange the names to display them in the format ['Last Name, First Initial'].

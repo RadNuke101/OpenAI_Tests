@@ -1,0 +1,1 @@
+Please generate a list of abbreviated names for the given list of full names. Each abbreviated name should consist of the first letter of the first name followed by a period and then the full last name.

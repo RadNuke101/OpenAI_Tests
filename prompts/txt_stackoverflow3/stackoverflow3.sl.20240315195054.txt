@@ -1,0 +1,1 @@
+Please provide the location information from the given list of birth records.

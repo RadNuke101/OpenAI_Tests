@@ -1,0 +1,1 @@
+Please count the occurrences of the letter 'n' in each word from the list provided and provide the results in the same order.

@@ -1,0 +1,1 @@
+Please select the first letter of each word in the following list of items: [['spreadsheet', '1'], ['spreadsheet', '2'], ['spreadsheet', '3'], ['spreadsheet', '4'], ['spreadsheet', '5']].

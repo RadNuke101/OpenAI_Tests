@@ -1,0 +1,1 @@
+Please format the list of names by abbreviating the last names to just the first letter followed by a period.

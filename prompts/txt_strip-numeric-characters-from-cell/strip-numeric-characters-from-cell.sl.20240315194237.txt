@@ -1,0 +1,7 @@
+Please rewrite the following sentences by removing unnecessary information:
+
+1. Original: '34653 jim mcdonald'
+2. Original: 'price is 500'
+3. Original: '100 apples'
+
+Rewrite the sentences to only include the relevant information.

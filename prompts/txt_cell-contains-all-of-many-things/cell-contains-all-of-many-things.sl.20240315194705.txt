@@ -1,0 +1,9 @@
+Please read the following sentences and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. "For each sentence, determine if the words 'yellow', 'green', and 'dog' are present. If all three words are present, the output is 'true', otherwise the output is 'false'."
+
+2. "Check if the sentences contain the words 'yellow', 'green', and 'dog'. If all three words are present, the output should be 'true', otherwise it should be 'false'."
+
+3. "Evaluate each sentence to see if it includes the words 'yellow', 'green', and 'dog'. If all three words are found, the output is 'true', otherwise it is 'false'."
+
+4. "Examine the sentences to determine if they feature the words 'yellow', 'green', and 'dog'. If all three words are present, the output is 'true', otherwise it is 'false'."

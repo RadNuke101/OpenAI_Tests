@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange them to form full names in the format "Lastname Firstname". Each pair of first and last names should be combined in this way to create a new list of full names. Your prompt should take the input list and return the rearranged list of full names.

@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please generate a new list with the initials of the first name followed by a period and the first letter of the last name followed by a period?

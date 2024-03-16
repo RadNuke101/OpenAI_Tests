@@ -1,0 +1,1 @@
+For each list of first and last names provided, please format the names in the following way: Last name, First initial. For example, if the input is [['John', 'Doe'], ['Jane', 'Smith']], the output should be ['Doe, J.', 'Smith, J.']. Remember to include the period after the first initial. Thank you for your assistance!

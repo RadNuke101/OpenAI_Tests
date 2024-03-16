@@ -1,0 +1,6 @@
+Please read the following sentences and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. Is the phrase "yellow dog on green grass" present in the sentence, along with the words "yellow," "green," and "dog"? (Answer: true)
+2. Does the sentence contain the words "yellow," "green," and "dog," as well as "Lone dog with a green frisbie on yellow sand"? (Answer: true)
+3. Is the sentence "A yellow sun in a green field" missing the word "dog" but contains "yellow" and "green"? (Answer: false)
+4. Does the sentence "yellow neon sign with a green background" lack the word "dog" but includes "yellow" and "green"? (Answer: false)

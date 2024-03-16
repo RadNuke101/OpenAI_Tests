@@ -1,0 +1,1 @@
+Given a list of input strings in the format [['dimension', 'operator', 'number'], ['phrase', 'operator', 'number']], determine the total number of characters in each dimension and phrase after applying the specified operator and number. Calculate the sum of characters for each input and provide the results as output.

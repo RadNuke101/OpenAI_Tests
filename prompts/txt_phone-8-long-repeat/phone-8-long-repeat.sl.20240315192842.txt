@@ -1,0 +1,1 @@
+Given a list of phone numbers with country codes and phone numbers, your task is to extract the last three digits of each phone number. The output should be a list of these last three digits.

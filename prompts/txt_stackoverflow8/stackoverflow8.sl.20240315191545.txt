@@ -1,0 +1,1 @@
+Please provide me with a list of file paths. Each file path should contain the location of an Excel file and the name of the sheet within that file. For example, [['home/Excel/Sheet1.xls'], ['home/user/Sheet1.xls']]. Based on this information, I will extract and return a list of just the sheet names.

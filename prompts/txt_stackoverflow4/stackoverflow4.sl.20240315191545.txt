@@ -1,0 +1,1 @@
+Please format the given list of color codes into a more readable format by removing the unnecessary characters and spaces. Each color code should be displayed as follows: "Color/Type R/G/B".

@@ -1,0 +1,7 @@
+Please count the number of characters in each sentence provided in the following list and provide the count for each sentence:
+
+1. 'humpty dumpty'
+2. 'humpty dumpty sat on a wall,'
+3. 'couldnt put humpty together again.'
+
+Your task is to count the characters in each sentence and provide the counts in the same order as the sentences.

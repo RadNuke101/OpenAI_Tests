@@ -1,0 +1,1 @@
+Given a list of university names and their corresponding locations, your task is to generate a prompt that will return a list of unique university names along with their locations, ensuring that the grammar is correct.

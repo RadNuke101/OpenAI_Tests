@@ -1,0 +1,7 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. The input consists of phone numbers in a list, where each phone number is represented as a string with digits separated by hyphens. 
+
+To achieve this, you need to format each phone number in the list to have the following structure: (XXX) XXX-XXXX, where XXX represents the area code and the subsequent digits represent the phone number. 
+
+Please write a function that takes the list of phone numbers as input and returns a new list with each phone number formatted in the specified manner. 
+
+For example, if the input is [['938-242-504'], ['938-242-504']], the output should be ['(938) 242-504', '(938) 242-504'].

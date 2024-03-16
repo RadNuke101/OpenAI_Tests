@@ -1,0 +1,1 @@
+Please generate a list of the last three digits of each phone number in the given list. Each phone number is represented as a list of strings. The output should be a list of the last three digits extracted from each phone number.

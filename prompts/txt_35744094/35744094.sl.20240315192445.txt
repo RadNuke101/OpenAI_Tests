@@ -1,0 +1,1 @@
+Given a list of URLs that include information about different technology companies and their products, can you extract the names of the products mentioned in each URL and provide them in a list format? For example, from the URL 'http=//www.apple.com/uk/mac', please identify and list the product mentioned.

@@ -1,0 +1,1 @@
+Please extract the relevant information from the following text: [['Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum'], ['Dec 2, 2014, 11=24 PM - +91 90000 80000= loren']]. What are the main details mentioned in the text?

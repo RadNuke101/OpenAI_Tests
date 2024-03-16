@@ -1,0 +1,1 @@
+Please extract the relevant information from the following text: [['34653 jim mcdonald'], ['price is 500'], ['100 apples']]. Your task is to identify and isolate the names, prices, and items mentioned in the text. Once you have done so, please provide the extracted information in a clear and organized manner.

@@ -1,0 +1,1 @@
+Please transform the list of car details into a more concise format. The input consists of separate lists containing information about the year, make, model, and fuel economy of a car. Combine these details into a single sentence, separating each detail with a comma.

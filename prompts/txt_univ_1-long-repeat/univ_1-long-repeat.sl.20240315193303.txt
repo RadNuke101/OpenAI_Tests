@@ -1,0 +1,1 @@
+Please generate a list of universities and their corresponding locations based on the given input. Each entry in the list should consist of the university name followed by its location. Make sure to include the city and state/country information for each university.

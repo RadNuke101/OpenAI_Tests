@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. The input consists of phone numbers in the format [['xxx-xxx-xxx'], ['xxx-xxx-xxx'], ...]. Your job is to transform each phone number into the format '(xxx) xxx-xxx' and provide the updated list of phone numbers. 
+
+For example, if the input is [['123-456-789'], ['987-654-321']], the output should be ['(123) 456-789', '(987) 654-321']. 
+
+Please provide the transformed list of phone numbers in the specified format.

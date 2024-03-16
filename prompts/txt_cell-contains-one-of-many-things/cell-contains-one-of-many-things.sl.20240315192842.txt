@@ -1,0 +1,7 @@
+Please read the following sentences and determine if they accurately describe the relationship between the given input and output:
+
+1. "Identify whether the descriptions contain the words 'yellow', 'green', and 'dog' in the correct order."
+2. "Decide if the sentences correctly match the criteria of having 'yellow', 'green', and 'dog' mentioned."
+3. "Check if the phrases mention 'yellow', 'green', and 'dog' in the specified sequence."
+
+After reviewing the sentences, please provide a response of 'true' or 'false' for each one based on the given input and output.

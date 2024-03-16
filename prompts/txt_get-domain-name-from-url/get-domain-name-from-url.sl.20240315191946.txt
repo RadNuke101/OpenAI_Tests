@@ -1,0 +1,1 @@
+You have been given a list of URLs with some extra characters at the end. Your task is to clean up these URLs by removing everything after the last forward slash (/) and then display the cleaned up URLs.

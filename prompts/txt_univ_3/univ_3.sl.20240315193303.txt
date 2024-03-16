@@ -1,0 +1,1 @@
+Given a list of universities and their locations, can you provide a prompt that correctly formats the locations by including the country code for each city?

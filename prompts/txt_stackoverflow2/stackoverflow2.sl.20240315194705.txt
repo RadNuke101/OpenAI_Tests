@@ -1,0 +1,1 @@
+Please separate the countries in each group using commas. For example, if the first group is "india china japan", please enter it as "india, china, japan". Based on the input you provide, I will identify the countries that are common in both groups and return them.

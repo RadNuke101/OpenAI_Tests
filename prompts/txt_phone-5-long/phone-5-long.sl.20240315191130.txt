@@ -1,0 +1,1 @@
+Can you please extract the country codes from the list of phone numbers provided?

@@ -1,0 +1,3 @@
+Given a list of pairs of strings, some of which start with 'C0', your task is to identify and return the pairs where the first string starts with 'C0'. 
+
+For example, if the input is [['C0abc', 'def'], ['aabc', 'def'], ['C0dd', 'qwe'], ['dd', 'qwe']], the correct output would be ['C0abc', 'def', 'C0dd', 'qwe'].

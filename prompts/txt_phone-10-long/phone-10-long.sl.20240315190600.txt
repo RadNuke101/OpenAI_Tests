@@ -1,0 +1,7 @@
+You have been given a list of phone numbers in a specific format. Each phone number is represented as a list containing a string with the country code, area code, and phone number separated by spaces and dashes. Your task is to format these phone numbers in a more readable way by adding parentheses around the area code and hyphens between the different parts of the phone number. 
+
+Write a function that takes the input list of phone numbers and returns a new list where each phone number is formatted as follows: "+CountryCode (AreaCode) PhoneNumber". 
+
+For example, the phone number "+106 769-858-438" should be formatted as "+106 (769) 858-438". 
+
+Implement this formatting logic in your function and return the formatted list of phone numbers.

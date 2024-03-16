@@ -1,0 +1,1 @@
+Please read the following sentences and determine if they contain the words "yellow", "green", and "dog". Indicate whether the statement is true or false based on the presence of these words.

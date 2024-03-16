@@ -1,0 +1,1 @@
+Given a list of phone numbers in a specific format, can you convert each phone number into a more readable format with periods separating the digits? For example, convert [['+106 769-858-438'], ['+83 973-757-831']] to ['106.769.858.438', '83.973.757.831'].

@@ -1,0 +1,1 @@
+Please generate a list of last names from the given list of full names.

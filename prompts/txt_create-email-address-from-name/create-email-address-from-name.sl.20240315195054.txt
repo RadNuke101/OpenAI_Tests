@@ -1,0 +1,7 @@
+Please create email addresses for the following individuals by combining their last name and first initial, followed by "_acme.com":
+
+1. Traci Brown
+2. Linda Thomas
+3. Jack Ward
+
+Combine the information provided in the input list to generate the email addresses for each individual.

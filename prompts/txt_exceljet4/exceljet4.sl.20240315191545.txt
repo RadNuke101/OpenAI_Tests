@@ -1,0 +1,1 @@
+Please provide the cleaned up URLs by removing the protocol prefixes and any unnecessary characters from the following list of URLs: [['https=//exceljet.net/catalog'], ['https=//microsoft.com'], ['ftp=//someserver.com'], ['sftp=//127.0.0.1']].

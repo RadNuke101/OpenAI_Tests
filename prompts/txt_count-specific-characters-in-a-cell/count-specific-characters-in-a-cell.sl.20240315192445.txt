@@ -1,0 +1,1 @@
+Please count the number of times the letter 'n' appears in each word from the list provided.

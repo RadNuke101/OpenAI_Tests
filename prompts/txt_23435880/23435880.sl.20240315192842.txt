@@ -1,0 +1,1 @@
+Please count the number of times the second element in each sublist appears in the first element of that sublist. For example, in the first sublist, 'apple' appears 2 times in 'apple apples'. In the second sublist, 'orange' appears 3 times in 'an orange among the oranges is a spoiled orange'. Can you provide the counts for each sublist?

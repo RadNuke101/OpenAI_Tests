@@ -1,0 +1,9 @@
+Please read the following sentences and determine if the colors mentioned match the colors provided in the list:
+
+1. "red ball, green sweater"
+2. "pink ball, green sweater"
+3. "blue sea, pink ribbon"
+4. "black sea, white ribbon"
+5. "red green blue"
+
+Do the colors mentioned in each sentence match the colors 'red', 'blue', and 'pink' from the list? Respond with 'true' or 'false' for each sentence.

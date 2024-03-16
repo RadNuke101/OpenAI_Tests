@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please format the names by taking the first letter of the first name followed by a period and a space, then the full last name. If the same pair of names appears multiple times, please repeat the formatted name accordingly. Your task is to generate the formatted names based on the given list of unformatted names.

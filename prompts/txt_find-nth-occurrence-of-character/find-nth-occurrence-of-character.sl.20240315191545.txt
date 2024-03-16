@@ -1,0 +1,6 @@
+Prompt: For each message that includes replies to _aya, _tasisuke, and _chan, combine the numbers provided at the end of the message to form a new number. 
+
+Input: [['replies to _aya, _tasisuke, and _chan', '1'], ['replies to _aya, _tasisuke, and _chan', '2'], ['replies to _aya, _tasisuke, and _chan', '3']]
+Output: ['12', '18', '33']
+
+Task: Combine the numbers in each message to create a new number based on the order of appearance.

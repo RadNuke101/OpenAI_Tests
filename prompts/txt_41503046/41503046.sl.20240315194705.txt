@@ -1,0 +1,1 @@
+Given a list of plant names with varying levels of specificity, can you provide a more general version of each name by removing any additional information beyond the genus level? For example, if the input is [['Polygonum amphibium']], the output should be ['Polygonum'].

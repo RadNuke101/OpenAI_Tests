@@ -1,0 +1,1 @@
+You have been given a list of URLs with some extra path information. Your task is to extract the base URL from each entry by removing the extra path information. Please provide the cleaned up URLs by removing everything after the domain name and the top-level domain.

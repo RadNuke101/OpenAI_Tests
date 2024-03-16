@@ -1,0 +1,1 @@
+Please extract the titles from the given list of movie information. Each entry includes the movie title followed by relevant details such as release year, rating, and popularity score. Your task is to identify and list only the movie titles.

@@ -1,0 +1,1 @@
+For each pair of first and last names provided in the input, please format them in the following way: Last name, First initial. Make sure to maintain the order of the names as they appear in the input.

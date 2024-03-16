@@ -1,0 +1,10 @@
+Please categorize the following motorcycle models by their brand:
+
+1. Ducati100
+2. Honda125
+3. Ducati250
+4. Honda250
+5. Honda550
+6. Ducati125
+
+Please provide the brand name for each model.

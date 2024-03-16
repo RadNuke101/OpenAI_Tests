@@ -1,0 +1,1 @@
+Please generate a list of full names by combining the first and last names provided in the input list. Each pair of first and last names should be combined with a space in between to form a full name. The output should consist of these full names.

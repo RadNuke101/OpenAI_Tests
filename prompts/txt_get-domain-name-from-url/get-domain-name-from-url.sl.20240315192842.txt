@@ -1,0 +1,1 @@
+You have been given a list of URLs with different paths. Your task is to extract the domain names from each URL and remove the paths to create a new list of simplified URLs. Each URL in the input list is formatted as protocol followed by domain and path. Your goal is to generate a new list with just the protocol and domain, without the paths.

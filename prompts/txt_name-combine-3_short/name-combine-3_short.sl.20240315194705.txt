@@ -1,0 +1,1 @@
+Please format the given list of names in the following way: For each pair of first and last names, abbreviate the first name to its first initial followed by a period, and then include the last name in full. For example, [['Launa', 'Withers'], ['Lakenya', 'Edison']] should be formatted as ['L. Withers', 'L. Edison'].

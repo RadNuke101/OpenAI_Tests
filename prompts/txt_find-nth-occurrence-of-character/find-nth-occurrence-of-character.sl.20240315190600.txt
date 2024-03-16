@@ -1,0 +1,1 @@
+Please provide the sum of the numbers in the given list after concatenating them.

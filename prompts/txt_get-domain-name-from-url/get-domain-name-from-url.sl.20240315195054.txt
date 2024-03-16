@@ -1,0 +1,5 @@
+I have a list of URLs that need to be cleaned up. Each URL is currently in a format where the protocol (http or https) is followed by the domain and path. However, I need to remove the path from each URL and only keep the domain.
+
+For example, the input [['https=//abc.com/def']] should be transformed into ['https=//abc.com/'].
+
+Can you help me by providing the cleaned-up version of each URL, where only the domain is retained without the path?

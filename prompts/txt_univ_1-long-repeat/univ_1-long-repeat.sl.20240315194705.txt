@@ -1,0 +1,1 @@
+You have been given a list of university names and their corresponding locations. Your task is to organize this information into a formatted list that includes the university name followed by its location. Make sure to include the city and state/country for each university.

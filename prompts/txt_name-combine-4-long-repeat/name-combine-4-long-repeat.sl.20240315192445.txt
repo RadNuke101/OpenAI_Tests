@@ -1,0 +1,1 @@
+When given a list of full names in the format [['First Name', 'Last Name'], ['First Name', 'Last Name'], ...], your task is to generate a new list where each full name is formatted as 'Last Name, First Initial.'. Make sure to maintain the order of the names in the input list.

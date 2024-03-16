@@ -1,0 +1,1 @@
+You have a list of full names, with each name consisting of a first name and a last name. Your task is to format these names by abbreviating the last name to just the first letter followed by a period. For example, 'Nancy FreeHafer' should be formatted as 'Nancy F.'. Can you generate the formatted names for the given list of names?

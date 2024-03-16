@@ -1,0 +1,1 @@
+Please generate a list of abbreviated names by taking the first letter of the first name and combining it with the last name.

@@ -1,0 +1,1 @@
+Please extract the last three digits from each phone number provided in the list and return them in a new list.

@@ -1,0 +1,1 @@
+Given a list of phone numbers with hyphens separating the digits, can you extract the middle three digits from each number and provide them as a list?

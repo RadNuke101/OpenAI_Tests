@@ -1,0 +1,1 @@
+Please extract the domain names from the given list of email addresses.

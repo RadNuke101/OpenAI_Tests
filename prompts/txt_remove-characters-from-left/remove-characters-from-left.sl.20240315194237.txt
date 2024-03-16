@@ -1,0 +1,1 @@
+Please provide the cleaned-up version of the following list of alphanumeric strings by removing the numerical values at the beginning of each string: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']].

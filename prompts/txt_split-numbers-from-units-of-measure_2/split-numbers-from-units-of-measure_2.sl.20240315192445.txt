@@ -1,0 +1,1 @@
+For each item in the list, identify the unit of measurement used and extract the corresponding abbreviation. Then, arrange these abbreviations in the same order as the items in the list.

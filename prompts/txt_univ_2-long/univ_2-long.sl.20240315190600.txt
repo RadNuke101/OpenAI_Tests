@@ -1,0 +1,1 @@
+Given a list of universities and their locations in a nested list format, please generate a prompt that will return the universities with their locations in a formatted manner, including the country abbreviation "USA" where applicable.

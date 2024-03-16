@@ -1,0 +1,1 @@
+Please provide me with a list of phone numbers in the format [['xxx-xxx-xxx'], ['xxx-xxx-xxx'], ...]. I will extract the last three digits of each phone number and provide you with a list of these three-digit sequences.

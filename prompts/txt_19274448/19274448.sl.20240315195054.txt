@@ -1,0 +1,6 @@
+Please determine if the following strings contain the pattern of having a sequence of at least 3 digits followed by a sequence of at least 3 letters. 
+
+Input: [['dhfjd9999999dfda'], ['ddsss999dfdfsfd']]
+Output: ['true', 'false']
+
+Do the strings in the input list follow the specified pattern? Answer with 'true' or 'false' for each string.

@@ -1,0 +1,6 @@
+Please extract the titles from the given list of movie entries. Each entry consists of a title followed by relevant information separated by equal signs. Your task is to identify and list only the titles from the entries. 
+
+Input: [['valentine day=1915=50==7.1=45'], ['movie blah=2blahblah, The=1914=54==7.9=17']]
+Output: ['valentine day', 'movie blah=2blahblah, The']
+
+Can you provide me with the titles extracted from the movie entries?

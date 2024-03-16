@@ -1,0 +1,3 @@
+Please provide me with a list of file names that need to be formatted. Each file name consists of a combination of words and file extensions. I will help you extract only the relevant information by removing the file extensions. 
+
+For example, if you provide me with [['happy.jpg'], ['pivot table.xls'], ['sales data.csv'], ['invoice3001.xls.pdf']], I will return ['happy', 'pivot table', 'sales data', 'invoice3001'] after removing the file extensions. Let's get started!

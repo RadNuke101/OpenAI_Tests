@@ -1,0 +1,1 @@
+Given a list of sentences where each sentence contains a combination of colors and objects, along with a list of target colors, determine if each sentence contains all the target colors. For each sentence, indicate whether it contains all the target colors by outputting 'true' or 'false'.

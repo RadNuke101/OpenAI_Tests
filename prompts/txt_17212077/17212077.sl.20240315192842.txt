@@ -1,0 +1,1 @@
+Please format the dates in the following format: MM/YYYY. For example, if the input is [['01/15/2013'], ['03/07/2011'], ['05/09/2009']], please provide the dates in the format ['01/2013', '03/2011', '05/2009'].

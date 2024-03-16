@@ -1,0 +1,1 @@
+Please provide a list of URLs with different protocols, each containing a domain name and possibly a path. I will extract and format the domain names for you.

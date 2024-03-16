@@ -1,0 +1,1 @@
+Given a list of full names, your task is to extract and return only the first names. The first names should be separated by commas and each name should be capitalized.

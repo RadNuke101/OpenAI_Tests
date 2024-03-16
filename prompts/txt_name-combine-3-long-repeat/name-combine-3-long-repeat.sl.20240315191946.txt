@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please format them in the following way: take the first letter of the first name followed by a period, and then the full last name. Return the formatted names in the same order as they were given. Make sure to maintain the correct grammar and punctuation.

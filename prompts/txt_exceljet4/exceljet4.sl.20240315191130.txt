@@ -1,0 +1,1 @@
+Please provide me with a list of URLs, each starting with a protocol (such as 'https=', 'ftp=', 'sftp='), followed by the corresponding website address. I will then extract and format the website addresses for you.

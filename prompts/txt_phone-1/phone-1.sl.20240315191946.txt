@@ -1,0 +1,3 @@
+Please provide me with the last three digits of each phone number in the following format: [['938-242-504'], ['308-916-545'], ['623-599-749'], ['981-424-843'], ['118-980-214'], ['244-655-094']].
+
+I will then extract the middle three digits from each phone number and provide you with the corresponding output.

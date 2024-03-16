@@ -1,0 +1,1 @@
+Given a list of full names with two parts (first name and last name), your task is to generate a list of abbreviated names with the first letter of the last name followed by a period. For example, 'Nancy FreeHafer' should be abbreviated as 'Nancy F.'. Can you generate the abbreviated names for the given list of full names?

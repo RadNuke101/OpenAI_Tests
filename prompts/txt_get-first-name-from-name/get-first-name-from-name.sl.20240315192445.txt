@@ -1,0 +1,1 @@
+Please provide a list of names with varying formats, such as full names or names with initials. I will return a list of the first names extracted from each input, ensuring proper grammar and formatting.

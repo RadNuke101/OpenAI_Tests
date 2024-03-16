@@ -1,0 +1,1 @@
+Please generate a list of universities with their corresponding locations based on the given input data. Each entry should include the university name followed by its location in the format "university name, location".

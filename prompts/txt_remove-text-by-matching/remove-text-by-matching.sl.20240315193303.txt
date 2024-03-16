@@ -1,0 +1,1 @@
+Please remove the dashes and combine the numbers in the following phone number lists to generate a new list of phone numbers without any dashes: [['801-345-1987'], ['612-554-2000']]

@@ -1,0 +1,7 @@
+You have been given a list of phone numbers in a specific format, with each number represented as a list of strings. Your task is to convert these phone numbers into a more readable format by adding parentheses around the area code and inserting hyphens to separate the different parts of the number. 
+
+Write a function that takes the input list of phone numbers and returns a new list with the numbers formatted correctly. Each phone number should now be a string with the area code enclosed in parentheses and the rest of the number separated by hyphens. 
+
+For example, the input [['938-242-504'], ['308-916-545']] should return ['(938) 242-504', '(308) 916-545']. 
+
+Make sure to pay attention to the grammar and formatting rules when generating the output.

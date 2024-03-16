@@ -1,0 +1,9 @@
+Please provide the locations of the following universities in the correct format: 
+1. University of Pennsylvania
+2. UCLA
+3. Cornell University
+4. Penn
+5. University of Maryland College Park
+6. University of Michigan
+
+Ensure to include the city, state, and country for each location. Thank you.

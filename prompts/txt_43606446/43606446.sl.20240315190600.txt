@@ -1,0 +1,5 @@
+Given a list of currency pairs in the format 'BASE.QUOTE<PLATFORM,TYPE,QUOTE_CURRENCY>', can you identify and extract the quote currency from each pair? 
+
+For example, if the input is [['USD.EUR<IDEALPRO,CASH,EUR>'], ['USD.EUR<IDEALPRO,CASH,USD>'], ['KOR.JPN<IDEALPRO,CASH,WON>'], ['KOR.JPN<IDEALPRO,CASH,YEN>']], what are the quote currencies for each pair? 
+
+Please provide your answer in the format ['EUR', 'USD', 'WON', 'YEN'].

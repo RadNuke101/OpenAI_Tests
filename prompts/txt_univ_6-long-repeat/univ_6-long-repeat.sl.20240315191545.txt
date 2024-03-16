@@ -1,0 +1,1 @@
+For each pair of universities and their respective locations provided in the list, please generate a new list that combines the city and state information into a single string for each location. Make sure to include the country name "USA" where applicable. Remember to maintain the order of the locations as they appear in the original list.

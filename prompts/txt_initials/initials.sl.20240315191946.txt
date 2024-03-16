@@ -1,0 +1,1 @@
+Please provide me with a list of full names, each enclosed in a separate list. I will then generate abbreviated initials for each name. For example, if you provide me with [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']], I will return ['N.F.', 'A.C.', 'J.K.', 'M.S.'].

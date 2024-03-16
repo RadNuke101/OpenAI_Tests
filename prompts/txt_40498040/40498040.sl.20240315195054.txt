@@ -1,0 +1,1 @@
+Please determine whether the given list of project names indicate if they contain the word "some project" or not. If they do, the output should be 'true', otherwise 'false'.

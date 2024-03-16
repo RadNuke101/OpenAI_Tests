@@ -1,0 +1,1 @@
+Given a list of first and last names in separate lists, your task is to combine them into full names.

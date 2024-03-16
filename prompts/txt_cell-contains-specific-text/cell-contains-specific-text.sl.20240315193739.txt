@@ -1,0 +1,1 @@
+Please determine if the given phrases contain a specific word. If the word is present in the phrase, respond with 'true'. If the word is not present, respond with 'false'.

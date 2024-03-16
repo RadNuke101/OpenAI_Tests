@@ -1,0 +1,1 @@
+Given a list of strings containing various information, can you identify and extract the specific phrases that include details about passengers and boxes? Please provide the relevant details about passengers and boxes from the given list of strings.

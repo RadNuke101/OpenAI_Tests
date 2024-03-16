@@ -1,0 +1,5 @@
+Please provide the middle names or initials of the individuals in the following list to generate a formatted output that includes only the middle names or initials. 
+
+Input: [['susan ann chang'], ['ayako tanaka'], ['bobby t. smith'], ['anthory r. tom brown']]
+
+Output: ['ann', '', 't.', 'r. tom']

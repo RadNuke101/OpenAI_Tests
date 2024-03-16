@@ -1,0 +1,6 @@
+Please read the following sentences carefully and determine if they accurately describe the relationship between the inputs and outputs provided:
+
+1. "Identify whether the given sentences contain the words 'yellow', 'green', and 'dog'. Mark 'true' if all three words are present, and 'false' if any of the words are missing."
+2. "Check if the sentences mention a 'yellow' color, a 'green' color, and a 'dog'. Indicate 'true' if all three elements are included, and 'false' if any are absent."
+3. "Determine if the sentences feature the colors 'yellow' and 'green', as well as the animal 'dog'. Select 'true' if all three are mentioned, and 'false' if any are not present."
+4. "Verify if the sentences talk about 'yellow', 'green', and 'dog'. Choose 'true' if all three are referenced, and 'false' if any are omitted."

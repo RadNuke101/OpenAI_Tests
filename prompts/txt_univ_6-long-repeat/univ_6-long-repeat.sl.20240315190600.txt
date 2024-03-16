@@ -1,0 +1,1 @@
+Given a list of university names and their corresponding locations, please generate a new list that combines the city and state information into a single string for each university. Make sure to include the country name if it is provided. Remember to maintain the order of the universities in the new list.

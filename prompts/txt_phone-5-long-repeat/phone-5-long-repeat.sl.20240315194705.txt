@@ -1,0 +1,1 @@
+For each phone number in the given list, extract the country code. The country code is the first set of numbers before the space in each phone number. Return a new list containing all the extracted country codes.

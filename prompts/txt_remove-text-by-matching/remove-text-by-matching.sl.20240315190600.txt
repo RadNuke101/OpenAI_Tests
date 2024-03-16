@@ -1,0 +1,1 @@
+Please remove any dashes from the following phone numbers and provide them without any special characters: [['801-345-1987'], ['612-554-2000']].

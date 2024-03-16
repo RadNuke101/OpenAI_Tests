@@ -1,0 +1,1 @@
+Given a list of names and email domains, can you please provide me with a list of the unique domain names used in the email addresses?

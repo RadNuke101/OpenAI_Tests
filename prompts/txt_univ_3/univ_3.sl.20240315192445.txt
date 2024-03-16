@@ -1,0 +1,1 @@
+You have a list of universities and their locations. Your task is to extract the cities and states where each university is located.

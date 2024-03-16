@@ -1,0 +1,5 @@
+Can you please provide me with a list of website domains? For example, ['www.domain.com'], ['mail.net'], ['www.amaon.co.uk']. 
+
+Based on the domains you provide, I will extract the top-level domain (TLD) for each website. For instance, from 'www.domain.com', I will determine that the TLD is 'com'. 
+
+Once you have given me the list of domains, I will return to you the corresponding list of top-level domains.

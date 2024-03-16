@@ -1,0 +1,1 @@
+Rearrange the names in the given list to create a new list where each name is formatted as "last name, first name".

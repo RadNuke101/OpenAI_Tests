@@ -1,0 +1,1 @@
+For each pair of first and last names provided in the list, please format them in the following way: last name followed by a comma and the first initial. Make sure to maintain the order of the names as they appear in the list.

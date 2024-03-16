@@ -1,0 +1,8 @@
+Given the following list of strings:
+
+1. 'ABCDE/FGHI/JKL/MNOPQR'
+2. 'A/ABCDE/FGHI/JKL'
+
+Can you identify the common elements that appear at the end of each string in the list? 
+
+Please provide the common elements found at the end of each string.

@@ -1,0 +1,1 @@
+Please extract the dates from the following list of date ranges and numbers: [['1/17/16-1/18/17', '1'], ['1/17/16-1/18/17', '2'], ['01/17/2016-01/18/2017', '1'], ['01/17/2016-01/18/2017', '2']]. The dates should be formatted as follows: ['1/17/16', '1/18/17', '01/17/2016', '01/18/2017'].

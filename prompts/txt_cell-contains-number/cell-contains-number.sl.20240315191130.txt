@@ -1,0 +1,7 @@
+Please determine if the following sentences are grammatically correct and match the given patterns:
+
+1. "A bird in the hand is worth 2 in the bush." - Is this sentence true or false?
+2. "A bird in the hand is worth two in the bush." - Is this sentence true or false?
+3. "The 15 shortcuts you simply must know" - Is this sentence true or false?
+
+Your task is to provide 'true' or 'false' based on the grammar and pattern matching of the sentences.

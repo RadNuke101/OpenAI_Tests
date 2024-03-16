@@ -1,0 +1,8 @@
+Please select the items that are related in the following list:
+
+1. C0abc, def
+2. aabc, def
+3. C0dd, qwe
+4. dd, qwe
+
+Which items go together?

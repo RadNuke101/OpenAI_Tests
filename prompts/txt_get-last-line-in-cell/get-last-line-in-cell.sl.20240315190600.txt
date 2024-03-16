@@ -1,0 +1,6 @@
+Please rearrange the following dates and notes in chronological order, starting with the earliest date: 
+- 11/1/2015 - First call
+- 11/1/2015 - First call, 12/3/2015 - order placed
+- 11/1/2015 - First call, 12/3/2015 - order placed, 11/15/2015 - follow-up, interested
+
+Once you have rearranged them, please provide the dates and notes in the correct order.

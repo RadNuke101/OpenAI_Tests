@@ -1,0 +1,6 @@
+Given a list of pairs of strings, some of which start with 'C0', your task is to identify and return all the strings that start with 'C0'. 
+
+Input: [['C0abc', 'def'], ['aabc', 'def'], ['C0dd', 'qwe'], ['dd', 'qwe']]
+Output: ['C0abc', 'def', 'C0dd', 'qwe']
+
+Can you identify and return all the strings that start with 'C0' from the given list of pairs of strings?

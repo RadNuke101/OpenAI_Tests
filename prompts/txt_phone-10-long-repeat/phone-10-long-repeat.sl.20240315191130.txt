@@ -1,0 +1,5 @@
+Given a list of phone numbers in a specific format, your task is to format each phone number in a more readable way. Each phone number consists of a country code, area code, and the actual phone number. The country code is preceded by a plus sign, and the phone number is separated by hyphens. Your job is to convert each phone number into a format where the country code is enclosed in parentheses, and the area code and phone number are separated by a space. 
+
+For example, the phone number '+106 769-858-438' should be formatted as '+106 (769) 858-438'. 
+
+Please write a function that takes a list of phone numbers in the given format and returns the formatted phone numbers as described above.

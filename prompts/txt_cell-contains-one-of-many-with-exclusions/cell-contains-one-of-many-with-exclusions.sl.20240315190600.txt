@@ -1,0 +1,11 @@
+Please read the following sentences and determine if the given colors match the descriptions provided:
+
+1. Is the color "yellow" mentioned in the phrase "yellow dog on green grass" and "green" mentioned as well? If so, answer "true". Otherwise, answer "false".
+
+2. Does the phrase "warm gray sweater" contain the colors "yellow" and "green"? If not, answer "false".
+
+3. In the phrase "blue neon signs", are the colors "blue" and "green" both present? If not, answer "false".
+
+4. Do the colors "blue" and "pink" appear in the phrase "hot pink socks"? If so, answer "true".
+
+5. Is the color "yellow" mentioned in the phrase "deep black eyes" along with "green" and "neon"? If not, answer "false".

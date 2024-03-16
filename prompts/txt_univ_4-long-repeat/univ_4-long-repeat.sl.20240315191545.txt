@@ -1,0 +1,1 @@
+For each pair of universities and their respective locations provided in the list, please generate a new list that includes the cities and states where these universities are located. Make sure to format the output with proper grammar and include the country name "USA" where applicable.

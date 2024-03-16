@@ -1,0 +1,1 @@
+Given a list of universities and their locations in the format [['University Name', 'City, State, Country']], please generate a prompt that will return the list with the locations formatted as ['University Name, City, State, Country'].

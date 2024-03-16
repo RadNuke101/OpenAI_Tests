@@ -1,0 +1,3 @@
+Please extract the relevant information from the following list of items: [['2283-332-44543 CAP DDT PPL445_ HEEN PAX 77820'], ['44372-33-3223 TYYTE CAP BOX 1550 244 BOX PPSSA223_ PAX'], ['PRECISE 77 CLEAR BLUE 99WIE_ BOX 4403 PAX SSKA']].
+
+What are the specific details that involve people and their belongings or destinations?

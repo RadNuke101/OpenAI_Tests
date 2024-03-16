@@ -1,0 +1,1 @@
+Please rearrange the names in the format of last name followed by a comma and the first initial, based on the given list of full names.

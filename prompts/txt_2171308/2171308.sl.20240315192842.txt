@@ -1,0 +1,1 @@
+Please provide a list of names in the format [['First Last'], ['First Last'], ['First Last']]. I will then generate a shortened version of each name by taking the first letter of the first name and combining it with the last name. For example, 'John Doe' will become 'J Doe'.

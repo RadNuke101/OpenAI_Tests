@@ -1,0 +1,1 @@
+Please generate a list of countries from the given input. Each sublist represents countries that are geographically close to each other. Your task is to combine the countries within each sublist into a single string, separated by spaces. Then, provide the final list of combined countries.

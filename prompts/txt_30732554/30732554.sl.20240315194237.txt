@@ -1,0 +1,1 @@
+Please format the given list of codes by removing any extra characters and only keeping the main code identifier.

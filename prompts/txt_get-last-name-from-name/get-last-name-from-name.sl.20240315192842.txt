@@ -1,0 +1,5 @@
+Please provide the last names of the individuals in the following list: [['Park Kim'], ['Lee Kim'], ['Kim Lee']].
+
+Output: ['Kim', 'Kim', 'Lee']
+
+Based on the input provided, please extract the last names of each individual and list them accordingly.

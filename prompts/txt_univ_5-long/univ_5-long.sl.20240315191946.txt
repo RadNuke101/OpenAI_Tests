@@ -1,0 +1,1 @@
+For each university location provided in the list, please format the city and state in the correct way.

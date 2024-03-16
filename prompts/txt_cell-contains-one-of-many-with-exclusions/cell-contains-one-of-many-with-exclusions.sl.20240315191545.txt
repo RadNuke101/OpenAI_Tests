@@ -1,0 +1,9 @@
+Please read the following sentences and determine if the colors mentioned match the given categories:
+
+1. Is there a yellow dog on green grass? (yellow, green, cat)
+2. Is the sweater warm and gray? (yellow, green, cat)
+3. Are there blue neon signs? (blue, green, neon)
+4. Are the socks hot pink? (blue, pink, neon)
+5. Do the eyes appear deep black? (yellow, green, neon)
+
+Please respond with 'true' if the colors match the categories and 'false' if they do not.

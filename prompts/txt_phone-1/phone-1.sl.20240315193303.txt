@@ -1,0 +1,1 @@
+For each phone number in the list, please provide the middle three digits.

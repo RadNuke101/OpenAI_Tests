@@ -1,0 +1,1 @@
+Please provide a list of full names in the format [['First Last'], ['First Last'], ...]. I will then provide you with a list of abbreviated names in the format ['First Last', 'First Last', ...], where the first name is represented by the initial and the last name is displayed in full.

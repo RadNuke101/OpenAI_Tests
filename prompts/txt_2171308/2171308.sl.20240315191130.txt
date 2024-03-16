@@ -1,0 +1,1 @@
+Please provide me with a list of full names, each consisting of a first name and a last name. I will then generate a list of abbreviated names by taking the first letter of the first name and combining it with the last name. For example, if you provide me with [['John Doe'], ['Mayur Naik'], ['Nimit Singh']], I will return ['J Doe', 'M Naik', 'N Singh'].

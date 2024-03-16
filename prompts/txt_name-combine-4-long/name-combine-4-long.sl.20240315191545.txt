@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], please generate a prompt that will return a list of names in the format ['Last Name, Initial.'] where the last name is followed by a comma and the initial of the first name.

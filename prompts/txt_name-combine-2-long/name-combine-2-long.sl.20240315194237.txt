@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], please generate a prompt that will return a list of abbreviated names in the format ['First Name Initial Last Name Initial']. Make sure to include the appropriate punctuation and spacing for the abbreviated names.

@@ -1,0 +1,1 @@
+Please provide a list of identifiers, some of which include additional information after a vertical bar. I will return a refined list with only the identifiers, removing any extra information.

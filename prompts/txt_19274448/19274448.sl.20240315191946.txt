@@ -1,0 +1,10 @@
+Please determine if the following strings contain the pattern of '999' repeated multiple times. 
+
+Input 1: 'dhfjd9999999dfda'
+Input 2: 'ddsss999dfdfsfd'
+
+Are there multiple occurrences of '999' in each string?
+
+Output:
+1. True
+2. False

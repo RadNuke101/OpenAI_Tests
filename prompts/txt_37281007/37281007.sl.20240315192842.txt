@@ -1,0 +1,4 @@
+Please determine if the following pairs of strings have a specific relationship. For each pair, indicate if the second string is a substring of the first string. If it is, respond with 'true', otherwise respond with 'false'. 
+
+Input: [['ABC', 'D'], ['ABC', 'BC']]
+Output: ['false', 'true']

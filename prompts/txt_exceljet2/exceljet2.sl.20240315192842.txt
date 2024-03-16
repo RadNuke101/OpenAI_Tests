@@ -1,0 +1,1 @@
+Please provide the top-level domain (TLD) for each of the given domain names.

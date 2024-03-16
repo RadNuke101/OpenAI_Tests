@@ -1,0 +1,1 @@
+Given the following input pairs: [['100x15x50', 'x', '2'], ['cat-in-the-hat', '-', '3']], can you determine the output values?

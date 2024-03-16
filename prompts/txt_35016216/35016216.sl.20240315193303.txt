@@ -1,0 +1,1 @@
+Please select the items from the list that contain a code starting with 'C0' and their corresponding values.

@@ -1,0 +1,5 @@
+Given a list of company names with a slight typo in each entry, your task is to correct the typos and extract the accurate company names. 
+
+For example, if the input is [['Name= ABC Retailers'], [' ame= XYZ Suppliers']], your goal is to identify and correct the typos to reveal the accurate company names. 
+
+What are the correct company names based on the provided input?

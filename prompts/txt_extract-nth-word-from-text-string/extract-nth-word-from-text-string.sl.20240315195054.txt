@@ -1,0 +1,8 @@
+Please select the most frequently occurring words in the following sentences and arrange them in alphabetical order: 
+
+1. "You can do anything but you can't do everything."
+2. "You can do anything but you can't do everything."
+3. "You can do anything but you can't do everything."
+4. "You can do anything but you can't do everything."
+
+What are the words that appear most frequently in these sentences, in alphabetical order?

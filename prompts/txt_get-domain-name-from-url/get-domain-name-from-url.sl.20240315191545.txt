@@ -1,0 +1,7 @@
+You have been given a list of URLs with varying paths. Your task is to extract the base domain from each URL and remove the path component. The base domain is the main part of the URL that identifies the website. 
+
+For example, given the input [['https=//abc.com/def'], ['http=//www.abc.com/def/cef'], ['http=//chandoo.org/wp/def-def']], your goal is to extract the base domain from each URL and remove the path component. 
+
+Your output should be ['https=//abc.com/', 'http=//www.abc.com', 'http=//chandoo.org/']. 
+
+Please provide the correct base domain for each URL by removing the path component.

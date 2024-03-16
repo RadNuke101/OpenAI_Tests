@@ -1,0 +1,1 @@
+Please separate the start and end dates from the given date ranges in the following format: [['1/17/16-1/18/17', '1'], ['1/17/16-1/18/17', '2'], ['01/17/2016-01/18/2017', '1'], ['01/17/2016-01/18/2017', '2']]. Your task is to extract and list the individual start and end dates in the correct format.

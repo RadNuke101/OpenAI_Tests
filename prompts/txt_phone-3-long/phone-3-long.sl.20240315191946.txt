@@ -1,0 +1,5 @@
+You have been given a list of phone numbers in a specific format. Each phone number is represented as a list containing a string of numbers. Your task is to convert these phone numbers into a more readable format. 
+
+Each phone number should be formatted as follows: (XXX) YYY-ZZZZ, where XXX represents the area code, YYY represents the first three digits of the phone number, and ZZZZ represents the last four digits of the phone number.
+
+Write a program that takes the list of phone numbers as input and returns the formatted phone numbers as output.

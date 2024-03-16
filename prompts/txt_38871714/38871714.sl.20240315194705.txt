@@ -1,0 +1,6 @@
+Please correct the following sentences by removing the angle brackets and replacing the words inside them with the correct values:
+
+1. 'This is a <string>, It should be <changed> to <a> number.' 
+2. 'a < 4 and a > 0'
+
+After making the necessary corrections, please provide the revised sentences.

@@ -1,0 +1,1 @@
+Please provide me with a list of full names in the format [['First Last'], ['First Last'], ...]. I will then generate abbreviated versions of these names by taking the first letter of the first name and the first letter of the last name, followed by a period.

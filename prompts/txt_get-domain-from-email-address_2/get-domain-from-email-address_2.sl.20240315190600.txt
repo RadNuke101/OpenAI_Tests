@@ -1,0 +1,1 @@
+Given a list of names and email addresses, please provide only the usernames of the email addresses. For example, from the input [['ann chang', 'achang_maaker.com'], ['bobby smith', 'bobt_sphynx.uk.co'], ['art lennox', 'art.lennox_svxn.com']], the expected output is ['achang', 'bobt', 'art.lennox'].

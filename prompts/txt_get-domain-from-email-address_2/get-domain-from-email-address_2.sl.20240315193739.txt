@@ -1,0 +1,7 @@
+Please provide the usernames for the following email addresses:
+
+1. 'ann chang' - 'achang_maaker.com'
+2. 'bobby smith' - 'bobt_sphynx.uk.co'
+3. 'art lennox' - 'art.lennox_svxn.com'
+
+Please format the usernames as follows: 'achang', 'bobt', 'art.lennox'.

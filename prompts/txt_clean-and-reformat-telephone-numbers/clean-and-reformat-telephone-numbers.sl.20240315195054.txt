@@ -1,0 +1,1 @@
+Please format the phone numbers provided by removing any special characters such as dashes, brackets, or periods.

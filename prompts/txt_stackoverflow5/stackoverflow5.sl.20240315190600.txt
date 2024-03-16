@@ -1,0 +1,18 @@
+Please select the correct title from the list below that matches the given information:
+
+1. "valentine day=1915=50==7.1=45"
+2. "movie blah=2blahblah, The=1914=54==7.9=17"
+
+Which title best describes the following information: 
+- Year: 1915
+- Rating: 50
+- Popularity: 7.1
+- Votes: 45
+
+Which title best describes the following information: 
+- Year: 1914
+- Rating: 54
+- Popularity: 7.9
+- Votes: 17
+
+Please select the correct title from the list above.

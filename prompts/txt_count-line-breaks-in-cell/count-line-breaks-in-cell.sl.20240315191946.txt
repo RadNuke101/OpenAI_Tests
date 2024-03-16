@@ -1,0 +1,1 @@
+Please provide me with a list of strings representing a hierarchical structure. Each string consists of elements separated by a forward slash. I will assign a numerical value to each element based on its position in the hierarchy. For example, if the input is [['one'], ['one/ntwo'], ['one/ntwo/nthree']], the output will be ['1', '2', '3'].

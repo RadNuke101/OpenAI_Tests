@@ -1,0 +1,1 @@
+Please format the phone numbers in the following list into a more readable format with parentheses around the area code and a hyphen between the next two sets of numbers: [['938-242-504'], ['308-916-545'], ['623-599-749'], ['981-424-843'], ['118-980-214'], ['244-655-094'], ['830-941-991']].

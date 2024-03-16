@@ -1,0 +1,1 @@
+Combine the first initial of the first name, last name, and domain to create a unique identifier for each person.

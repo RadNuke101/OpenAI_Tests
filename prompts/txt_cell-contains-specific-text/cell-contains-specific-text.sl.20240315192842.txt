@@ -1,0 +1,1 @@
+Please determine if the given statements are true or false based on the presence of a specific word within each sentence.

@@ -1,0 +1,7 @@
+Given a list of input strings where each string consists of a combination of numbers, letters, and symbols, your task is to perform specific operations on each string and calculate the resulting output. 
+
+For each input string, you need to follow the following rules:
+1. If the string contains a sequence of numbers separated by 'x' and followed by 'x' and another number, you need to calculate the product of the numbers in the sequence.
+2. If the string contains a sequence of words separated by '-', you need to count the total number of characters in all the words combined.
+
+Based on these rules, calculate the output for each input string and provide the results in a list.

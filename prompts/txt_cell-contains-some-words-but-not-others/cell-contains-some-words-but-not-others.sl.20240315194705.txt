@@ -1,0 +1,1 @@
+Given a list of sentences where each sentence contains a combination of colors and objects, determine if the colors mentioned in the sentence match the specified colors. For each sentence, indicate whether the colors match the specified colors by outputting 'true' or 'false'.

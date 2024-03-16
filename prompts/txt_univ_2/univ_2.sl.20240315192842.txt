@@ -1,0 +1,1 @@
+You have been given a list of universities along with their locations in the United States. Your task is to format the information in a more readable and consistent manner. Please provide the output with each university name followed by its location, including the city and state, and adding "USA" at the end if it is missing.

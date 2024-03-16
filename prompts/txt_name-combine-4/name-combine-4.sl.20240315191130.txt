@@ -1,0 +1,1 @@
+Please format the list of names in the following way: [['First name', 'Last name'], ['First name', 'Last name'], ...]. I will then rearrange the names to display them in the format of 'Last name, First initial.'.

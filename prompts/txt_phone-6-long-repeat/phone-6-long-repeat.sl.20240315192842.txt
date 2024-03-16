@@ -1,0 +1,1 @@
+Please generate a list of phone numbers by extracting the last three digits from each phone number in the given list. Each phone number in the input list is formatted as a string with the country code, area code, and the last three digits separated by hyphens. The output should consist of the last three digits of each phone number.

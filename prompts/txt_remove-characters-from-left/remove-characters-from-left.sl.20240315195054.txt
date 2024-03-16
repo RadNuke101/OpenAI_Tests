@@ -1,0 +1,1 @@
+Please provide the cleaned version of the following codes: [['1234', '1'], ['**512A', '2'], ['343DMX', '3']].

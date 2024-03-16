@@ -1,0 +1,1 @@
+Please provide a list of sentences that contain words in a sequential order. I will then extract the first word from each sentence and provide them as individual outputs. For example, if you input [['The quick brown fox.'], ['quick brown fox.'], ['fox']], the output will be ['The', 'quick', ''].

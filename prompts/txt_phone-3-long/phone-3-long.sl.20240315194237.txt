@@ -1,0 +1,1 @@
+Please provide me with a list of phone numbers in a specific format. I will convert each phone number from the format [['XXX-XXX-XXX']] to the standard format '(XXX) XXX-XXX'. Let's get started!

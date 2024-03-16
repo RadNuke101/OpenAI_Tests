@@ -1,0 +1,1 @@
+Please provide the distances in miles in the following format: [['736 miles'], ['1255 miles'], ['1221 miles'], ['790 miles']]. I will extract the numerical values for you.

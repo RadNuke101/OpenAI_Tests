@@ -1,0 +1,1 @@
+Please rearrange the following characters in order to form a series of strings: 'z', 'x', '6', '4', '8'. Each string should start with the same prefix as indicated in the input. The output should be in descending order of length.

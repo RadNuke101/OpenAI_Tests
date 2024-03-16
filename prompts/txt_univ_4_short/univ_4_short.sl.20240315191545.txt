@@ -1,0 +1,11 @@
+Please provide the locations of the universities listed below in a consistent format: 
+- University of Pennsylvania
+- UCLA
+- Cornell University
+- Penn
+- University of Maryland College Park
+- University of Michigan
+- Columbia University
+- NYU
+
+Ensure that the locations include the city, state, and country (if applicable). Thank you.

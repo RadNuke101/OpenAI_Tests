@@ -1,0 +1,1 @@
+Please provide the correct company name by removing any additional words such as "Inc" or "Corporation" from the given list.

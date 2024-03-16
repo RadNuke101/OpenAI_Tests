@@ -1,0 +1,1 @@
+Please provide a list of universities along with their locations in the format [['University Name', 'City, State, Country']]. I will ensure that the names are correctly formatted with the full name of the university followed by the complete location including city, state, and country.

@@ -1,0 +1,1 @@
+Given a list of universities and their locations, please provide the corresponding locations in a grammatically correct format.

@@ -1,0 +1,1 @@
+Please provide me with a list of full names. I will then generate abbreviated versions of each name by taking the first letter of the first name and the first letter of the last name, followed by a period.

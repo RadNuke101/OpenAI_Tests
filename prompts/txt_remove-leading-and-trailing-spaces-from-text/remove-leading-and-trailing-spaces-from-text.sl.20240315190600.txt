@@ -1,0 +1,1 @@
+Please format the list of movie titles properly by removing extra spaces and ensuring each title starts with a capital letter.

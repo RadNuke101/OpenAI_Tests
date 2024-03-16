@@ -1,0 +1,3 @@
+Please rearrange the words in the following sentences to form a coherent phrase: [['The quick brown fox.'], ['quick brown fox.'], ['fox']].
+
+The rearranged words should be: ['The', 'quick', ''].

@@ -1,0 +1,1 @@
+When provided with a list of phone numbers in a specific format, I can convert them into a more readable format with periods separating the digits. For example, if you give me the list [['938-242-504'], ['308-916-545']], I will return ['938.242.504', '308.916.545']. Let me know if you need assistance with this task.

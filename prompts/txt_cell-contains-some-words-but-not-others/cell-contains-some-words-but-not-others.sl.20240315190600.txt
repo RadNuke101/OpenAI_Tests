@@ -1,0 +1,1 @@
+For each set of words provided, determine if the colors 'red' and 'blue' are present. If both colors are present, output 'true', otherwise output 'false'.

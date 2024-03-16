@@ -1,0 +1,7 @@
+Please convert the following color codes into a more readable format by removing the symbols and commas:
+
+Input: [['R/V<208,0,32>'], ['R/S<184,28,16>'], ['R/B<255,88,80>']]
+
+Output: ['R/V 208 0 32', 'R/S 184 28 16', 'R/B 255 88 80']
+
+Can you please provide the color codes in a clearer format by removing the symbols and commas?

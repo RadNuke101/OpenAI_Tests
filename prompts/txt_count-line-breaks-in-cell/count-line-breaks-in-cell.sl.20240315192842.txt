@@ -1,0 +1,5 @@
+Please provide me with a list of strings representing a hierarchical structure. Each string should indicate a level in the hierarchy, separated by slashes. For example, 'one' represents the first level, 'one/ntwo' represents the second level under 'one', and 'one/ntwo/nthree' represents the third level under 'one/ntwo'. 
+
+Based on this input, I will assign a numerical value to each level, starting from '1' for the first level, '2' for the second level, and so on. 
+
+For the given input [['one'], ['one/ntwo'], ['one/ntwo/nthree']], the corresponding numerical values for each level are ['1', '2', '3']. Please provide me with a similar hierarchical structure, and I will assign numerical values to each level accordingly.

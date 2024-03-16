@@ -1,0 +1,1 @@
+Please provide me with a list of software versions. I will extract the version numbers from each software name and provide you with a list of just the version numbers.

@@ -1,0 +1,7 @@
+Please indicate whether the following statements are true or false based on the given input:
+
+1. The projects listed include "some project" and "other project".
+2. The project listed is "some project".
+3. The listed item is "overhead".
+4. The projects listed include "some project" and "overhead".
+5. The projects listed include "some project", "other project", and "boo".

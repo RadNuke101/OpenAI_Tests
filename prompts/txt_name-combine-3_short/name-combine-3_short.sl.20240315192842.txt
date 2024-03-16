@@ -1,0 +1,1 @@
+Given a list of full names, please provide the abbreviated versions of the names by taking the first letter of the first name followed by a period and then the full last name. For example, if the input is [['Launa', 'Withers'], ['Lakenya', 'Edison']], the output should be ['L. Withers', 'L. Edison'].

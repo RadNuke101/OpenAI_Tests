@@ -1,0 +1,1 @@
+Given a list of full names, please generate a new list where each full name is abbreviated to just the first initial of the first name followed by a period and the last name.

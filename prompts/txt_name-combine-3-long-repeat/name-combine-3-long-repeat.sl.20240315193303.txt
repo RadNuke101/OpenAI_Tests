@@ -1,0 +1,1 @@
+For each pair of first and last names provided, please format the names by taking the first letter of the first name followed by a period and a space, and then the full last name. Make sure to maintain the order of the names as they were originally provided. This formatting will help create a more concise and professional representation of the names.

@@ -1,0 +1,1 @@
+Please provide the following list of values: [['-%134'], ['500'], ['5.125'], ['-%43.00']]. I will then clean up the formatting and return the values as ['%134', '500', '5.125', '%43.00'].

@@ -1,0 +1,1 @@
+Given a list of university names and their locations, your task is to format the information in a consistent and clear manner. Please take the input list of university names and locations and generate a new list where each entry includes the university name followed by its location, with the appropriate grammar.

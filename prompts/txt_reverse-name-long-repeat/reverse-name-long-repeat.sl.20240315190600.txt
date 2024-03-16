@@ -1,0 +1,1 @@
+Given a list of first and last names, your task is to rearrange each pair to display the last name followed by the first name. For example, if the input is [['John', 'Doe'], ['Jane', 'Smith']], the output should be ['Doe John', 'Smith Jane']. Write a function that takes the input list and returns the rearranged names in the correct format.

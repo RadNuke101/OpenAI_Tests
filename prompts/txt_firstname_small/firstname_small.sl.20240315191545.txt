@@ -1,0 +1,1 @@
+Please provide a list of full names, each enclosed in a separate list. I will then transform them into a list of first names only. For example, if you input [['Nancy FreeHafer'], ['Andrew Cencici'], ['Jan Kotas'], ['Mariya Sergienko']], I will return ['Nancy', 'Andrew', 'Jan', 'Mariya'].

@@ -1,0 +1,1 @@
+Given a list of full names in the format [['First Name', 'Last Name']], can you please rearrange them to display the last name followed by the first initial, separated by a comma and a space?

@@ -1,0 +1,11 @@
+Please extract the timestamp from the following text messages and provide them in a formatted manner:
+
+Input:
+1. 'Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum'
+2. 'Dec 2, 2014, 11=24 PM - +91 90000 80000= loren'
+
+Output:
+1. 'Dec 2, 2014, 11=23 PM'
+2. 'Dec 2, 2014, 11=24 PM'
+
+Please provide the timestamps from the given text messages.

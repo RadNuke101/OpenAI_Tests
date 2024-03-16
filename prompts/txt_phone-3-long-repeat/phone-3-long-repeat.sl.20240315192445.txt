@@ -1,0 +1,7 @@
+Given a list of phone numbers in a specific format, your task is to convert each phone number into a more readable format. The input consists of phone numbers in a list, where each phone number is represented as a string with digits separated by hyphens. 
+
+To achieve this, you need to format each phone number by adding parentheses around the area code and separating the digits with a space or a hyphen. The area code is the first three digits of the phone number.
+
+For example, the phone number '938-242-504' should be formatted as '(938) 242-504'.
+
+Please process the input list of phone numbers and return a new list with the formatted phone numbers.

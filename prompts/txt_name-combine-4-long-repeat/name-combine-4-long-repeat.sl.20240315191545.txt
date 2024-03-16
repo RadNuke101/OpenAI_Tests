@@ -1,0 +1,1 @@
+For each pair of first and last names provided in the list, please format them in the following way: Last name, First initial. Ensure that the names are correctly formatted with the last name first, followed by a comma and then the first initial with a period. This will help in organizing and presenting the names in a clear and consistent manner.
