@@ -1,0 +1,8 @@
+def remove_suffix(input_list):
+    output_list = []
+    for item in input_list:
+        output_list.append(item[0].split(' ')[0])
+    return output_list
+
+input_list = [['Trucking Inc.'], ['New Truck Inc'], ['ABV Trucking Inc, LLC']]
+print(remove_suffix(input_list))

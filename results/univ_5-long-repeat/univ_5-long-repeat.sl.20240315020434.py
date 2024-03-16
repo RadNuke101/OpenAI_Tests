@@ -1,0 +1,15 @@
+def process_input(input_list):
+    output_list = []
+    for item in input_list:
+        if "New York" in item[1]:
+            output_list.append(item[1].replace("New York", "NY"))
+        elif "USA" not in item[1]:
+            output_list.append(item[1] + ", USA")
+        else:
+            output_list.append(item[1])
+    return output_list
+
+input_list = [['UC Berkeley', 'Berkeley, CA'], ['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['Cornell University', 'Ithaca, New York, USA'], ['Penn', 'Philadelphia, PA, USA'], ['University of Michigan', 'Ann Arbor, MI, USA'], ['UC Berkeley', 'Berkeley, CA'], ['MIT', 'Cambridge, MA'], ['University of Pennsylvania', 'Phialdelphia, PA, USA'], ['UCLA', 'Los Angeles, CA'], ['University of Maryland College Park', 'College Park, MD'], ['University of Michigan', 'Ann Arbor, MI, USA'], ['UC Berkeley', 'Berkeley, CA'], ['MIT', 'Cambridge, MA'], ['Rice University', 'Houston, TX'], ['Yale University', 'New Haven, CT, USA'], ['Columbia University', 'New York, NY, USA'], ['NYU', 'New York, New York, USA'], ['Drexel University', 'Philadelphia, PA'], ['UC Berkeley', 'Berkeley, CA'], ['UIUC', 'Urbana, IL'], ['Temple University', 'Philadelphia, PA'], ['Harvard University', 'Cambridge, MA, USA'], ['University of Connecticut', 'Storrs, CT, USA'], ['Drexel University', 'Philadelphia, PA'], ['NYU', 'New York, New York, USA'], ['UIUC', 'Urbana, IL'], ['New Haven University', 'New Haven, CT, USA'], ['University of California, Santa Barbara', 'Santa Barbara, CA, USA'], ['University of Connecticut', 'Storrs, CT, USA']]
+
+output = process_input(input_list)
+print(output)

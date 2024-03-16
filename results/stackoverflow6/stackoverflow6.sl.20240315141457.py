@@ -1,0 +1,8 @@
+def return_after_last_equal(input):
+    output = []
+    for item in input:
+        output.append(item[0].split('=')[-1])
+    return output
+
+input = [['Dec 2, 2014, 11=23 PM - +91 90000 80000= loren ipsum'], ['Dec 2, 2014, 11=24 PM - +91 90000 80000= loren']]
+print(return_after_last_equal(input))
