@@ -1,0 +1,110 @@
+# Prompt: return input with parentheses around the first three numbers and delete the first "-" and replace it with a space
+# Input: ['938-242-504']
+# Output: (938) 242-504
+
+def format_phone_number(input):
+    input = input[0]
+    output = "(" + input[:3] + ") " + input[4:]
+    return output
+
+# Test cases
+print(format_phone_number(['938-242-504']))  # Output: (938) 242-504
+print(format_phone_number(['308-916-545']))  # Output: (308) 916-545
+print(format_phone_number(['623-599-749']))  # Output: (623) 599-749
+print(format_phone_number(['981-424-843']))  # Output: (981) 424-843
+print(format_phone_number(['118-980-214']))  # Output: (118) 980-214
+print(format_phone_number(['244-655-094']))  # Output: (244) 655-094
+print(format_phone_number(['830-941-991']))  # Output: (830) 941-991
+print(format_phone_number(['911-186-562']))  # Output: (911) 186-562
+print(format_phone_number(['002-500-200']))  # Output: (002) 500-200
+print(format_phone_number(['113-860-034']))  # Output: (113) 860-034
+print(format_phone_number(['457-622-959']))  # Output: (457) 622-959
+print(format_phone_number(['986-722-311']))  # Output: (986) 722-311
+print(format_phone_number(['110-170-771']))  # Output: (110) 170-771
+print(format_phone_number(['469-610-118']))  # Output: (469) 610-118
+print(format_phone_number(['817-925-247']))  # Output: (817) 925-247
+print(format_phone_number(['256-899-439']))  # Output: (256) 899-439
+print(format_phone_number(['886-911-726']))  # Output: (886) 911-726
+print(format_phone_number(['562-950-358']))  # Output: (562) 950-358
+print(format_phone_number(['693-049-588']))  # Output: (693) 049-588
+print(format_phone_number(['840-503-234']))  # Output: (840) 503-234
+print(format_phone_number(['698-815-340']))  # Output: (698) 815-340
+print(format_phone_number(['498-808-434']))  # Output: (498) 808-434
+print(format_phone_number(['329-545-000']))  # Output: (329) 545-000
+print(format_phone_number(['380-281-597']))  # Output: (380) 281-597
+print(format_phone_number(['332-395-493']))  # Output: (332) 395-493
+print(format_phone_number(['251-903-028']))  # Output: (251) 903-028
+print(format_phone_number(['176-090-894']))  # Output: (176) 090-894
+print(format_phone_number(['336-611-100']))  # Output: (336) 611-100
+print(format_phone_number(['416-390-647']))  # Output: (416) 390-647
+print(format_phone_number(['019-430-596']))  # Output: (019) 430-596
+print(format_phone_number(['960-659-771']))  # Output: (960) 659-771
+print(format_phone_number(['475-505-007']))  # Output: (475) 505-007
+print(format_phone_number(['424-069-886']))  # Output: (424) 069-886
+print(format_phone_number(['941-102-117']))  # Output: (941) 102-117
+print(format_phone_number(['331-728-008']))  # Output: (331) 728-008
+print(format_phone_number(['487-726-198']))  # Output: (487) 726-198
+print(format_phone_number(['612-419-942']))  # Output: (612) 419-942
+print(format_phone_number(['594-741-346']))  # Output: (594) 741-346
+print(format_phone_number(['320-984-742']))  # Output: (320) 984-742
+print(format_phone_number(['060-919-361']))  # Output: (060) 919-361
+print(format_phone_number(['275-536-998']))  # Output: (275) 536-998
+print(format_phone_number(['548-835-065']))  # Output: (548) 835-065
+print(format_phone_number(['197-485-507']))  # Output: (197) 485-507
+print(format_phone_number(['455-776-949']))  # Output: (455) 776-949
+print(format_phone_number(['085-421-340']))  # Output: (085) 421-340
+print(format_phone_number(['785-713-099']))  # Output: (785) 713-099
+print(format_phone_number(['426-712-861']))  # Output: (426) 712-861
+print(format_phone_number(['386-994-906']))  # Output: (386) 994-906
+print(format_phone_number(['918-304-840']))  # Output: (918) 304-840
+print(format_phone_number(['247-153-598']))  # Output: (247) 153-598
+print(format_phone_number(['075-497-069']))  # Output: (075) 497-069
+print(format_phone_number(['140-726-583']))  # Output: (140) 726-583
+print(format_phone_number(['049-413-248']))  # Output: (049) 413-248
+print(format_phone_number(['977-386-462']))  # Output: (977) 386-462
+print(format_phone_number(['058-272-455']))  # Output: (058) 272-455
+print(format_phone_number(['428-629-927']))  # Output: (428) 629-927
+print(format_phone_number(['449-122-191']))  # Output: (449) 122-191
+print(format_phone_number(['568-759-670']))  # Output: (568) 759-670
+print(format_phone_number(['312-846-053']))  # Output: (312) 846-053
+print(format_phone_number(['943-037-297']))  # Output: (943) 037-297
+print(format_phone_number(['014-270-177']))  # Output: (014) 270-177
+print(format_phone_number(['658-877-878']))  # Output: (658) 877-878
+print(format_phone_number(['888-594-038']))  # Output: (888) 594-038
+print(format_phone_number(['232-253-254']))  # Output: (232) 253-254
+print(format_phone_number(['308-722-292']))  # Output: (308) 722-292
+print(format_phone_number(['342-145-742']))  # Output: (342) 145-742
+print(format_phone_number(['568-181-515']))  # Output: (568) 181-515
+print(format_phone_number(['300-140-756']))  # Output: (300) 140-756
+print(format_phone_number(['099-684-216']))  # Output: (099) 684-216
+print(format_phone_number(['575-296-621']))  # Output: (575) 296-621
+print(format_phone_number(['994-443-794']))  # Output: (994) 443-794
+print(format_phone_number(['400-334-692']))  # Output: (400) 334-692
+print(format_phone_number(['684-711-883']))  # Output: (684) 711-883
+print(format_phone_number(['539-636-358']))  # Output: (539) 636-358
+print(format_phone_number(['009-878-919']))  # Output: (009) 878-919
+print(format_phone_number(['919-545-701']))  # Output: (919) 545-701
+print(format_phone_number(['546-399-239']))  # Output: (546) 399-239
+print(format_phone_number(['993-608-757']))  # Output: (993) 608-757
+print(format_phone_number(['107-652-845']))  # Output: (107) 652-845
+print(format_phone_number(['206-805-793']))  # Output: (206) 805-793
+print(format_phone_number(['198-857-684']))  # Output: (198) 857-684
+print(format_phone_number(['912-827-430']))  # Output: (912) 827-430
+print(format_phone_number(['560-951-766']))  # Output: (560) 951-766
+print(format_phone_number(['142-178-290']))  # Output: (142) 178-290
+print(format_phone_number(['732-196-946']))  # Output: (732) 196-946
+print(format_phone_number(['963-875-745']))  # Output: (963) 875-745
+print(format_phone_number(['881-865-867']))  # Output: (881) 865-867
+print(format_phone_number(['234-686-715']))  # Output: (234) 686-715
+print(format_phone_number(['720-330-583']))  # Output: (720) 330-583
+print(format_phone_number(['593-065-126']))  # Output: (593) 065-126
+print(format_phone_number(['671-778-064']))  # Output: (671) 778-064
+print(format_phone_number(['252-029-036']))  # Output: (252) 029-036
+print(format_phone_number(['700-322-036']))  # Output: (700) 322-036
+print(format_phone_number(['882-587-473']))  # Output: (882) 587-473
+print(format_phone_number(['964-134-953']))  # Output: (964) 134-953
+print(format_phone_number(['038-300-876']))  # Output: (038) 300-876
+print(format_phone_number(['158-894-947']))  # Output: (158) 894-947
+print(format_phone_number(['757-454-374']))  # Output: (757) 454-374
+print(format_phone_number(['872-513-190']))  # Output: (872) 513-190
+print(format_phone_number(['566-086-726']))  # Output: (566) 086-726

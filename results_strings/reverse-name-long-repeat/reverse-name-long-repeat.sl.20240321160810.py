@@ -1,0 +1,54 @@
+def reverse_names(name1, name2):
+    return name2 + " " + name1
+
+# Prompt: return second input, followed by a space, and then the first input
+# Given input as ['Launa', 'Withers'] output is Withers Launa
+# Given input as ['Lakenya', 'Edison'] output is Edison Lakenya
+# Given input as ['Brendan', 'Hage'] output is Hage Brendan
+# Given input as ['Bradford', 'Lango'] output is Lango Bradford
+# Given input as ['Rudolf', 'Akiyama'] output is Akiyama Rudolf
+# Given input as ['Lara', 'Constable'] output is Constable Lara
+# Given input as ['Madelaine', 'Ghoston'] output is Ghoston Madelaine
+# Given input as ['Salley', 'Hornak'] output is Hornak Salley
+# Given input as ['Micha', 'Junkin'] output is Junkin Micha
+# Given input as ['Teddy', 'Bobo'] output is Bobo Teddy
+# Given input as ['Coralee', 'Scalia'] output is Scalia Coralee
+# Given input as ['Jeff', 'Quashie'] output is Quashie Jeff
+# Given input as ['Vena', 'Babiarz'] output is Babiarz Vena
+# Given input as ['Karrie', 'Lain'] output is Lain Karrie
+# Given input as ['Tobias', 'Dermody'] output is Dermody Tobias
+# Given input as ['Celsa', 'Hopkins'] output is Hopkins Celsa
+# Given input as ['Kimberley', 'Halpern'] output is Halpern Kimberley
+# Given input as ['Phillip', 'Rowden'] output is Rowden Phillip
+# Given input as ['Elias', 'Neil'] output is Neil Elias
+# Given input as ['Lashanda', 'Cortes'] output is Cortes Lashanda
+# Given input as ['Mackenzie', 'Spell'] output is Spell Mackenzie
+# Given input as ['Kathlyn', 'Eccleston'] output is Eccleston Kathlyn
+# Given input as ['Georgina', 'Brescia'] output is Brescia Georgina
+# Given input as ['Beata', 'Miah'] output is Miah Beata
+# Given input as ['Desiree', 'Seamons'] output is Seamons Desiree
+# Given input as ['Jeanice', 'Soderstrom'] output is Soderstrom Jeanice
+# Given input as ['Mariel', 'Jurgens'] output is Jurgens Mariel
+# Given input as ['Alida', 'Bogle'] output is Bogle Alida
+# Given input as ['Jacqualine', 'Olague'] output is Olague Jacqualine
+# Given input as ['Joaquin', 'Clasen'] output is Clasen Joaquin
+# Given input as ['Samuel', 'Richert'] output is Richert Samuel
+# Given input as ['Malissa', 'Marcus'] output is Marcus Malissa
+# Given input as ['Alaina', 'Partida'] output is Partida Alaina
+# Given input as ['Trinidad', 'Mulloy'] output is Mulloy Trinidad
+# Given input as ['Carlene', 'Garrard'] output is Garrard Carlene
+# Given input as ['Melodi', 'Chism'] output is Chism Melodi
+# Given input as ['Bess', 'Chilcott'] output is Chilcott Bess
+# Given input as ['Chong', 'Aylward'] output is Aylward Chong
+# Given input as ['Jani', 'Ramthun'] output is Ramthun Jani
+# Given input as ['Jacquiline', 'Heintz'] output is Heintz Jacquiline
+# Given input as ['Hayley', 'Marquess'] output is Marquess Hayley
+# Given input as ['Andria', 'Spagnoli'] output is Spagnoli Andria
+# Given input as ['Irwin', 'Covelli'] output is Covelli Irwin
+# Given input as ['Gertude', 'Montiel'] output is Montiel Gertude
+# Given input as ['Stefany', 'Reily'] output is Reily Stefany
+# Given input as ['Rae', 'Mcgaughey'] output is Mcgaughey Rae
+# Given input as ['Cruz', 'Latimore'] output is Latimore Cruz
+# Given input as ['Maryann', 'Casler'] output is Casler Maryann
+# Given input as ['Annalisa', 'Gregori'] output is Gregori Annalisa
+# Given input as ['Jenee', 'Pannell'] output is Pannell Jenee
