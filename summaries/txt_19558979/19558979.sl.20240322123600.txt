@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of the word 'spreadsheet' split into individual characters.
+- The first character in each input is 's', the second character is 'p', the third character is 'r', the fourth character is 'e', the fifth character is 'a', and so on.
+
+Summary for Output Column:
+- The output column consists of the corresponding character for each input number.
+- For example, when the input number is '1', the output is 's'. When the input number is '2', the output is 'p'.

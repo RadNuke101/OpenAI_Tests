@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of birth dates and locations in the format 'geb. DD MMM YYYY Location'. 
+- The birth dates are in the format DD MMM YYYY (e.g., 14 oct 1956).
+- The location is mentioned after the birth date and year (e.g., Westerkerk HRL).
+- Some entries may not have a location mentioned after the birth date.
+
+Summary for Output Column Data:
+- The output column data consists of locations only.
+- The locations are mentioned after the birth dates in the input column data.
+- The output column contains the locations where the individuals were born.
+- Some entries may not have a location mentioned, resulting in an empty output.

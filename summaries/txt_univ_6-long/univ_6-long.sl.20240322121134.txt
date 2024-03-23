@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of the names of various universities along with their locations in the format of city, state, and country.
+- The universities mentioned are located in different cities across the United States, including Philadelphia, Los Angeles, New York, Cambridge, Houston, and more.
+- The input data provides a mix of well-known universities such as University of Pennsylvania, UCLA, MIT, and Harvard University, along with other institutions like Temple University, Drexel University, and New Haven University.
+
+Summary for output column data:
+- The output column data consists of the locations of the universities mentioned in the input column data, specifically focusing on the city, state, and country where each university is located.
+- The locations mentioned in the output column data are in the United States, with cities such as Philadelphia, Los Angeles, New York, Cambridge, Houston, and more.
+- The output data provides a concise summary of the locations of the universities, highlighting the diversity of cities and states where these educational institutions are situated.

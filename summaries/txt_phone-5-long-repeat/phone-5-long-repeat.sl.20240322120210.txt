@@ -1,0 +1,12 @@
+For the input column data:
+
+- The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ', where XXX represents the country code and YYY-ZZZ-ZZZ represents the phone number.
+- The country codes range from 2 to 199.
+- The phone numbers have a consistent format of three groups of numbers separated by hyphens.
+
+For the output column:
+
+- The output values range from 2 to 199.
+- The output values correspond to the country codes extracted from the input phone numbers.
+
+Overall, the input data consists of phone numbers with country codes, and the output values represent the extracted country codes from the input phone numbers.

@@ -1,0 +1,9 @@
+Summary for Input Column 1:
+- Format of dates varies between 'MM/DD/YY' and 'M/D/YY'.
+- Date ranges are separated by a hyphen.
+
+Summary for Input Column 2:
+- Contains numerical values representing the day within the date range.
+
+Summary for Output Column:
+- Consists of dates corresponding to the second day of the date range in the input column.

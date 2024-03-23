@@ -1,0 +1,11 @@
+For the input column data:
+
+- The input data consists of phone numbers with country codes.
+- The country codes are extracted from each phone number and displayed as the output.
+- The country codes range from 6 to 172.
+
+For the output column data:
+
+- The output consists of the extracted country codes from the input phone numbers.
+- The country codes in the output column range from 6 to 172.
+- Each output corresponds to the country code extracted from the respective input phone number.

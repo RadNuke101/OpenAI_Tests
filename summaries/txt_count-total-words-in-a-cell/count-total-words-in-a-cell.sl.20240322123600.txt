@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of three strings: 'humpty dumpty', 'humpty dumpty sat on a wall,', and 'couldnt put humpty together again.'
+- The lengths of the strings are 2, 6, and 5 characters respectively.
+
+Summary for Output Column:
+- The output column data consists of three numbers: 2, 6, and 5.
+- The average length of the numbers in the output column is 4.33.

@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of strings representing numbers.
+- The numbers in the input column data are '101', '1002', and '743'.
+
+Summary for Output Column:
+- The output column consists of numbers corresponding to the input strings.
+- The output column values are 101, 1002, and 743.

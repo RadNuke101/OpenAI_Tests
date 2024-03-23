@@ -1,0 +1,6 @@
+Input Column Summary:
+- Column 1: The input column consists of first names such as Launa, Lakenya, Brendan, Bradford, Rudolf, and Lara.
+- Column 2: The input column consists of last names such as Withers, Edison, Hage, Lango, Akiyama, and Constable.
+
+Output Column Summary:
+- The output column combines the first and last names from the input column to form full names such as Launa Withers, Lakenya Edison, Brendan Hage, Bradford Lango, Rudolf Akiyama, and Lara Constable.

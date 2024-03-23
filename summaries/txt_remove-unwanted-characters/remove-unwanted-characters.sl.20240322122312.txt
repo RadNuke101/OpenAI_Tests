@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of strings, with the first element being a string of characters and the second element being a single character.
+- The output for each pair is obtained by removing the first occurrence of the second character from the first string.
+
+Summary for Output Column:
+- The output column consists of strings that are the result of removing the first occurrence of a specific character from the corresponding input string.
+- The output strings are shorter in length compared to the input strings, as the first occurrence of the specified character is removed.

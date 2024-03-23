@@ -1,0 +1,9 @@
+For the input column data, the summary is as follows:
+- The input column data consists of phone numbers in the format '###-###-###'.
+- Each phone number is unique and does not repeat within the input data.
+- The last three digits of each phone number represent the output value.
+
+For the output column data, the summary is as follows:
+- The output column consists of the last three digits of each phone number in the input data.
+- The output values range from 000 to 999.
+- Each output value is unique and does not repeat within the output column.

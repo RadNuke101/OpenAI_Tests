@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains email addresses or website domains that are being referenced for communication or support requests.
+
+Output Column Summary:
+- The output column contains the specific domain names that are being referred to in the input column for communication or support requests.

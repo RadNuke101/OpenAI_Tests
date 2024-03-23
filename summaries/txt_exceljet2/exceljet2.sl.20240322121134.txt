@@ -1,0 +1,7 @@
+For the input column data, the summary would be as follows:
+- The most common top-level domains are com, net, and co.uk.
+- The input data consists of domain names with varying lengths and structures.
+
+For the output column data, the summary would be:
+- The most common top-level domains in the output column are com, net, and uk.
+- The output column data consists of top-level domains extracted from the input domain names.

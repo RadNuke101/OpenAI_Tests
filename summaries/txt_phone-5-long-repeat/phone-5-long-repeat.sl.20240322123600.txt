@@ -1,0 +1,11 @@
+For the input column data:
+- The input data consists of phone numbers in the format '+CountryCode Number'. The country code is the first part of the phone number.
+- The country codes in the input data range from 2 to 199.
+- Each phone number is associated with a specific country code.
+
+For the output column:
+- The output values range from 2 to 199.
+- The output values correspond to the country codes extracted from the input phone numbers.
+
+Overall Summary:
+The input data consists of phone numbers with country codes, and the output values represent the extracted country codes from the input phone numbers. The task involves extracting and matching the country codes from the phone numbers.

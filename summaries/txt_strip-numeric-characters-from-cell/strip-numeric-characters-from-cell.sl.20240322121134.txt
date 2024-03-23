@@ -1,0 +1,8 @@
+Input Column Summary:
+1. Column 1: The input column contains phrases with varying lengths and content. It seems to include a mix of numbers, names, and other text.
+
+Output Column Summary:
+1. Output Column: The output column seems to contain names or descriptions that are typically preceded by a number or other text. It appears to be a mix of names and items.
+
+Overall Summary:
+The input column data consists of diverse phrases with different structures, including numbers, names, and descriptions. The output column primarily contains names or descriptions, often following a number or other text.

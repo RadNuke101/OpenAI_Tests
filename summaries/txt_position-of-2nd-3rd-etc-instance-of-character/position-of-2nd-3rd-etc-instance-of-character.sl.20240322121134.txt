@@ -1,0 +1,13 @@
+Input Column Summaries:
+1. Column 1: ['100x15x50', 'cat-in-the-hat']
+   - Contains dimensions or descriptions in a specific format
+   
+2. Column 2: ['x', '-']
+   - Contains symbols used as separators
+   
+3. Column 3: ['2', '3']
+   - Contains numerical values representing quantities
+
+Output Column Summary:
+- Contains numerical values representing the calculated results
+- The values are 7 and 11 respectively for the given inputs

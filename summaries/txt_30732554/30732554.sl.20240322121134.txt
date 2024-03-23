@@ -1,0 +1,13 @@
+Input Column Summary:
+- The input column data consists of various codes in the format of 'XX-XXXXX' or 'XX-XXXXXX| XX'. 
+- The codes are alphanumeric and may contain special characters such as '-' and '|'.
+- Some codes are followed by a measurement value in millimeters (MM) or other units.
+
+Output Column Summary:
+- The output column data consists of codes extracted from the input column data.
+- The output may contain alphanumeric characters, special characters, and 'N/A' values.
+
+Overall Summary:
+- The input column data contains a variety of codes with different formats and additional measurement values.
+- The output column data extracts and presents only the codes from the input data, removing any additional information.
+- The output may also include 'N/A' values if the input did not contain a valid code.

@@ -1,0 +1,13 @@
+For the input column data:
+
+- The first three digits in each input represent the area code.
+- The last three digits in each input represent the phone number.
+- The middle three digits in each input vary and do not follow a specific pattern.
+
+For the output column data:
+
+- The last three digits in each output represent the phone number.
+- The output values range from 000 to 999.
+- The output values do not follow a specific pattern or sequence.
+
+Overall, the input data consists of phone numbers with varying area codes and phone numbers, while the output data consists of the last three digits of each phone number.

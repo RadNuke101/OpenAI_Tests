@@ -1,0 +1,7 @@
+Input Column Summary:
+- The input column contains country names separated by spaces.
+- The countries mentioned in the input column are India, China, Japan, Indonesia, and Korea.
+
+Output Column Summary:
+- The output column contains the first country mentioned in the input column.
+- The output column values are India and Indonesia.

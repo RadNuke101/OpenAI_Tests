@@ -1,0 +1,11 @@
+For the input column data:
+
+- The numbers in the input column data range from 6 to 172.
+- The most common number in the input column data is 106.
+- The input column data includes a total of 7 unique numbers.
+
+For the output column:
+
+- The numbers in the output column range from 6 to 172.
+- The most common number in the output column is 106.
+- The output column includes a total of 7 unique numbers.

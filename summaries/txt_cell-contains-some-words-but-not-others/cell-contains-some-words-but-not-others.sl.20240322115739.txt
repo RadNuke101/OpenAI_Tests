@@ -1,0 +1,19 @@
+1. Input: ['red ball, green sweater', 'red', 'green', 'pink']
+   Output: true
+   Summary: The input string contains both 'red' and 'green', which are present in the given list of colors. Hence, the output is true.
+
+2. Input: ['pink ball, green sweater', 'red', 'green', 'pink']
+   Output: false
+   Summary: The input string contains 'pink' and 'green', but 'pink' is not present in the list of colors. Therefore, the output is false.
+
+3. Input: ['blue sea, pink ribbon', 'red', 'blue', 'pink']
+   Output: false
+   Summary: The input string contains 'blue' and 'pink', but 'blue' is not present in the list of colors. Therefore, the output is false.
+
+4. Input: ['black sea, white ribbon', 'red', 'blue', 'pink']
+   Output: false
+   Summary: None of the colors mentioned in the input string are present in the list of colors. Therefore, the output is false.
+
+5. Input: ['red green blue', 'red', 'blue', 'pink']
+   Output: true
+   Summary: The input string contains both 'red' and 'blue', which are present in the given list of colors. Hence, the output is true.

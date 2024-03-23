@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of pairs of university names and their corresponding locations.
+- The universities mentioned are well-known institutions such as University of Pennsylvania, UCLA, Cornell University, Penn, University of Maryland College Park, University of Michigan, UC Berkeley, MIT, Rice University, Yale University, Columbia University, NYU, UIUC, Temple University, Harvard University, University of Connecticut, Drexel University, New Haven University, and University of California, Santa Barbara.
+- The locations include cities and states within the USA, such as Philadelphia, PA, Los Angeles, CA, Ithaca, New York, College Park, MD, Ann Arbor, MI, Berkeley, CA, Cambridge, MA, Houston, TX, New Haven, CT, New York, NY, Urbana, IL, and Santa Barbara, CA.
+
+Summary for output column:
+- The output column data consists of the university names along with their corresponding locations.
+- Each output entry includes the name of the university followed by the city and state location, with some entries also specifying the country (USA).
+- The output provides a clear representation of the universities and their respective locations.

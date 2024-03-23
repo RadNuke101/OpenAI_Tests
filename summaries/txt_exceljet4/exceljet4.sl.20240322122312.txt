@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. The input column data consists of URLs with different protocols such as 'https', 'ftp', and 'sftp'.
+2. Each input value is formatted as a key-value pair with the protocol separated by an equal sign from the domain.
+3. The domain part of the input values varies in length and may contain alphanumeric characters, periods, and numbers.
+
+Summary for Output Column Data:
+1. The output column contains the extracted domain names from the input URLs.
+2. The extracted domain names include a variety of domains such as 'exceljet.net', 'microsoft.com', 'someserver.com', and '127.0.0.1'.
+3. The extracted domain names do not include the protocol part of the input URLs and only consist of the domain itself.

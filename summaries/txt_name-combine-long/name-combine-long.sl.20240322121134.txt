@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of pairs of first names and last names.
+- Each pair represents a person's full name.
+- The names are diverse and vary in length and origin.
+
+Summary for output column:
+- The output column consists of full names with the first name followed by the last name.
+- The names in the output column are a combination of the first names and last names provided in the input column data.
+- The output column reflects the diversity and uniqueness of the input names.

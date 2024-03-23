@@ -1,0 +1,35 @@
+Input Column Summaries:
+1. Column 1: 
+   - Unique Values: valentine day, movie blah=2blahblah, The
+   - Data Types: String
+   - Summary: Contains the names "valentine day", "movie blah=2blahblah", and "The".
+
+2. Column 2:
+   - Unique Values: 1915, 1914
+   - Data Types: Integer
+   - Summary: Contains the years 1915 and 1914.
+
+3. Column 3:
+   - Unique Values: 50, 54
+   - Data Types: Integer
+   - Summary: Contains the values 50 and 54.
+
+4. Column 4:
+   - Unique Values: None
+   - Data Types: String
+   - Summary: Contains empty values.
+
+5. Column 5:
+   - Unique Values: 7.1, 7.9
+   - Data Types: Float
+   - Summary: Contains the ratings 7.1 and 7.9.
+
+6. Column 6:
+   - Unique Values: 45, 17
+   - Data Types: Integer
+   - Summary: Contains the values 45 and 17.
+
+Output Column Summary:
+- Unique Values: valentine day, movie blah=2blahblah, The
+- Data Types: String
+- Summary: Contains the names "valentine day", "movie blah=2blahblah", and "The".

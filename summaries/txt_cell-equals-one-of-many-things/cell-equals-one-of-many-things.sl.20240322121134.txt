@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of color names.
+- The output is true for the colors yellow, blue, pink, and orange.
+- The output is false for the colors gray, black, and turkey.
+
+Summary for Output Column:
+- The output column indicates whether the input color is true or false based on the given conditions.
+- The output is true for the colors yellow, blue, pink, and orange.
+- The output is false for the colors gray, black, and turkey.

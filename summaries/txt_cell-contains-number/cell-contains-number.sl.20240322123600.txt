@@ -1,0 +1,7 @@
+Input Column Data Summary:
+1. The first input column data consists of a sentence about the value of a bird in hand compared to two in the bush.
+2. The second input column data consists of a similar sentence but with the number "two" spelled out instead of "2".
+3. The third input column data is about knowing 15 shortcuts.
+
+Output Column Summary:
+1. The output column consists of boolean values, with the first two inputs resulting in "true" and the third input resulting in "false".

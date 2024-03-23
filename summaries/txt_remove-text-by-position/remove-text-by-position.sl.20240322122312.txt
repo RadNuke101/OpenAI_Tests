@@ -1,0 +1,9 @@
+Sure! Here are the summaries for the input and output columns based on the given examples:
+
+Input Column Summary:
+1. Column Data: ['c=/users/dave/shotcut.xls', 'c=/users/dave/formulas.xls', 'c=/users/dave/pivot table.xls']
+   Summary: The input column contains file paths with filenames at the end.
+
+Output Column Summary:
+1. Column Data: ['shotcut.xls', 'formulas.xls', 'pivot table.xls']
+   Summary: The output column contains only the filenames extracted from the file paths in the input column.

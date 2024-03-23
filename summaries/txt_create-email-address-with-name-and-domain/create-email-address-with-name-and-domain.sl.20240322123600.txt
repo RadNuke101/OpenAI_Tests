@@ -1,0 +1,11 @@
+Summary for Input Column 1:
+- Names in the input column 1 are 'ayako', 'amy', 'tom'.
+
+Summary for Input Column 2:
+- Names in the input column 2 are 'ogawa', 'johnson', 'chang'.
+
+Summary for Input Column 3:
+- Domains in the input column 3 are 'acme.com', 'google.com', 'upenn.edu'.
+
+Summary for Output Column:
+- Concatenated names in the output column are 'aogawa_acme.com', 'ajohnson_google.com', 'tchang_upenn.edu'.

@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- The names in the input column data appear to be a mix of male and female names.
+- Each name in the input column data is followed by a title of 'Dr.'.
+
+Summary for Output Column:
+- The output column consists of names with the title 'Dr.' followed by the first name.
+- The output column data seems to be derived from the input column data by extracting the first name and adding the title 'Dr.' before it.
+- The output column data follows a consistent pattern of 'Dr. [First Name]'.

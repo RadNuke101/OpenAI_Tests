@@ -1,0 +1,6 @@
+Input Column Summary:
+- In the first input column, the word "apple" appears twice in the sentence "apple apples".
+- In the second input column, the word "orange" appears three times in the sentence "an orange among the oranges is a spoiled orange".
+
+Output Column Summary:
+- The output column shows the count of occurrences of the specified word in each input sentence.

@@ -1,0 +1,7 @@
+For the input column data, the summary is as follows:
+- Column 1: Contains strings of varying lengths, with a mix of uppercase letters and no specific pattern.
+
+For the output column data, the summary is as follows:
+- Output Column: Contains boolean values (true/false) indicating whether the second string in the input list is a substring of the first string.
+
+If you have any specific questions or need further analysis, feel free to ask!

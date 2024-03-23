@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of two sentences: "I love apples" and "I hate bananas".
+- Both sentences express feelings towards fruits, with one expressing love for apples and the other expressing hate for bananas.
+- The input column data provides contrasting emotions towards different fruits.
+
+Summary for Output Column Data:
+- The output column data consists of the sentence "I hate bananas".
+- The output expresses a negative feeling towards bananas, in contrast to the positive feeling towards apples in the input data.
+- The output column data reflects a strong dislike for bananas.

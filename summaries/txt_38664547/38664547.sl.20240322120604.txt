@@ -1,0 +1,7 @@
+Input Column Summary:
+- The input column contains various phrases with the word "that" followed by another word.
+- The second word in each phrase seems to be the main focus or action.
+
+Output Column Summary:
+- The output column contains the second word from each input phrase.
+- It represents the action or main focus of each input phrase.

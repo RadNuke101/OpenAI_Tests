@@ -1,0 +1,12 @@
+For the input column data:
+
+- The input data consists of phone numbers in the format of country code followed by the phone number with hyphens.
+- The country codes range from 2 to 199.
+- The phone numbers consist of three sets of three-digit numbers separated by hyphens.
+
+For the output column data:
+
+- The output data consists of formatted phone numbers with periods instead of hyphens.
+- The phone numbers follow the same structure as the input data, with country codes ranging from 2 to 199 and three sets of three-digit numbers separated by periods.
+
+Overall, the input data contains a list of phone numbers with country codes and hyphens, while the output data provides the same phone numbers in a formatted manner with periods instead of hyphens.

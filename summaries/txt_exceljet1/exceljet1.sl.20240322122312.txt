@@ -1,0 +1,14 @@
+Summary for Input Column 1 (Full Names):
+- The input column 1 contains full names in the format of first name followed by last name.
+- The names in the input column are in the format of "First Name Last Name".
+- Examples of names in the input column include "ann chang", "bobby smith", "art lennox", and "smith bagshaw".
+
+Summary for Input Column 2 (Email Addresses):
+- The input column 2 contains email addresses.
+- The email addresses in the input column are in the format of "username_domain.extension".
+- Examples of email addresses in the input column include "achang_maaker.com", "bobt_sphynx.uk.co", "art.lennox_svxn.com", and "smith_bbbbb.com".
+
+Summary for Output Column (Domain Names):
+- The output column contains domain names extracted from the email addresses in the input column 2.
+- The domain names in the output column are in the format of "domain.extension".
+- Examples of domain names in the output column include "maaker.com", "sphynx.uk.co", "svxn.com", and "bbbbb.com".

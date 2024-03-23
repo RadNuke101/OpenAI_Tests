@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column data consists of full names in the format of 'First Name Last Name'.
+- The first names in the input column are abbreviated to the first letter followed by a space.
+- The last names in the input column are displayed in full.
+
+Output Column Summary:
+- The output column data consists of abbreviated first names and full last names.
+- The first names in the output column are represented by the first letter followed by a space.
+- The last names in the output column are displayed in full.

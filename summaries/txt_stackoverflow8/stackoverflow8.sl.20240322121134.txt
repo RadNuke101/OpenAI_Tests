@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains file paths in the format 'home/folder/filename'. The filenames in this column are 'Sheet1.xls' in both cases.
+
+Output Column Summary:
+- Output Column: The output column contains the extracted filenames from the input paths. The filenames are 'Sheet1.xls' in both cases.

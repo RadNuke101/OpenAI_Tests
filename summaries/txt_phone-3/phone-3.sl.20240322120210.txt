@@ -1,0 +1,15 @@
+For the input column data:
+
+- The phone numbers provided are in the format XXX-XXX-XXX.
+- The area codes in the input data range from 118 to 981.
+- The middle three digits in the input data range from 242 to 941.
+- The last three digits in the input data range from 214 to 991.
+
+For the output column data:
+
+- The phone numbers in the output column are in the format (XXX) XXX-XXX.
+- The area codes in the output data range from 118 to 981.
+- The middle three digits in the output data range from 242 to 941.
+- The last three digits in the output data range from 214 to 991.
+
+Overall, the input and output data follow a consistent pattern with the area code enclosed in parentheses and separated by a hyphen.

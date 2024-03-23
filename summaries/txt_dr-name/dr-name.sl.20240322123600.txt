@@ -1,0 +1,10 @@
+For the input column data:
+
+- The most common title is "Dr."
+- The most common first names are Nancy, Andrew, Jan, and Mariya
+- The most common last names are FreeHafer, Cencici, Kotas, and Sergienko
+
+For the output column data:
+
+- The most common title is "Dr."
+- The most common first names are Nancy, Andrew, Jan, and Mariya

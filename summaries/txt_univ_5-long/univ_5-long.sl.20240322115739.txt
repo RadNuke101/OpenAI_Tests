@@ -1,0 +1,63 @@
+Here is a summary of the input and output data provided:
+
+1. Input: 'University of Pennsylvania', 'Phialdelphia, PA, USA'
+   Output: 'Phialdelphia, PA, USA'
+
+2. Input: 'UCLA', 'Los Angeles, CA'
+   Output: 'Los Angeles, CA, USA'
+
+3. Input: 'Cornell University', 'Ithaca, New York, USA'
+   Output: 'Ithaca, NY, USA'
+
+4. Input: 'Penn', 'Philadelphia, PA, USA'
+   Output: 'Philadelphia, PA, USA'
+
+5. Input: 'University of Maryland College Park', 'College Park, MD'
+   Output: 'College Park, MD, USA'
+
+6. Input: 'University of Michigan', 'Ann Arbor, MI, USA'
+   Output: 'Ann Arbor, MI, USA'
+
+7. Input: 'UC Berkeley', 'Berkeley, CA'
+   Output: 'Berkeley, CA, USA'
+
+8. Input: 'MIT', 'Cambridge, MA'
+   Output: 'Cambridge, MA, USA'
+
+9. Input: 'Rice University', 'Houston, TX'
+   Output: 'Houston, TX, USA'
+
+10. Input: 'Yale University', 'New Haven, CT, USA'
+    Output: 'New Haven, CT, USA'
+
+11. Input: 'Columbia University', 'New York, NY, USA'
+    Output: 'New York, NY, USA'
+
+12. Input: 'NYU', 'New York, New York, USA'
+    Output: 'New York, NY, USA'
+
+13. Input: 'UC Berkeley', 'Berkeley, CA'
+    Output: 'Berkeley, CA, USA'
+
+14. Input: 'UIUC', 'Urbana, IL'
+    Output: 'Urbana, IL, USA'
+
+15. Input: 'Temple University', 'Philadelphia, PA'
+    Output: 'Philadelphia, PA, USA'
+
+16. Input: 'Harvard University', 'Cambridge, MA, USA'
+    Output: 'Cambridge, MA, USA'
+
+17. Input: 'University of Connecticut', 'Storrs, CT, USA'
+    Output: 'Storrs, CT, USA'
+
+18. Input: 'Drexel University', 'Philadelphia, PA'
+    Output: 'Philadelphia, PA, USA'
+
+19. Input: 'New Haven University', 'New Haven, CT, USA'
+    Output: 'New Haven, CT, USA'
+
+20. Input: 'University of California, Santa Barbara', 'Santa Barbara, CA, USA'
+    Output: 'Santa Barbara, CA, USA'
+
+These summaries provide the location details for various universities mentioned in the input data.

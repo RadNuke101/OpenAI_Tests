@@ -1,0 +1,9 @@
+Input Column Summary:
+1. The input column contains URLs in the format 'protocol=//domain/path'.
+2. Each URL consists of a protocol (http or https), a domain name, and a path.
+3. The URLs vary in length and structure, but all follow the same format.
+
+Output Column Summary:
+1. The output column contains modified URLs where only the protocol and domain name are retained.
+2. The paths and any additional parameters are removed from the original URLs.
+3. The modified URLs still maintain the original structure of 'protocol=//domain'.

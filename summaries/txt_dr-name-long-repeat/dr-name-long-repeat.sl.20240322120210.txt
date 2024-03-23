@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of names in the format ['First Name Last Name'].
+- Each name is unique and does not repeat within the input column data.
+- The names in the input column data are diverse and include both male and female names.
+
+Summary for Output Column:
+- The output column data consists of titles and first names in the format 'Dr. First Name'.
+- The output column data follows a consistent pattern of starting with 'Dr.' followed by the first name.
+- Each output value corresponds to a unique input name from the input column data.

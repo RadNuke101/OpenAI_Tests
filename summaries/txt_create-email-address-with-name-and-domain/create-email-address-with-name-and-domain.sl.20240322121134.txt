@@ -1,0 +1,11 @@
+Summary for Input Column 1:
+- Names in the input column are 'ayako', 'amy', 'tom'.
+
+Summary for Input Column 2:
+- Surnames in the input column are 'ogawa', 'johnson', 'chang'.
+
+Summary for Input Column 3:
+- Domains in the input column are 'acme.com', 'google.com', 'upenn.edu'.
+
+Summary for Output Column:
+- The output column combines the first letter of the first name with the surname, separated by an underscore.

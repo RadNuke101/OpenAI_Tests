@@ -1,0 +1,5 @@
+Input Column Data Summary:
+- Column 1: The input column data consists of strings representing fruits followed by a number. The fruits mentioned include apples, peaches, and pears. The numbers associated with the fruits vary in value.
+
+Output Column Summary:
+- The output column consists of the extracted fruit names from the input data. The fruits mentioned in the output column include apples, peaches, and pears.

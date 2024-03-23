@@ -1,0 +1,6 @@
+Input Column Data Summary:
+- Country codes range from +6 to +172.
+- Phone numbers consist of three sets of numbers separated by hyphens.
+
+Output Column Summary:
+- The output format is consistent with the country code in parentheses followed by the phone number in two sets of numbers separated by a hyphen.

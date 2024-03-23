@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of names in the format ['First Name Last Name'].
+- Each name is followed by a space and then the last name.
+- The names in the input column data are unique and do not repeat.
+
+Summary for Output Column:
+- The output column consists of titles and first names in the format 'Dr. First Name'.
+- Each title is followed by a space and then the first name.
+- The output column contains unique titles and first names that correspond to the input names.

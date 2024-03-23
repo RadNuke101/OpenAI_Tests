@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains movie titles with varying numbers of spaces before and between words.
+
+Output Column Summary:
+- The output column contains the corrected movie titles with consistent spacing between words.

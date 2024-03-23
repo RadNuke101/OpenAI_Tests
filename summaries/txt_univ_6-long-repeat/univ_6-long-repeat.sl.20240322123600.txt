@@ -1,0 +1,12 @@
+Summary for input column data:
+- The input column data consists of various universities or educational institutions along with their respective locations.
+- The locations include cities and states within the USA.
+- Some entries include the full name of the university while others use abbreviations or variations of the university names.
+
+Summary for output column data:
+- The output column data consistently includes the city, state, and country (USA) for each university or educational institution.
+- The format of the output is City, State, USA for all entries.
+
+Overall summary:
+- The input column data contains a variety of universities and their locations, while the output column data standardizes the format to include the city, state, and country for each entry.
+- The assistant successfully processed the input data to generate the desired output format for each entry.

@@ -1,0 +1,11 @@
+Summary for Input Column 1:
+- The input column contains values with a combination of numbers and units (e.g., '80v', '10hrs', '7h', '500m').
+- The values in this column represent different quantities with units such as volts (v), hours (hrs), hours (h), and meters (m).
+
+Summary for Input Column 2:
+- The input column contains numerical values (e.g., '3', '3', '2', '4').
+- These values are used as multipliers or factors for the corresponding quantities in Input Column 1.
+
+Summary for Output Column:
+- The output column contains numerical values (e.g., 80, 10, 7, 500).
+- These values are the results of applying the multipliers from Input Column 2 to the quantities in Input Column 1.

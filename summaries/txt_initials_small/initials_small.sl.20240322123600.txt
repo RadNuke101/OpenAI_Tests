@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- Each full name is separated by a space.
+- The names in the input column data vary in length and may contain different numbers of words.
+
+Summary for Output Column:
+- The output column consists of initials in the format of ['First Initial.Last Initial'].
+- Each set of initials is separated by a period.
+- The initials in the output column are derived from the corresponding full names in the input column data.

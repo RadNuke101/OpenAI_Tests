@@ -1,0 +1,8 @@
+Input Column Summaries:
+1. Input Text: The input text column contains phrases describing different scenes. The phrases may or may not contain the words 'yellow', 'green', and 'dog'.
+2. Word 1: The word 1 column contains the word 'yellow' in each row.
+3. Word 2: The word 2 column contains the word 'green' in each row.
+4. Word 3: The word 3 column contains the word 'dog' in each row.
+
+Output Column Summary:
+The output column indicates whether the input text contains all three words 'yellow', 'green', and 'dog'. The output is 'true' if all three words are present in the input text, and 'false' if any of the words is missing.

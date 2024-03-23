@@ -1,0 +1,8 @@
+Summary for input column data:
+- In the first input column data, the word "apple" appears twice in the sentence "apple apples".
+- In the second input column data, the word "orange" appears three times in the sentence "an orange among the oranges is a spoiled orange".
+
+Summary for output column data:
+- The output column data shows the count of occurrences of the specified word in each input sentence.
+
+Overall, the program takes a list of sentences and a target word as input, and outputs the count of occurrences of the target word in each sentence.

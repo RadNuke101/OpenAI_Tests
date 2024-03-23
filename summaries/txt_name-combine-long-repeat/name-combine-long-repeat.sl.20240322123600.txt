@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of first and last names.
+- The first names vary in length and are unique.
+- The last names also vary in length and are unique.
+- Each pair of names is separated by a comma.
+
+Summary for Output Column:
+- The output column consists of full names formed by combining the first and last names from the input.
+- The full names are separated by a space.
+- The output column contains a combination of unique first and last names.

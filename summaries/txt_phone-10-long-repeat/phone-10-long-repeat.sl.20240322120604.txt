@@ -1,0 +1,7 @@
+For the input column data, the phone numbers are formatted in the following way:
+- Country code followed by the phone number in the format XXX-XXX-XXX
+
+For the output column, the phone numbers are formatted in the following way:
+- Country code followed by the phone number in the format (XXX) XXX-XXX
+
+Overall, the input column data consists of phone numbers with country codes and dashes, while the output column data consists of formatted phone numbers with country codes in parentheses and dashes.

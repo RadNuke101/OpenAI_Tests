@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of various motorcycle and car brands followed by a numerical value (e.g., Ducati100, Honda125, Acura100).
+- The brands included in the input data are Ducati, Honda, Acura, Ferrari.
+- Each brand is followed by a numerical value that varies in magnitude (e.g., 100, 125, 250, 550).
+
+Summary for output column:
+- The output column consists of the brand names extracted from the input data without the numerical values.
+- The output includes the brands Ducati, Honda, Acura, Ferrari.
+- The output column reflects the brand names extracted from the input data.

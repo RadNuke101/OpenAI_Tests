@@ -1,0 +1,11 @@
+For the input column data:
+
+- The first segment ranges from 118 to 981.
+- The second segment ranges from 242 to 916.
+- The third segment ranges from 214 to 749.
+
+For the output column data:
+
+- The first segment ranges from 118 to 981.
+- The second segment ranges from 242 to 916.
+- The third segment ranges from 214 to 749.

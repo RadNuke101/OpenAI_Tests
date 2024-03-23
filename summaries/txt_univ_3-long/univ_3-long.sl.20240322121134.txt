@@ -1,0 +1,8 @@
+Summary for Input Column 1 (University Names):
+- The input column contains the names of various universities such as University of Pennsylvania, UCLA, Cornell University, Penn, University of Maryland College Park, University of Michigan, UC Berkeley, MIT, Rice University, Yale University, Columbia University, NYU, UIUC, Temple University, Harvard University, University of Connecticut, Drexel University, New Haven University, and University of California, Santa Barbara.
+
+Summary for Input Column 2 (Locations):
+- The input column contains the locations of the universities such as Philadelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; Philadelphia, PA, USA; College Park, MD, USA; Ann Arbor, MI, USA; Berkeley, CA, USA; Cambridge, MA, USA; Houston, TX, USA; New Haven, CT, USA; New York, NY, USA; Urbana, IL, USA; Storrs, CT, USA; Santa Barbara, CA, USA.
+
+Summary for Output Column (Locations):
+- The output column contains the locations of the universities such as Philadelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; Philadelphia, PA, USA; College Park, MD, USA; Ann Arbor, MI, USA; Berkeley, CA, USA; Cambridge, MA, USA; Houston, TX, USA; New Haven, CT, USA; New York, NY, USA; Urbana, IL, USA; Storrs, CT, USA; Santa Barbara, CA, USA.

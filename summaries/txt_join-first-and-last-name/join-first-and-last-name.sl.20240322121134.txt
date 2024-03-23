@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of names, such as 'susan' and 'chang' or 'aaron' and 'kim'.
+- Each input column contains two names, with the first name appearing first and the second name appearing second.
+
+Summary for Output Column:
+- The output column consists of full names, such as 'susan chang' or 'aaron kim'.
+- The output column combines the first and second names from the input column to create a full name.

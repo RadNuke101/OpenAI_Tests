@@ -1,0 +1,8 @@
+For the input column data:
+
+1. The most common activity is Soybean Farming, followed by Mining, Oil Extraction, and Fishing.
+2. The locations mentioned in the input data are US and CAN.
+
+For the output column data:
+
+1. The most common output is Soybean Farming, followed by Mining, Oil Extraction, and Fishing.

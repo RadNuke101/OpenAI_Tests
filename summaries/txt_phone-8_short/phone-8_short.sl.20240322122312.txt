@@ -1,0 +1,6 @@
+Summary for input column data:
+- The last 3 digits in each input represent a specific number.
+- The first part of each input is a country code followed by a phone number.
+
+Summary for output column:
+- The output column consists of the last 3 digits extracted from each input, which represent a specific number.

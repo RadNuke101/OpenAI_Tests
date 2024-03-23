@@ -1,0 +1,11 @@
+For the input column data, the summary is as follows:
+- The input column data consists of names of individuals, with each name being a combination of first name and last name.
+- Each name is unique and does not repeat within the input column data.
+- The names follow a consistent format of first name followed by last name.
+
+For the output column data, the summary is as follows:
+- The output column data consists of titles "Dr." followed by the first name of the individual.
+- The title "Dr." is consistent for all entries in the output column data.
+- The first names in the output column data correspond to the first names in the input column data.
+
+Overall, the input column data contains unique full names, while the output column data contains titles "Dr." followed by the corresponding first names from the input data.

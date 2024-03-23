@@ -1,0 +1,8 @@
+Input Column Summary:
+- The input column data consists of full names in various formats, including first name, middle initial, and last name.
+
+Output Column Summary:
+- The output column data consists of the middle initial or name extracted from the input column data.
+
+Overall Summary:
+- The input column data contains full names with varying formats, while the output column data extracts the middle initial or name from the input names. The extraction process involves identifying the middle initial or name within the full name provided in the input column.

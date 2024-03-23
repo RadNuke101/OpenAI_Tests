@@ -1,0 +1,7 @@
+For the input column data:
+
+- The first three digits after the last hyphen in each input are: 438, 831, 775, 632, 856, 401, 238.
+
+For the output column data:
+
+- The most common last three digits in the output column are: 438, 831, 775, 632, 856, 401, 238.

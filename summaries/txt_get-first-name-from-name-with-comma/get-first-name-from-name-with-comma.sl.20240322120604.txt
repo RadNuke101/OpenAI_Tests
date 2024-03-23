@@ -1,0 +1,5 @@
+Input Column Data Summary:
+- Column 1: The input column contains names in the format "Lastname,Firstname". Examples include Chang,Amy and Smith,Bobby.
+
+Output Column Summary:
+- The output column contains the first names extracted from the input data. Examples include Amy and Bobby.

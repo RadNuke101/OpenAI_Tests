@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of strings representing numbers.
+- The numbers in the input column data can have varying lengths.
+- The input column data may contain leading zeros in some numbers.
+
+Summary for Output Column:
+- The output column consists of numbers corresponding to the input numbers.
+- The output numbers are integers.
+- The output numbers match the input numbers without any leading zeros.

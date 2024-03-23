@@ -1,0 +1,11 @@
+Summary for Input Column 1:
+- Total entries: 4
+- Unique values: Chang, Amy, smith, bobby
+
+Summary for Input Column 2:
+- Total entries: 4
+- Unique values: 1, 2
+
+Summary for Output Column:
+- Total entries: 4
+- Unique values: Amy, Chang, smith, bobby

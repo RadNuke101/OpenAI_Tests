@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of strings with a fruit name followed by a number.
+- The fruit name is always at the beginning of the string.
+- The number following the fruit name may or may not be present.
+- The fruit names in the input column data include apples, peaches, and pears.
+
+Summary for Output Column:
+- The output column consists of only the fruit names extracted from the input column data.
+- The output column includes the fruit names apples, peaches, and pears.
+- The output column does not contain any numbers, only the fruit names extracted from the input column data.

@@ -1,0 +1,17 @@
+Summary for Input Column Data:
+1. Operating System versions extracted from the input data are as follows:
+   - AIX 5.1
+   - VMware ESX Server 3.5.0 build-110268
+   - Linux 2.6
+   - Red Hat Enterprise AS 4 <2.6-78.0.13.ELlargesmp>
+   - Microsoft <R> Windows <R> 2000 Advanced Server 1.0
+   - Microsoft Windows XP Win2008R2 6.1.7601
+
+Summary for Output Column Data:
+1. Extracted versions from the input data are as follows:
+   - 5.1
+   - 3.5
+   - 2.6
+   - 2.6
+   - 1.0
+   - 6.1

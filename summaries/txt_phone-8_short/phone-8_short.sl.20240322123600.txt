@@ -1,0 +1,13 @@
+For the input column data:
+
+1. The last three digits in each input represent the output number.
+2. The first part of each input is a country code followed by a phone number.
+3. The output number is always the last three digits of the phone number.
+
+For the output column data:
+
+1. The output numbers vary in range from 238 to 856.
+2. The output numbers are the last three digits of the phone numbers in the input column data.
+3. The output numbers are unique for each input.
+
+Overall, the output column data consists of unique three-digit numbers that are extracted from the phone numbers in the input column data.

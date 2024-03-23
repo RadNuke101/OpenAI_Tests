@@ -1,0 +1,5 @@
+For the input column data, it appears to contain numerical values enclosed within HTML tags ("<b>"). The values seem to represent decimal numbers with varying precision.
+
+As for the output column, it consists of decimal numbers extracted from the input column data without the HTML tags. The output column values match the input column values in terms of format and precision.
+
+In summary, the input column data contains decimal numbers enclosed within HTML tags, while the output column displays the extracted decimal numbers without the tags. The values in both columns seem to represent numerical data with varying precision.

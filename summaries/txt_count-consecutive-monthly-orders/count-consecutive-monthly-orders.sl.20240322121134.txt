@@ -1,0 +1,50 @@
+For the input column data:
+
+1. ['7 0 0 5 4 4']: 
+   - Mean: 3.33
+   - Median: 4.0
+   - Mode: 0, 4
+   - Range: 7
+   - Standard Deviation: 2.49
+
+2. ['0 0 2 3 3 0']: 
+   - Mean: 1.33
+   - Median: 1.5
+   - Mode: 0, 3
+   - Range: 3
+   - Standard Deviation: 1.49
+
+3. ['5 6 4 6 0 7']: 
+   - Mean: 5.33
+   - Median: 5.5
+   - Mode: 6
+   - Range: 7
+   - Standard Deviation: 2.06
+
+4. ['0 4 5 0 0 2']: 
+   - Mean: 1.83
+   - Median: 1.5
+   - Mode: 0
+   - Range: 5
+   - Standard Deviation: 1.94
+
+5. ['3 0 3 0 1 2']: 
+   - Mean: 1.5
+   - Median: 1.5
+   - Mode: 0, 3
+   - Range: 3
+   - Standard Deviation: 1.29
+
+6. ['5 3 2 5 6 1']: 
+   - Mean: 3.67
+   - Median: 3.5
+   - Mode: 5
+   - Range: 5
+   - Standard Deviation: 1.87
+
+For the output column data:
+- Mean: 3.17
+- Median: 3.0
+- Mode: No mode
+- Range: 4
+- Standard Deviation: 1.41

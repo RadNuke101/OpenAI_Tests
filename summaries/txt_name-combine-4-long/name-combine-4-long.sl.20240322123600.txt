@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input data consists of pairs of first names and last names.
+- The first names range from Launa to Jenee, covering a variety of names.
+- The last names range from Withers to Pannell, also covering a diverse set of names.
+
+Summary for output column data:
+- The output column data consists of last names followed by the first initial, formatted as "Last Name, First Initial."
+- The last names range from Withers to Pannell, with corresponding first initials.
+- The output column provides a consistent and clear format for presenting the names.

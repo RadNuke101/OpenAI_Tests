@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column data consists of full names in various formats, including middle names or initials.
+- The names are separated by spaces.
+- Some names have middle names or initials, while others do not.
+
+Output Column Summary:
+- The output column contains the middle names or initials extracted from the input names.
+- If there is no middle name or initial in the input name, the output is empty.
+- The output includes only the middle name or initial, without any additional information.

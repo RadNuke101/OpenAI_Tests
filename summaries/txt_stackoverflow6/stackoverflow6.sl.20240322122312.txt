@@ -1,0 +1,7 @@
+Input Column Summary:
+- The input column contains text data with a specific format: date, time, phone number, and text message.
+- The text messages in the input column vary in length and content, but they all seem to be related to some kind of communication or message.
+
+Output Column Summary:
+- The output column contains text data that seems to be the main message or content of the input text messages.
+- The output column data consists of words or phrases that are extracted from the input text messages, possibly representing the key information or main content of each message.

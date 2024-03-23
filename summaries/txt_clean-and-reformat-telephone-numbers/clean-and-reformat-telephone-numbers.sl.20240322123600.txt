@@ -1,0 +1,5 @@
+Input Column Summary:
+1. ['801-456-8765', '<978> 654-0299', '978.654.0299'] - The input column contains phone numbers in different formats, including hyphenated, with parentheses, and with periods.
+
+Output Column Summary:
+1. [8014568765, 9786540299, 9786540299] - The output column contains phone numbers in a consistent format without any special characters.

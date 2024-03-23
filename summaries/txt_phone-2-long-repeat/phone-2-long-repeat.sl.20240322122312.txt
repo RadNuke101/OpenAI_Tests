@@ -1,0 +1,18 @@
+For the input column data:
+
+- The input column data consists of phone numbers in the format '###-###-###'.
+- Each phone number has three groups of numbers separated by hyphens.
+- The last group of numbers in each phone number seems to be the desired output.
+
+For the output column:
+
+- The output column consists of the last group of numbers from each phone number in the input column.
+- The output values range from 000 to 999.
+- There are no missing or incomplete values in the output column.
+
+Overall Summary:
+
+- The input column data contains phone numbers with the last group of numbers being the desired output.
+- The output column consists of the last group of numbers extracted from the input phone numbers.
+- The output values range from 000 to 999.
+- There is a consistent pattern in the input and output data, making it easy to extract the desired output from the phone numbers.

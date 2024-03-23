@@ -1,0 +1,6 @@
+Summary for input column data:
+- The first names in the input column data are Launa, Lakenya, Brendan, Bradford, and Rudolf.
+- The last names in the input column data are Withers, Edison, Hage, Lango, and Akiyama.
+
+Summary for output column data:
+- The output column data consists of the last names followed by a comma and the first initial, such as Withers, L., Edison, L., Hage, B., Lango, B., and Akiyama, R.

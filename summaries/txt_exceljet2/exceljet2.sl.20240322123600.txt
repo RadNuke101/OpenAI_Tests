@@ -1,0 +1,5 @@
+For the input column data, the summary is as follows:
+- The top-level domains extracted from the input data are com, net, and uk.
+
+For the output column data, the summary is as follows:
+- The top-level domains extracted from the output data are com, net, and uk.

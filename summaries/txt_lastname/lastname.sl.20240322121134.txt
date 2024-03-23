@@ -1,0 +1,5 @@
+Summary for input column data:
+- The last names in the input column data are FreeHafer, Cencici, Kotas, and Sergienko.
+
+Summary for output column:
+- The last names in the output column are FreeHafer, Cencici, Kotas, and Sergienko.

@@ -1,0 +1,7 @@
+For the input column data, the summary is as follows:
+- Currency pairs include USD.EUR, KOR.JPN
+- Exchange types include IDEALPRO, CASH
+- Currencies involved are EUR, USD, WON, YEN
+
+For the output column data, the summary is as follows:
+- Output currencies include EUR, USD, WON, YEN

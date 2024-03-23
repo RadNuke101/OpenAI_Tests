@@ -1,0 +1,14 @@
+Summary for input column data:
+- The input data consists of various university names along with their corresponding locations in the format of city, state, country.
+- The university names include well-known institutions such as University of Pennsylvania, UCLA, Cornell University, Penn, University of Maryland College Park, University of Michigan, Columbia University, and NYU.
+- The locations provided include cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, New York, and states such as PA, CA, NY, MD, MI, and countries such as USA.
+
+Summary for output column data:
+- The output data consists of the locations of the universities in the format of city, state, country.
+- The locations provided in the output column include cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, New York, and states such as PA, CA, NY, MD, MI, and countries such as USA.
+- The output column data seems to follow a consistent format of city, state, country for each location.
+
+Overall Summary:
+- The input data contains university names and their corresponding locations, while the output data consists of the locations in a standardized format.
+- The input and output data primarily focus on universities located in different cities and states within the United States.
+- The input and output data provide valuable information about the geographical locations of various universities, helping users identify where these institutions are located.

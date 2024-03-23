@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: Extracted numerical values from the input column are 100, 500, and 003399.
+
+Output Column Summary:
+- The extracted numerical values from the output column are 100, 500, and 003399.

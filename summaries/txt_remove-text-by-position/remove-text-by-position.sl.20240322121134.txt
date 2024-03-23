@@ -1,0 +1,14 @@
+For the input column data:
+
+1. ['c=/users/dave/shotcut.xls']
+   - Summary: The input column data contains the file path 'shotcut.xls'.
+
+2. ['c=/users/dave/formulas.xls']
+   - Summary: The input column data contains the file path 'formulas.xls'.
+
+3. ['c=/users/dave/pivot table.xls']
+   - Summary: The input column data contains the file path 'pivot table.xls'.
+
+For the output column data:
+
+- Summary: The output column data contains the following file names: shotcut.xls, formulas.xls, pivot table.xls.

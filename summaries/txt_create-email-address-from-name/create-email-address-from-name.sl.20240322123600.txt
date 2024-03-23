@@ -1,0 +1,11 @@
+For the input column data:
+
+1. Column 1: 
+   - Names: brown, traci, thomas, linda, ward, jack
+   - First names: brown, traci, thomas, linda, ward, jack
+   - Last names: brown, traci, thomas, linda, ward, jack
+
+For the output column data:
+- Domain: acme.com
+- Email format: first letter of the second name + first name + domain
+- Email examples: tbrown_acme.com, lthomas_acme.com, jward_acme.com

@@ -1,0 +1,7 @@
+Input summary:
+- Total number of inputs: 300
+- Each input is a phone number in the format '###-###-###'
+
+Output summary:
+- Total number of outputs: 300
+- Each output is the last three digits of the corresponding phone number.

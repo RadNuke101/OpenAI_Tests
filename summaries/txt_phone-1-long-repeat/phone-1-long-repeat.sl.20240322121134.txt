@@ -1,0 +1,12 @@
+For the input column data, the following summary can be generated:
+
+- The input column data consists of phone numbers in the format '###-###-###'.
+- The first three digits in each phone number do not seem to follow a specific pattern.
+- The middle three digits in each phone number are the focus of the output.
+- The last three digits in each phone number do not seem to follow a specific pattern.
+
+For the output column data, the following summary can be generated:
+
+- The output column data consists of the middle three digits from each phone number in the input column.
+- The middle three digits vary from 049 to 994.
+- There is no specific pattern or trend observed in the middle three digits of the output column data.

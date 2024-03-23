@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input column data consists of sentences describing different scenarios.
+- The sentences contain colors such as yellow and green, as well as objects like dogs and grass.
+- The presence of the specified colors and objects varies in each sentence.
+
+Summary for output column:
+- The output column indicates whether the specified colors and objects are present in the input sentences.
+- The output is true if all specified colors and objects are found in the sentence, and false if any of them are missing.

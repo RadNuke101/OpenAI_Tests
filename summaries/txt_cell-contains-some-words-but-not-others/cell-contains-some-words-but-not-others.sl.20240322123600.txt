@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. ['red ball, green sweater', 'red', 'green', 'pink'] - Contains a red ball and a green sweater. Includes the colors red, green, and pink.
+2. ['pink ball, green sweater', 'red', 'green', 'pink'] - Contains a pink ball and a green sweater. Includes the colors red, green, and pink.
+3. ['blue sea, pink ribbon', 'red', 'blue', 'pink'] - Contains a blue sea and a pink ribbon. Includes the colors red, blue, and pink.
+4. ['black sea, white ribbon', 'red', 'blue', 'pink'] - Contains a black sea and a white ribbon. Includes the colors red, blue, and pink.
+5. ['red green blue', 'red', 'blue', 'pink'] - Contains the colors red, green, and blue.
+
+Summary for Output Column:
+- The output is true for input sets that include the colors red, blue, and pink, and false for those that do not.

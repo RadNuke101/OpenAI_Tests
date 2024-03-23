@@ -1,0 +1,5 @@
+For the input column data, the summary for the first column ['figs', '', 'apples'] is that it contains the items figs and apples. The second entry is empty.
+
+For the second input column data ['mangos', 'kiwis', 'grapes'], the summary is that it contains the items mangos, kiwis, and grapes.
+
+As for the output column, the summary is that it contains the items figs and apples for the first input and mangos, kiwis, and grapes for the second input.

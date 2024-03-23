@@ -1,0 +1,12 @@
+Input Column Data Summary:
+1. Input: ['An example string with _username in it RT _AwesomeUser says _username is awesome', 'username']
+   - Number of occurrences of 'username': 2
+
+2. Input: ['An example string with _username in it RT _AwesomeUser says _username is awesome', 'AwesomeUser']
+   - Number of occurrences of 'AwesomeUser': 1
+
+3. Input: ['An _example string with _example in it is awesome _example', 'example']
+   - Number of occurrences of 'example': 3
+
+Output Column Data Summary:
+- Total number of occurrences in the output column: 6

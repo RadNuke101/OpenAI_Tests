@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of full names in the format ['First Name Last Name'].
+- The first names and last names are capitalized.
+- The output is the initials of the first and last names separated by a period.
+
+Summary for output column:
+- The output column consists of initials in the format 'X.X.' where X represents a capitalized letter.
+- The initials are separated by a period.
+- Each set of initials corresponds to the input full name provided.

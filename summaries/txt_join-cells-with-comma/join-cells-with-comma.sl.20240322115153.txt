@@ -1,0 +1,8 @@
+Input Summary:
+- The input is a list of strings.
+- Each string represents a type of fruit.
+- The list may contain empty strings.
+
+Output Summary:
+- The output is a list of fruits without any empty strings.
+- The fruits are listed in the same order as they appear in the input list.

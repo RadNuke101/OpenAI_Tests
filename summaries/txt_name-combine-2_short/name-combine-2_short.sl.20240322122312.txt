@@ -1,0 +1,8 @@
+For the input column data:
+
+1. First names: The most common first names are Nancy, Andrew, Jan, and Mariya.
+2. Last names: The most common last names are FreeHafer, Cencici, Kotas, and Sergienko.
+
+For the output column data:
+
+1. Initials: The most common initials are N. for first names and F. for last names.

@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of fruit names.
+- The data is case-sensitive, as shown by the examples where 'apple' and 'Apple' are considered different.
+- The data appears to be consistent in terms of format and content.
+
+Summary for Output Column:
+- The output column consists of boolean values (true or false) indicating whether the input values are the same (true) or different (false).
+- The output is based on a direct comparison of the input values.
+- The output column provides a clear indication of the relationship between the input values.

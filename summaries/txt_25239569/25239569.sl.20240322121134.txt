@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. ['Adf_ROCLeader_BAN_728x90_CPM_STD _BRD _NRT_DCK']: This input column data seems to contain information related to an advertising format, specifically for a leader banner with dimensions 728x90. It includes details about the CPM rate, standard specifications, branding, and location targeting.
+
+2. ['MMC_ContextualLarRec_BAN_336x280_CPM_STD _LDS _RTG_DCK']: This input column data appears to be related to another advertising format, possibly for a contextual large rectangle banner with dimensions 336x280. It also includes information about the CPM rate, standard specifications, leads, and targeting.
+
+3. ['Adf_ROC_DLBD_728x90_CPM_STD_DRS_NRT_NOR_DCK']: This input column data seems to pertain to an advertising format for a double leaderboard with dimensions 728x90. It includes details about the CPM rate, standard specifications, direct response, location targeting, and normal targeting.
+
+Summary for Output Column Data:
+- The output column data seems to be a standardized format for describing various advertising formats. It includes details such as the type of ad, dimensions, pricing model (CPM), standard specifications, specific focus (e.g., branding, leads, direct response), targeting options, and possibly other relevant information. The output column data provides a clear and structured way to understand the characteristics of different advertising formats.

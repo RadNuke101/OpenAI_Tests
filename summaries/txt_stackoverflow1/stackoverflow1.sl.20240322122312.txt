@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains company names in various formats, such as 'Trucking Inc.', 'New Truck Inc', and 'ABV Trucking Inc, LLC'.
+
+Output Column Summary:
+- The output column contains the company names after removing unnecessary words like 'Inc.', 'LLC', etc. The cleaned company names are 'Trucking', 'New Truck', and 'ABV Trucking'.

@@ -1,0 +1,7 @@
+Summary for input column data:
+- The input column data consists of sentences from a famous quote: "You can do anything but you can't do everything."
+- Each input is followed by a number indicating the position of the word to be extracted from the sentence.
+
+Summary for output column:
+- The output column contains the extracted words based on the given position in each input sentence.
+- The extracted words are: anything, you, can, do.

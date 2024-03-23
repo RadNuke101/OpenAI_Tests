@@ -1,0 +1,7 @@
+For the input column data:
+
+1. The last three digits of the input phone numbers vary in each case, with values such as 504, 545, 749, 843, 214, and 094.
+
+For the output column data:
+
+1. The output values are the last three digits of the input phone numbers, such as 504, 545, 749, 843, 214, and 094.

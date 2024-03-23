@@ -1,0 +1,14 @@
+Summary for Input Column Data:
+- The input column data consists of names in various formats, including full names, names with middle initials, and names with suffixes.
+- The names in the input column data may contain spaces and special characters.
+- The names in the input column data may have different lengths and structures.
+
+Summary for Output Column Data:
+- The output column data consists of first names extracted from the input names.
+- The first names in the output column data are the first part of the input names before any spaces or special characters.
+- The output column data contains a single first name for each input name.
+
+Overall Summary:
+- The input column data contains a variety of names with different formats and structures.
+- The output column data simplifies the input names by extracting only the first names.
+- The extraction process for the first names is consistent and accurate, resulting in a clean output column with only the first names.

@@ -1,0 +1,9 @@
+Input Column Data Summary:
+- The input column data consists of full names in the format of 'First Name Last Name'.
+- Each full name is separated by a space.
+- The task is to extract the initials of the first and last names and format them as 'F.L.'.
+
+Output Column Summary:
+- The output column consists of initials in the format of 'F.L.'.
+- Each set of initials corresponds to the input full name provided.
+- The initials are derived from the first and last names of the input data.

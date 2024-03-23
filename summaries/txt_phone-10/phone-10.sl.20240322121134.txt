@@ -1,0 +1,7 @@
+Input Column Data Summary:
+- The input column data consists of phone numbers in the format '+XX YYY-ZZZ-ZZZ', where XX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number.
+- Each phone number is formatted consistently with a country code, area code in parentheses, and the phone number separated by hyphens.
+
+Output Column Summary:
+- The output column consists of formatted phone numbers with the country code in the beginning, followed by the area code in parentheses, and the phone number separated by hyphens.
+- The output maintains the same structure and format as the input, with the only change being the addition of parentheses around the area code.

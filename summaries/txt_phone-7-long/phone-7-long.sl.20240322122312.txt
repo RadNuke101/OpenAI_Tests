@@ -1,0 +1,11 @@
+Summary for input column data:
+- The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ', where XXX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number.
+- The area code is the middle part of the phone number and varies in length.
+- The output for each input is the middle part of the phone number, which corresponds to the area code.
+
+Summary for output column data:
+- The output column data consists of the extracted area codes from the input phone numbers.
+- The area codes range from three to four digits in length.
+- The most common area code in the output data is 757, appearing multiple times.
+- The least common area code in the output data is 005, appearing only once.
+- The output data provides a variety of area codes from different phone numbers.

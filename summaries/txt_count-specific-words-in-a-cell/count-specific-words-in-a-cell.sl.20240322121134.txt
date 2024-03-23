@@ -1,0 +1,8 @@
+Summary for input column data:
+- In the first input column data, the phrase "The fox jumped over the fox" is repeated twice.
+- In the second input column data, the word "ox" is present twice.
+- In the third input column data, the word "Fox" is not found.
+
+Summary for output column data:
+- The output column data shows the count of occurrences of the specified word in each input phrase.
+- In the given examples, the output values are 2, 2, and 0 respectively.

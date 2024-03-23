@@ -1,0 +1,13 @@
+Summary for Input Column 1:
+- Total entries: 3
+- Dates mentioned: 11/1/2015, 12/3/2015, 11/15/2015
+- Types of entries: First call, Order placed, Follow-up, Interested
+
+Summary for Output Column:
+- Total entries: 3
+- Types of entries: Follow-up, Interested
+
+Overall Summary:
+- Total entries: 3
+- Dates mentioned: 11/1/2015, 12/3/2015, 11/15/2015
+- Types of entries: First call, Order placed, Follow-up, Interested

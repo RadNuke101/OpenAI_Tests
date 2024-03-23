@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. ['some project,other project']: All inputs are valid projects, output is true.
+2. ['some project']: Input is a valid project, output is true.
+3. ['overhead']: Input is not a valid project, output is false.
+4. ['some project, overhead']: Input contains a valid project and an invalid project, output is false.
+5. ['some project, other, boo']: All inputs are valid projects, output is true.
+
+Summary for Output Column:
+- The output column indicates whether the input projects are valid (true) or not (false).

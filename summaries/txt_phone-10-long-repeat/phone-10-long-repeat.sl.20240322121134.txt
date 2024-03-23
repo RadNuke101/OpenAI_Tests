@@ -1,0 +1,13 @@
+For the input column data:
+
+- The phone numbers are in the format of '+XXX YYY-ZZZ-ZZZ', where XXX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number.
+- The country codes range from +2 to +199.
+- The area codes range from 001 to 999.
+- The phone numbers range from 000-000 to 999-999.
+
+For the output column:
+
+- The phone numbers are formatted as '+XXX (YYY) ZZZ-ZZZ'.
+- The output column follows the same format as the input column but with parentheses around the area code.
+
+Overall, the input data consists of phone numbers with country codes, area codes, and phone numbers, while the output data presents the same information in a standardized format with parentheses around the area code.

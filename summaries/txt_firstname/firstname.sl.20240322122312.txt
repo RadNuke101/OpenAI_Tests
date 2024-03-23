@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- The names in the input column data are varied and include both male and female names.
+
+Summary for Output Column:
+- The output column consists of only the first names extracted from the full names in the input column data.
+- The output column includes a variety of first names such as Nancy, Andrew, Jan, and Mariya.

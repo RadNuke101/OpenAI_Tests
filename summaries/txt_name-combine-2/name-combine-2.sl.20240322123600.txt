@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common first names are Nancy, Andrew, Jan, and Mariya.
+- The most common last names are FreeHafer, Cencici, Kotas, and Sergienko.
+- The average length of the first names is 4.75 characters.
+- The average length of the last names is 7 characters.
+
+For the output column data:
+
+- The most common initials are N., A., J., and M.
+- The average length of the output names is 4 characters.

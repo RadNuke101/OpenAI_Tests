@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of 'First Name Last Name'.
+- The summary for the input column data shows that the initials of the first and last names are used, separated by a period.
+
+Summary for Output Column:
+- The output column consists of initials with a period in between, representing the first and last initials of the full names provided in the input column data.
+- The summary for the output column indicates that the initials are in the format of 'First Initial.Last Initial'.

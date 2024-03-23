@@ -1,0 +1,19 @@
+Summary for Input Column Data:
+1. First input column data: ['yellow dog on green grass', 'warm gray sweater', 'blue neon signs', 'hot pink socks', 'deep black eyes']
+   - Colors mentioned: yellow, green, blue, pink, black
+   - Objects mentioned: dog, grass, sweater, signs, socks, eyes
+
+2. Second input column data: ['yellow', 'yellow', 'blue', 'blue', 'yellow']
+   - Colors mentioned: yellow, blue
+
+3. Third input column data: ['green', 'green', 'green', 'pink', 'neon']
+   - Colors mentioned: green, pink, neon
+
+4. Fourth input column data: ['cat', 'cat', 'neon', 'neon', 'neon']
+   - Objects mentioned: cat, neon
+
+Summary for Output Column Data:
+- Output column data: [true, false, false, true, false]
+  - True values: 2 (40%)
+  - False values: 3 (60%)
+  - Overall trend: More false values than true values.

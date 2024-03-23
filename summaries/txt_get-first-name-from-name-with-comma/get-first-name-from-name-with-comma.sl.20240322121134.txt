@@ -1,0 +1,5 @@
+Input Column Data Summary:
+- Column 1: The input column data consists of last name, first name pairs separated by a comma. Examples include 'Chang,Amy' and 'smith,bobby'. The last name is listed first followed by the first name.
+
+Output Column Summary:
+- The output column consists of the first names extracted from the input data. Examples include 'Amy' and 'bobby'. The output column contains only the first names.

@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column data consists of phrases or sentences related to a specific topic or concept.
+- Each input is focused on a single idea or theme, encouraging the reader to concentrate on one thing at a time.
+- The phrases in the input column convey messages about priorities, decision-making, and focus.
+
+Output Column Summary:
+- The output column data consists of single words that represent the essence or key takeaway from the input phrases.
+- The output words are significant and impactful, capturing the core message or lesson from the input sentences.
+- The output words reflect important concepts such as time, evil, and life, highlighting the central themes of the input data.

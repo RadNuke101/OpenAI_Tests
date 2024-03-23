@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of distances in miles.
+- The values in the input column data are as follows: 736, 1255, 1221, 790.
+
+Summary for Output Column:
+- The output column contains the numerical values corresponding to the distances in miles.
+- The output values are: 736, 1255, 1221, 790.

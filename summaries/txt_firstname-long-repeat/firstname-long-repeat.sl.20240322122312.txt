@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format ['First Last'].
+- Each full name is separated by a space.
+- The first name is always capitalized.
+- The last name is also capitalized.
+
+Summary for Output Column:
+- The output column consists of first names extracted from the full names in the input column.
+- Each first name is capitalized.
+- The output column contains a variety of first names such as Nancy, Andrew, Jan, Mariya, Launa, Lakenya, Brendan, Bradford, Rudolf, Lara, Madelaine, Salley, Micha, Teddy, Coralee, Jeff, Vena, Karrie, Tobias, Celsa, Kimberley, Phillip, Elias, Lashanda, Mackenzie, Kathlyn, Georgina, Beata, Desiree, Jeanice, Mariel, Alida, Jacqualine, Joaquin, Samuel, Malissa, Alaina, Trinidad, Carlene, Melodi, Bess, Chong, Jani, Jacquiline, Hayley, Andria, Irwin, Gertude, Stefany, Rae, Cruz, Maryann, and Annalisa.

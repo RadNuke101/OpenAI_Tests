@@ -1,0 +1,12 @@
+For the input column data:
+- The first three digits after the country code are extracted as the output. For example, in '+106 769-858-438', the output is 769.
+- This pattern is consistent across all input data, where the output is always the three digits following the country code.
+
+For the output column data:
+- The output column consists of the extracted three-digit numbers from the input data.
+- The most common three-digit number in the output column is 769, which appears twice.
+- The least common three-digit numbers in the output column are 027, 001, and 310, each appearing only once.
+- The range of three-digit numbers in the output column is from 001 to 973.
+- The average of the three-digit numbers in the output column is approximately 476.5.
+
+Overall, the output column primarily consists of three-digit numbers extracted from the input data, with 769 being the most common number.

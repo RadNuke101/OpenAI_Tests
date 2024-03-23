@@ -1,0 +1,5 @@
+Summary for input column data:
+The input column data consists of plant names with varying levels of specificity, including species and subspecies names. Each input is a scientific plant name, typically consisting of a genus name followed by a species name and possibly a subspecies name.
+
+Summary for output column:
+The output column consists of the genus names extracted from the input plant names. Each output is the genus name of the corresponding input plant name.

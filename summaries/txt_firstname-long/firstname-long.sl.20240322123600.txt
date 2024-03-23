@@ -1,0 +1,11 @@
+Summary for input column data:
+- The input column data consists of full names of individuals.
+- Each full name is in the format of first name followed by last name.
+- The names appear to be a mix of male and female names.
+- The names do not contain any special characters or numbers.
+
+Summary for output column:
+- The output column consists of only the first names extracted from the full names in the input column.
+- The first names vary in length and do not follow a specific pattern.
+- The first names are a mix of traditional and modern names.
+- The first names do not contain any special characters or numbers.

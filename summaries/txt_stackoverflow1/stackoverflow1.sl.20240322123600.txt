@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column contains company names in the format of [Name] Inc., [Name] Truck Inc., or [Name] Trucking Inc., LLC.
+- The common pattern in the input column is that the company name is followed by terms like Inc., Truck Inc., or Trucking Inc., LLC.
+- The company names in the input column may include abbreviations, full names, or a combination of both.
+
+Output Column Summary:
+- The output column contains the extracted company names without the terms like Inc., Truck Inc., or Trucking Inc., LLC.
+- The extracted company names in the output column are the main part of the original company names.
+- The output column provides a cleaner and more concise version of the company names for easier reference and analysis.

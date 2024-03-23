@@ -1,0 +1,7 @@
+Summary for input column data:
+- The first letter of the first name is capitalized.
+- The first letter of the last name is capitalized.
+
+Summary for output column data:
+- The first letter of the first name is capitalized.
+- The last name is displayed as is.

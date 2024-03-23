@@ -1,0 +1,14 @@
+Summary for input column data:
+- The input column data consists of pairs of university names and their corresponding locations.
+- The locations include city names, state abbreviations, and sometimes the country name.
+- Some universities are located in well-known cities such as New York, Los Angeles, and Philadelphia.
+
+Summary for output column data:
+- The output column data consists of the formatted locations of the universities.
+- The format includes city name, state abbreviation, and country name (if applicable).
+- The locations are primarily in the United States, with cities like New York, Los Angeles, and Philadelphia being common.
+
+Overall summary:
+- The input data consists of university names and their locations, while the output data provides the formatted locations of these universities.
+- The locations are primarily in the United States, with a variety of cities and states represented.
+- The output data consistently follows the format of city name, state abbreviation, and country name (if applicable).

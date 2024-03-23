@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format ['First Name Last Name'].
+- Each input value is a single string containing a first name and a last name separated by a space.
+- The last name is the desired output from each input value.
+
+Summary for Output Column:
+- The output column consists of last names extracted from the input column data.
+- Each output value is the last name of the corresponding input value.
+- The last names in the output column include FreeHafer, Cencici, Kotas, Sergienko, Withers, Edison, Hage, Lango, Akiyama, Constable, Ghoston, Hornak, Junkin, Bobo, Scalia, Quashie, Babiarz, Lain, Dermody, Hopkins, Halpern, Rowden, Neil, Cortes, Spell, Eccleston, Brescia, Miah, Seamons, Soderstrom, Jurgens, Bogle, Olague, Clasen, Richert, Marcus, Partida, Mulloy, Garrard, Chism, Chilcott, Aylward, Ramthun, Heintz, Marquess, Spagnoli, Covelli, Montiel, Reily, Mcgaughey, Latimore, Casler, Gregori, and Pannell.

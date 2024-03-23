@@ -1,0 +1,9 @@
+Here are the summaries for the input and output columns:
+
+Input Column Summary:
+- The last three digits in each input are the output values.
+- The first three digits in each input do not affect the output.
+
+Output Column Summary:
+- The output column consists of the last three digits from each input.
+- The output values range from 094 to 843.

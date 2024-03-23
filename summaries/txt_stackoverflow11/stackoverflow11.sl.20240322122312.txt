@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of strings with various formats, including alphanumeric characters, special characters, and spaces.
+- The strings may contain a mix of numbers, letters, underscores, and words such as CAP, BOX, PAX, etc.
+- The strings may also include hyphens and may have varying lengths.
+
+Summary for Output Column:
+- The output column contains specific phrases or words such as HEEN PAX 77820, PAX, and BOX 4403 PAX SSKA.
+- The output column typically includes a combination of words, numbers, and possibly underscores.
+- The phrases in the output column seem to be related to specific items or categories within the input strings.

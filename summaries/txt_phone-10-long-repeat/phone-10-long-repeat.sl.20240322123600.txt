@@ -1,0 +1,16 @@
+Summary for Input Column Data:
+- The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ'.
+- The country code 'XXX' ranges from 2 to 3 digits.
+- The area code 'YYY' ranges from 3 to 4 digits.
+- The phone number 'ZZZ-ZZZZ' ranges from 7 to 8 digits.
+
+Summary for Output Column Data:
+- The output data consists of formatted phone numbers in the format '+XXX (YYY) ZZZ-ZZZ'.
+- The country code 'XXX' ranges from 2 to 3 digits.
+- The area code 'YYY' ranges from 3 to 4 digits.
+- The phone number 'ZZZ-ZZZZ' ranges from 7 to 8 digits.
+
+Overall Summary:
+- The input and output data follow a consistent format of phone numbers with country codes, area codes, and phone numbers.
+- The input data is transformed into a more readable format in the output data by adding parentheses around the area code.
+- The data processing involves extracting and rearranging the digits in the phone numbers to create the desired output format.

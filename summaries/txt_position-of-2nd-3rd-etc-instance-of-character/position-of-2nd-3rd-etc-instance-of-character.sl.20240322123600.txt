@@ -1,0 +1,11 @@
+Input Column 1 Summary:
+- The first input column contains strings representing dimensions in the format 'LxWxH' where L is length, W is width, and H is height.
+
+Input Column 2 Summary:
+- The second input column contains single characters used as separators.
+
+Input Column 3 Summary:
+- The third input column contains integers.
+
+Output Column Summary:
+- The output column contains integers representing the calculated values based on the input data.

@@ -1,0 +1,5 @@
+Input Column 1 Summary:
+The input column contains sentences with instructions to delete or keep certain words.
+
+Output Column Summary:
+The output column contains sentences with words that have been kept based on the instructions provided in the input column.

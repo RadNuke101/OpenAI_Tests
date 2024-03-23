@@ -1,0 +1,9 @@
+Input Column Summary:
+1. ['11/1/2015 - First call/n12/3/2015-order placed/n11/15/2015-follow-up,interested']: This column contains multiple entries separated by "/n". The entries consist of dates followed by descriptions of activities.
+
+2. ['11/1/2015 - First call/n12/3/2015-order placed']: This column also contains multiple entries separated by "/n". Each entry includes a date followed by a description of an activity.
+
+3. ['11/1/2015 - First call']: This column contains a single entry with a date followed by a description of an activity.
+
+Output Column Summary:
+1. 11/15/2015-follow-up,interested: The output column contains a single entry with a date followed by a description of an activity.

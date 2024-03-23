@@ -1,0 +1,6 @@
+Summary for input column data:
+- The first input column data consists of sentences or phrases.
+- The second input column data consists of single words.
+
+Summary for output column:
+- The output column consists of boolean values (true or false) indicating whether the second input word is present in the corresponding sentence or phrase from the first input column.

@@ -1,0 +1,5 @@
+For the input column data:
+- The first three digits after the country code are extracted and provided as the output.
+
+For the output column data:
+- The output consists of the three digits following the country code in each input.

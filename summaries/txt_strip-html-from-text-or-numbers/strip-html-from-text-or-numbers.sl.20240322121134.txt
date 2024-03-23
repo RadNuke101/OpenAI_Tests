@@ -1,0 +1,5 @@
+For the input column data, it appears to consist of numerical values enclosed within HTML tags. The values are decimals with varying precision. The format is consistent across all entries, with each value enclosed within '<b>' tags.
+
+As for the output column, it contains decimal numbers corresponding to the input values without the HTML tags. The numbers have varying precision and are consistent with the input values.
+
+In summary, the input column data consists of decimal numbers enclosed within HTML tags, while the output column contains the same decimal numbers without the tags. The values in both columns have varying precision.

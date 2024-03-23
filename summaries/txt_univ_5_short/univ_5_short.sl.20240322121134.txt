@@ -1,0 +1,5 @@
+Summary for input column data:
+- The input column data consists of various universities or educational institutions along with their respective locations in the USA. The locations include cities and states.
+
+Summary for output column data:
+- The output column data consists of the locations of the universities or educational institutions in the USA. The locations include cities and states.

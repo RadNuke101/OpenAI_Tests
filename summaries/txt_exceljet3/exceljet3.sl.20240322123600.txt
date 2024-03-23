@@ -1,0 +1,11 @@
+Input column summaries:
+1. Year: The input column contains the year values for different entries. The values are all in the format 'year=XXXX', where XXXX represents the year. The values in this column range from 2016.
+
+2. Make: The input column contains the make values for different entries. The values are all in the format 'make=XXXX', where XXXX represents the make of the vehicle. The values in this column include 'subaru'.
+
+3. Model: The input column contains the model values for different entries. The values are all in the format 'model=XXXX', where XXXX represents the model of the vehicle. The values in this column include 'outback wagon'.
+
+4. Fuel Economy: The input column contains the fuel economy values for different entries. The values are all in the format 'fuel economy=XX/XX', where XX/XX represents the fuel economy in miles per gallon (city/highway). The values in this column include '25/33'.
+
+Output column summary:
+The output column contains the extracted values from the input column data. The values in this column include '2016', 'subaru', 'outback wagon', and '25/33'.

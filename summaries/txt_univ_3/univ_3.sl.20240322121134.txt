@@ -1,0 +1,7 @@
+Summary for input column data:
+- Locations of universities include Philadelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; College Park, MD, USA; Ann Arbor, MI, USA.
+- Some universities are located in specific cities within the United States.
+
+Summary for output column:
+- The output column contains the locations of the universities mentioned in the input column data.
+- Locations include Philadelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; College Park, MD, USA; Ann Arbor, MI, USA.

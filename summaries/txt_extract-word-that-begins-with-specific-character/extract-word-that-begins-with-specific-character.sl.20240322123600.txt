@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of sentences containing placeholders for usernames, such as "_username" or "_name1" and "_name2".
+- The placeholders are surrounded by underscores and are typically found in the middle of the sentences.
+
+Summary for Output Column:
+- The output column contains the extracted usernames or names that were previously represented by placeholders in the input sentences.
+- The extracted usernames or names are denoted by the placeholders without underscores, such as "_username" becoming "username" or "_name1" becoming "name1".

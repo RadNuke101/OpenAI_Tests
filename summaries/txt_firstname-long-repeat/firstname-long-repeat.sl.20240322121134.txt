@@ -1,0 +1,5 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format ['First Last']. Each name is unique and does not repeat within the column. The names include a variety of first and last names such as Nancy FreeHafer, Andrew Cencici, Jan Kotas, Mariya Sergienko, Launa Withers, Lakenya Edison, Brendan Hage, and many more.
+
+Summary for Output Column:
+- The output column consists of the first names extracted from the input column data. The first names include Nancy, Andrew, Jan, Mariya, Launa, Lakenya, Brendan, and many more. Each first name corresponds to a unique full name in the input column data.

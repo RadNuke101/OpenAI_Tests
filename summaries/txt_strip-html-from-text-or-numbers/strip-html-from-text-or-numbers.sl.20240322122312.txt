@@ -1,0 +1,5 @@
+For the input column data, it appears to consist of numerical values enclosed within HTML tags. The values are decimals with varying precision. The values are extracted by removing the HTML tags to obtain the actual numerical data.
+
+As for the output column, it contains decimal numbers corresponding to the input values. The output column seems to mirror the input column after removing the HTML tags.
+
+In summary, the input column data consists of decimal numbers enclosed within HTML tags, while the output column contains the extracted decimal values.

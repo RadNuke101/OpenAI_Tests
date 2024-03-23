@@ -1,0 +1,8 @@
+For the input column data:
+
+- The first three digits after the country code represent the area code.
+- The area code is followed by the phone number, which is split into two parts by a hyphen.
+
+For the output column data:
+
+- The output is the area code extracted from the phone numbers provided in the input column data.

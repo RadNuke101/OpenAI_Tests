@@ -1,0 +1,7 @@
+Summary for input column data:
+- The input column data consists of full names of individuals, with each name containing a first name and a last name.
+- The first names in the input column data include a variety of names such as Nancy, Andrew, Jan, Mariya, Launa, Lakenya, Brendan, Bradford, Rudolf, Lara, Madelaine, Salley, Micha, Teddy, Coralee, Jeff, Vena, Karrie, Tobias, Celsa, Kimberley, Phillip, Elias, Lashanda, Mackenzie, Kathlyn, Georgina, Beata, Desiree, Jeanice, Mariel, Alida, Jacqualine, Joaquin, Samuel, Malissa, Alaina, Trinidad, Carlene, Melodi, Bess, Chong, Jani, Jacquiline, Hayley, Andria, Irwin, Gertude, Stefany, Rae, Cruz, Maryann, Annalisa, and Jenee.
+
+Summary for output column data:
+- The output column data consists of first names extracted from the full names provided in the input column data.
+- The output column contains a variety of first names such as Nancy, Andrew, Jan, Mariya, Launa, Lakenya, Brendan, Bradford, Rudolf, Lara, Madelaine, Salley, Micha, Teddy, Coralee, Jeff, Vena, Karrie, Tobias, Celsa, Kimberley, Phillip, Elias, Lashanda, Mackenzie, Kathlyn, Georgina, Beata, Desiree, Jeanice, Mariel, Alida, Jacqualine, Joaquin, Samuel, Malissa, Alaina, Trinidad, Carlene, Melodi, Bess, Chong, Jani, Jacquiline, Hayley, Andria, Irwin, Gertude, Stefany, Rae, Cruz, Maryann, Annalisa, and Jenee.

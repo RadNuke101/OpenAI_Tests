@@ -1,0 +1,11 @@
+For the input column data:
+
+1. The input column data consists of phrases expressing feelings towards fruits, such as "I love apples" and "I hate bananas".
+2. The input column data includes a variety of emotions and preferences related to different fruits.
+3. The input column data provides insights into personal opinions and attitudes towards specific fruits.
+
+For the output column data:
+
+1. The output column data includes phrases that express feelings towards a specific fruit mentioned in the input column.
+2. The output column data reflects the sentiment or preference associated with the fruit mentioned in the input.
+3. The output column data directly corresponds to the specific fruit mentioned in the input column data.

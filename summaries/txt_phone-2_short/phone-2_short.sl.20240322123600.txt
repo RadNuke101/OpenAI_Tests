@@ -1,0 +1,5 @@
+Summary for input column data:
+- The last three digits of the input phone numbers vary between 504, 545, 749, 843, 214, and 094.
+
+Summary for output column:
+- The output values are 504, 545, 749, 843, 214, and 094.

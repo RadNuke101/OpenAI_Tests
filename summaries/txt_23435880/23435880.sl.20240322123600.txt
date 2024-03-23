@@ -1,0 +1,10 @@
+Input Column Summary:
+- In the first input column, the data consists of phrases related to the word "apple".
+- In the second input column, the data consists of phrases related to the word "orange".
+
+Output Column Summary:
+- The output column contains the count of occurrences of the specified word in each input phrase.
+
+Overall Summary:
+- The input data includes phrases containing specific words like "apple" and "orange".
+- The output provides the count of occurrences of the specified word in each input phrase.

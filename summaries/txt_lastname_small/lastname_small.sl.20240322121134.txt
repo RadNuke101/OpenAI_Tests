@@ -1,0 +1,7 @@
+For the input column data:
+
+- The last names extracted from the input column data are: FreeHafer, Cencici, Kotas, Sergienko.
+
+For the output column data:
+
+- The last names extracted from the output column data are: FreeHafer, Cencici, Kotas, Sergienko.

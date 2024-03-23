@@ -1,0 +1,12 @@
+Summary for input column data:
+- The input column data consists of sentences containing words separated by spaces.
+- The sentences may vary in length, with some containing multiple words and others containing only one word.
+
+Summary for output column data:
+- The output column data consists of the first word from each sentence in the input column.
+- The output is a single word extracted from the beginning of each sentence.
+
+Overall summary:
+- The task involves extracting the first word from each sentence in the input column data.
+- The output column contains the extracted first words from the input sentences.
+- The process involves parsing the input sentences and isolating the initial word for each one.

@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of company names in the format of ['Company Name']. 
+- The company names typically include words related to the trucking industry, such as "Trucking," "Truck," and "Inc."
+- The company names may also include additional information such as abbreviations, commas, and LLC designations.
+
+Summary for Output Column:
+- The output column consists of modified company names where any additional information beyond the main company name has been removed.
+- The modified company names only include the main company name without any extra details like abbreviations, commas, or LLC designations.
+- The modified company names are simplified versions of the original company names, focusing on the main company name related to the trucking industry.

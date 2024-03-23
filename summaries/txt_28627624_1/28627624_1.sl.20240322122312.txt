@@ -1,0 +1,12 @@
+Input Column Summary:
+- The input column contains date and time information in the format "Month Day, Year, Hour=Minute AM/PM - Phone Number= Text".
+- The date format is consistent with "Month Day, Year".
+- The time format is consistent with "Hour=Minute AM/PM".
+- The phone number format is consistent with "+91 XXXXX XXXXX".
+- The text varies in length and content.
+
+Output Column Summary:
+- The output column contains date and time information in the format "Month Day, Year, Hour=Minute AM/PM".
+- The date format is consistent with "Month Day, Year".
+- The time format is consistent with "Hour=Minute AM/PM".
+- The output column does not include phone numbers or text, only the date and time information extracted from the input column.

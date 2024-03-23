@@ -1,0 +1,8 @@
+Summary for Input Column 1:
+- The input column consists of strings indicating replies to specific individuals, with the format 'replies to _aya, _tasisuke, and _chan'.
+
+Summary for Input Column 2:
+- The input column consists of numerical values representing the number of replies.
+
+Summary for Output Column:
+- The output column consists of numerical values that seem to be calculated based on the input data, with the values being 12, 18, and 33 for inputs 1, 2, and 3 respectively. The relationship between the input and output values is not explicitly stated, but it appears to involve some form of calculation or transformation.

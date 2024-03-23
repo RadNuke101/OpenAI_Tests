@@ -1,0 +1,8 @@
+Input column summary:
+- Column 1: The input column contains text data with a specific format including dates, times, phone numbers, and text content.
+
+Output column summary:
+- Output Column: The output column contains text data extracted from the input column, specifically the text content after the '=' symbol. The extracted text seems to be random words or phrases.
+
+Overall summary:
+The input data consists of text entries with a structured format, including dates, times, and phone numbers. The output data is derived from the input text by extracting the text content after the '=' symbol. The extracted text appears to be random words or phrases.

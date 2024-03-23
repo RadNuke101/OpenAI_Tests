@@ -1,0 +1,7 @@
+Summary for input column data:
+- The second number in each input is the desired output.
+- The first and third numbers in each input do not directly affect the output.
+
+Summary for output column:
+- The desired output is the second number in each input.
+- The desired output varies in each input.

@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of various colors such as yellow, gray, black, blue, pink, orange, and turkey.
+- The output column data is either true or false based on the color provided in the input.
+
+Summary for Output Column:
+- The output column contains boolean values (true or false) based on whether the input color is 'yellow', 'blue', 'pink', or 'orange'.
+- If the input color is 'yellow', 'blue', 'pink', or 'orange', the output is true; otherwise, it is false.

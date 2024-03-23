@@ -1,0 +1,9 @@
+For the input column data, the summary is as follows:
+- The input column data consists of strings representing numbers.
+- The numbers in the input column data are of varying lengths.
+- The input column data includes numbers such as 101, 1002, and 743.
+
+For the output column data, the summary is as follows:
+- The output column data consists of numbers.
+- The numbers in the output column data are integers.
+- The output column data includes numbers such as 101, 1002, and 743.

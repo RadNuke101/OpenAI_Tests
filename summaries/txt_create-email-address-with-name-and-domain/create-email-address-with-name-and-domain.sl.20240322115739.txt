@@ -1,0 +1,33 @@
+For the input column data:
+1. ['ayako', 'ogawa', 'acme.com']
+   - First name: ayako
+   - Last name: ogawa
+   - Domain: acme.com
+
+2. ['amy', 'johnson', 'google.com']
+   - First name: amy
+   - Last name: johnson
+   - Domain: google.com
+
+3. ['tom', 'chang', 'upenn.edu']
+   - First name: tom
+   - Last name: chang
+   - Domain: upenn.edu
+
+For the output column data:
+1. aogawa_acme.com
+   - First initial: a
+   - Last name: ogawa
+   - Domain: acme.com
+
+2. ajohnson_google.com
+   - First initial: a
+   - Last name: johnson
+   - Domain: google.com
+
+3. tchang_upenn.edu
+   - First initial: t
+   - Last name: chang
+   - Domain: upenn.edu
+
+If you need further assistance or have any specific questions, feel free to ask!

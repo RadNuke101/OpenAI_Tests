@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of full names in various formats, including first name, middle name, and last name.
+- Some names have middle initials, while others have full middle names.
+- The names are separated by spaces.
+
+Summary for Output Column:
+- The output column consists of middle names or middle initials extracted from the input names.
+- The middle names or initials are followed by a period if they are initials.
+- Some output values may be empty if the input names do not contain middle names or initials.

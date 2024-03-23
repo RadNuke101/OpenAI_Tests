@@ -1,0 +1,14 @@
+For the input column data:
+
+- The first three digits after the last hyphen in each input represent the final number in the phone number.
+- The numbers vary in length and are preceded by a hyphen.
+- The first two digits before the first hyphen in each input represent the country code.
+- The numbers following the country code and before the second hyphen are not relevant to the final output.
+
+For the output column data:
+
+- The final number in each output represents the last three digits of the phone number.
+- The numbers are always three digits in length.
+- The numbers are not preceded by any other characters.
+
+Overall, the input column data consists of phone numbers with varying country codes and number lengths, while the output column data consists of the last three digits of each phone number.

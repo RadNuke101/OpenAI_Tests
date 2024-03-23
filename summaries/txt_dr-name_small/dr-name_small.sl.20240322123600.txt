@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- The names in the input column data appear to be individuals' full names.
+
+Summary for Output Column Data:
+- The output column data consists of titles and first names in the format of 'Dr. First Name'.
+- The output column data follows the pattern of 'Dr.' followed by the first name extracted from the input column data.
+
+Overall Summary:
+- The input column data contains full names, while the output column data transforms these names into titles with the prefix 'Dr.' followed by the first name.
+- The transformation process involves extracting the first name from the input column data and appending it with 'Dr.' to create the output column data.
+- The transformation appears to be consistent and follows a specific pattern for each input name.

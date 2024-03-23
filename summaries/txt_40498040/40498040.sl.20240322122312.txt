@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. ['some project,other project']: All inputs contain multiple project names separated by commas. Output is true.
+2. ['some project']: Input contains a single project name. Output is true.
+3. ['overhead']: Input contains a single project name. Output is false.
+4. ['some project, overhead']: Input contains a project name and the term "overhead". Output is false.
+5. ['some project, other, boo']: Input contains multiple project names and an additional term "boo". Output is true.
+
+Summary for Output Column:
+- The output column indicates whether the input is true or false based on the presence of specific project names or terms.

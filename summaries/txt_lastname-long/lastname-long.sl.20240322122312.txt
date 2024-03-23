@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of full names in the format ['First Name Last Name'].
+- Each input consists of a first name followed by a last name.
+- The last names in the input column data include FreeHafer, Cencici, Kotas, Sergienko, Withers, Edison, Hage, Lango, Akiyama, Constable, Ghoston, Hornak, Junkin, Bobo, Scalia, Quashie, Babiarz, Lain, Dermody, Hopkins, Halpern, Rowden, Neil, Cortes, Spell, Eccleston, Brescia, Miah, Seamons, Soderstrom, Jurgens, Bogle, Olague, Clasen, Richert, Marcus, Partida, Mulloy, Garrard, Chism, Chilcott, Aylward, Ramthun, Heintz, Marquess, Spagnoli, Covelli, Montiel, Reily, Mcgaughey, Latimore, Casler, Gregori, Pannell.
+
+Summary for output column data:
+- The output column data consists of last names extracted from the input column data.
+- The output column includes FreeHafer, Cencici, Kotas, Sergienko, Withers, Edison, Hage, Lango, Akiyama, Constable, Ghoston, Hornak, Junkin, Bobo, Scalia, Quashie, Babiarz, Lain, Dermody, Hopkins, Halpern, Rowden, Neil, Cortes, Spell, Eccleston, Brescia, Miah, Seamons, Soderstrom, Jurgens, Bogle, Olague, Clasen, Richert, Marcus, Partida, Mulloy, Garrard, Chism, Chilcott, Aylward, Ramthun, Heintz, Marquess, Spagnoli, Covelli, Montiel, Reily, Mcgaughey, Latimore, Casler, Gregori, Pannell.
+- The output column data represents the last names extracted from the input column data.

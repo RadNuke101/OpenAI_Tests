@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of the name "Hannah" and a single character.
+- The character 'n' appears twice in the input column data.
+- The character 'x', 'N', and 'h' appear once in the input column data.
+- The character 'a' appears twice in the input column data.
+
+Summary for Output Column:
+- The output column values are 2, 0, 0, 2, and 1 for the corresponding input values ['n', 'x', 'N', 'a', 'h'].
+- The output column values represent the number of occurrences of the character in the input column data.

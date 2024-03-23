@@ -1,0 +1,13 @@
+For the input column data:
+
+- The input column data consists of strings representing numbers.
+- The numbers in the input column data can have varying lengths.
+- The input column data includes numbers such as 101, 1002, and 743.
+- The input column data does not contain any non-numeric characters.
+
+For the output column data:
+
+- The output column data consists of numeric values.
+- The output column data includes numbers such as 101, 1002, and 743.
+- The output column data does not contain any non-numeric characters.
+- The output column data corresponds directly to the input column data in terms of values.

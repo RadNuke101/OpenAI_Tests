@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The first element in the input column is a string 'zx66448'.
+- The second element in the input column is a character 'z'.
+
+Summary for Output Column:
+- The output column contains strings that are modified versions of the first element in the input column based on the character provided in the second element.
+- The modified strings have the specified character removed from the original string.
+
+Overall Summary:
+- The input column consists of pairs of a string and a character.
+- The output column contains modified strings where the specified character is removed from the original string based on the corresponding character in the input column.

@@ -1,0 +1,7 @@
+Summary for input column data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- Each input represents a unique full name.
+
+Summary for output column:
+- The output column consists of the last names extracted from the input full names.
+- Each output represents the last name of the corresponding input full name.

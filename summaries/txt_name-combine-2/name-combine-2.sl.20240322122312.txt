@@ -1,0 +1,6 @@
+Summary for input column data:
+- First names: Nancy, Andrew, Jan, Mariya
+- Last names: FreeHafer, Cencici, Kotas, Sergienko
+
+Summary for output column data:
+- Initials: N. F., A. C., J. K., M. S.

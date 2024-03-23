@@ -1,0 +1,8 @@
+Summary for input column data:
+1. 'year': Contains the year values for various entries, such as 2016.
+2. 'make': Contains the make of vehicles, such as Subaru.
+3. 'model': Contains the model of vehicles, such as Outback Wagon.
+4. 'fuel economy': Contains the fuel economy values in the format of miles per gallon (e.g., 25/33).
+
+Summary for output column data:
+- Contains the extracted values from the input data, such as 2016, Subaru, Outback Wagon, and 25/33.

@@ -1,0 +1,13 @@
+For the input column data:
+1. The first input column contains the items 'figs', an empty string, and 'apples'.
+   - The items in this column are a mix of fruits.
+   - There is an empty string present in the column.
+
+2. The second input column contains the items 'mangos', 'kiwis', and 'grapes'.
+   - The items in this column are different types of fruits.
+
+For the output column data:
+- The output column contains the items 'figs', 'apples', 'mangos', 'kiwis', and 'grapes'.
+- The items in this column are a combination of fruits from both input columns.
+
+Overall, the input columns consist of various fruits, including figs, apples, mangos, kiwis, and grapes. The output column combines all these fruits together.

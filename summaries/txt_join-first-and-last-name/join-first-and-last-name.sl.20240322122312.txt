@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of names, with each entry containing two names separated by a comma.
+- The names in the input column data are in lowercase letters.
+
+Summary for Output Column:
+- The output column consists of full names, with each entry containing two names separated by a space.
+- The full names in the output column are in lowercase letters.

@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+1. Mining US: The input data includes the industry of mining in the United States.
+2. Soybean Farming CAN: The input data includes the industry of soybean farming in Canada.
+3. Soybean Farming: The input data includes the industry of soybean farming.
+4. Oil Extraction US: The input data includes the industry of oil extraction in the United States.
+5. Fishing: The input data includes the industry of fishing.
+
+Summary for Output Column Data:
+- The output column data includes the specific industries mentioned in the input data, such as Mining, Soybean Farming, Oil Extraction, and Fishing.

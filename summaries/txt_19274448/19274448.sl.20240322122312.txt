@@ -1,0 +1,8 @@
+Input Column Summary:
+- Column 1: The input column contains strings with a mix of letters and numbers. The strings are of varying lengths.
+
+Output Column Summary:
+- The output column contains boolean values, either true or false.
+
+Overall Summary:
+- The input column contains strings with a mix of letters and numbers. The output column contains boolean values indicating whether the input string meets a certain condition.

@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of the name of universities along with their locations.
+- Each entry includes the name of the university followed by the city, state, and country where it is located.
+- The format of the input data is consistent across all entries, with the university name listed first followed by the location details.
+
+Summary for output column data:
+- The output column data consists of the name of universities along with their specific locations.
+- Each entry includes the name of the university followed by the city, state, and country where it is located.
+- The format of the output data is consistent across all entries, with the university name listed first followed by the location details.

@@ -1,0 +1,11 @@
+For the input column data:
+
+1. The input data contains URLs with different formats, such as 'http=//www.apple.com/uk/mac', 'https=//www.microsoft.com/en-gb/windows', and 'https=//www.microsoft.com/'.
+2. Each input data includes information about a specific website or webpage, with details like the protocol (http or https), domain name (apple.com or microsoft.com), and specific page or product (mac or windows).
+3. The input data varies in terms of the level of detail provided, with some URLs including specific page names (mac, windows) and others only including the domain name (apple.com, microsoft.com).
+
+For the output column data:
+
+1. The output column data includes specific product or page names extracted from the input URLs, such as 'mac', 'windows', and 'microsoft'.
+2. The output data represents the final piece of information extracted from the input URLs, which is the specific product or page name associated with the domain.
+3. The output data provides a clear and concise summary of the main focus or topic of each input URL, such as Apple's Mac products or Microsoft's Windows operating system.

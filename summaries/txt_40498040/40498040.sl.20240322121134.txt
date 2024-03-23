@@ -1,0 +1,13 @@
+Input column data summary:
+- The input column data consists of project names separated by commas.
+- The project names can be single words or multiple words.
+- Some project names contain spaces, while others do not.
+- The input column data may contain one or multiple project names.
+
+Output column summary:
+- The output column contains boolean values (true or false).
+- The output is true if the input contains the project name 'some project' or 'other project'.
+- The output is false if the input contains the project name 'overhead' or 'some project, overhead'.
+- The output is true if the input contains the project names 'some project', 'other', and 'boo'.
+
+If you have any more specific questions or need further assistance, feel free to ask.

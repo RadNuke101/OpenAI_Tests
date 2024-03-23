@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column contains full names in the format of 'First Name Last Name'.
+- The first names in the input column are 'John', 'Mayur', and 'Nimit'.
+- The last names in the input column are 'Doe', 'Naik', and 'Singh'.
+
+Output Column Summary:
+- The output column contains abbreviated names in the format of 'First Initial Last Name'.
+- The first initials in the output column are 'J', 'M', and 'N'.
+- The last names in the output column are 'Doe', 'Naik', and 'Singh'.

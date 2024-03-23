@@ -1,0 +1,14 @@
+Summary for Input Column 1:
+- The input column contains values with a combination of numbers and units (e.g., '80v', '10hrs', '7h', '500m').
+- The values in this column represent different quantities with varying units (volts, hours, meters).
+- The values need to be parsed to extract the numerical part for further processing.
+
+Summary for Input Column 2:
+- The input column contains numerical values (e.g., '3', '3', '2', '4').
+- The values in this column represent the quantity or factor by which the corresponding input value needs to be processed.
+- The values in this column are integers.
+
+Summary for Output Column:
+- The output column contains numerical values (e.g., 80, 10, 7, 500).
+- The values in this column represent the final processed output based on the input values and factors provided.
+- The output values are integers and correspond to the processed input values based on the factors provided in the second input column.

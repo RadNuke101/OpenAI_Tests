@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of three phrases: 'humpty dumpty', 'humpty dumpty sat on a wall,', and 'couldnt put humpty together again.'
+- The lengths of the phrases are 2, 6, and 5 respectively.
+
+Summary for Output Column:
+- The output column consists of three numbers: 2, 6, and 5.
+- These numbers represent the lengths of the corresponding input phrases.
+
+Overall Summary:
+- The input column data contains phrases of varying lengths, with the output column representing the lengths of these phrases.
+- The output column provides a numerical representation of the input data, indicating the length of each phrase.

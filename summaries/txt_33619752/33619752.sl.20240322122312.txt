@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains various company names, such as General Electric, Microsoft, and Nintendo. Some entries include additional terms like Inc, Corporation, and Enterprises.
+
+Output Column Summary:
+- The output column contains the cleaned-up versions of the company names from the input column. It includes General Electric, Microsoft, and Nintendo without any additional terms like Inc, Corporation, or Enterprises.

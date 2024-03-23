@@ -1,0 +1,13 @@
+For the input column data:
+
+- The most common area codes are 163, 138, and 43.
+- The least common area codes are 2, 5, and 18.
+- The average area code is approximately 94.7.
+- The range of area codes is from 2 to 199.
+
+For the output column data:
+
+- The most common output area codes are 763, 858, and 757.
+- The least common output area codes are 005, 048, and 012.
+- The average output area code is approximately 502.6.
+- The range of output area codes is from 005 to 970.

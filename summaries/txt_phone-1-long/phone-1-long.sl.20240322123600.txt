@@ -1,0 +1,9 @@
+For the input column data, the summary is as follows:
+- The first three digits in each input represent the area code.
+- The middle three digits represent the exchange code.
+- The last three digits represent the subscriber number.
+
+For the output column data, the summary is as follows:
+- The output represents the exchange code extracted from each input.
+
+Overall, the input data consists of phone numbers with area codes, exchange codes, and subscriber numbers, and the output column data specifically focuses on extracting the exchange code from each input.

@@ -1,0 +1,16 @@
+Here are the summaries for the input and output columns:
+
+Input Column Data Summary:
+- The input column data consists of pairs of first names and last names.
+- Each pair represents a person's name.
+- The names in the input column data are a mix of different first names and last names.
+
+Output Column Summary:
+- The output column consists of the last name followed by the first name for each pair in the input column data.
+- The output column is consistently formatted with the last name appearing first followed by the first name.
+- The output column provides the reversed order of names compared to the input column data.
+
+Overall Summary:
+- The input column data contains pairs of first names and last names, while the output column displays the last name followed by the first name for each pair.
+- The output column consistently follows the pattern of last name first, first name second.
+- The transformation applied to the input data to generate the output data involves reversing the order of the names in each pair.

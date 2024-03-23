@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of pairs of first names and last names.
+- The last names are listed first followed by a comma and then the first initial of the first name.
+- The input data includes a variety of names from different backgrounds and cultures.
+
+Summary for output column data:
+- The output column data consists of last names followed by a comma and then the first initial of the corresponding first name.
+- The output data follows a consistent format for all entries, with the last name listed first.
+- The output data reflects the rearranged format of the input data, with last names first and first initials last.

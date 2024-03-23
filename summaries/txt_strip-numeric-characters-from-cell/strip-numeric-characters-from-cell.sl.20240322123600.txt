@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains phrases with varying lengths and content, such as names, numbers, and words.
+
+Output Column Summary:
+- The output column contains names or phrases that are typically the last part of the input.

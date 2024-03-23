@@ -1,0 +1,15 @@
+Input Summary:
+1. Input: ['938-242-504']
+2. Input: ['308-916-545']
+3. Input: ['623-599-749']
+4. Input: ['981-424-843']
+5. Input: ['118-980-214']
+6. Input: ['244-655-094']
+
+Output Summary:
+1. Output: 938
+2. Output: 308
+3. Output: 623
+4. Output: 981
+5. Output: 118
+6. Output: 244

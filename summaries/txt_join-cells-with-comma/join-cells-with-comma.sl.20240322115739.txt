@@ -1,0 +1,9 @@
+For the input column data:
+1. ['figs', '', 'apples']: The input column contains three items - figs, an empty string, and apples.
+
+2. ['mangos', 'kiwis', 'grapes']: The input column contains three items - mangos, kiwis, and grapes.
+
+For the output column data:
+1. figs, apples: The output column contains two items - figs and apples.
+
+2. mangos, kiwis, grapes: The output column contains three items - mangos, kiwis, and grapes.

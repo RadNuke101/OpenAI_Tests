@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input column data consists of the names of various universities or educational institutions along with their locations in the form of city, state, and country.
+
+Summary for output column data:
+- The output column data consists of the locations of the universities or educational institutions in the form of city, state, and country.
+
+Overall summary:
+- The input column data provides information about different universities and their locations, while the output column data specifically focuses on the cities, states, and countries where these universities are located. The output column data serves as a concise representation of the geographical locations associated with the input data.

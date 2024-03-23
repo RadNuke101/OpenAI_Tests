@@ -1,0 +1,6 @@
+For the input column data, the summary is as follows:
+- The first input column contains strings of varying lengths.
+- The second input column contains single characters.
+
+For the output column data, the summary is as follows:
+- The output column contains boolean values (true or false) based on the comparison of the two strings in the input column.

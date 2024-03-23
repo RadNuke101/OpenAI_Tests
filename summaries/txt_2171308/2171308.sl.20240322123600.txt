@@ -1,0 +1,6 @@
+Input Column Summary:
+- First names are represented by the first letter only.
+- Last names are represented by the full last name.
+
+Output Column Summary:
+- The output format is consistent with the first letter of the first name followed by the full last name.

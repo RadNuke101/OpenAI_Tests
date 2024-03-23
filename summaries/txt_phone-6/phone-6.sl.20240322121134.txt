@@ -1,0 +1,7 @@
+For the input column data:
+
+- The first three digits after the country code in the phone numbers are: 769, 973, 647, 027, 001, 310, 775.
+
+For the output column data:
+
+- The first three digits in the phone numbers are: 769, 973, 647, 027, 001, 310, 775.

@@ -1,0 +1,7 @@
+Input column data summary:
+- The first input column data contains a sentence about the value of having a bird in hand versus two in the bush.
+- The second input column data contains a similar sentence but with the number "two" spelled out instead of using the numeral "2".
+- The third input column data is about knowing 15 shortcuts.
+
+Output column summary:
+- The output column contains boolean values indicating whether the input sentence is true or false based on the correct usage of numbers in the sentence.

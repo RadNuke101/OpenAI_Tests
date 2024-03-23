@@ -1,0 +1,13 @@
+For the input column data:
+- The input column data consists of date ranges in the format 'MM/DD/YY-MM/DD/YY'.
+- The dates are in either 'MM/DD/YY' or 'MM/DD/YYYY' format.
+- The first date in the range represents the start date, and the second date represents the end date.
+
+For the output column data:
+- The output column data consists of individual dates extracted from the date ranges in the input column.
+- Each output date corresponds to either the start date or end date of the respective input date range.
+
+Overall Summary:
+- The input column data contains date ranges in different formats ('MM/DD/YY-MM/DD/YY' or 'MM/DD/YYYY-MM/DD/YYYY').
+- The output column data consists of individual dates extracted from the input date ranges.
+- The output dates maintain the same format as the input dates they were extracted from.

@@ -1,0 +1,7 @@
+Input Column Summary:
+- The input column data consists of phone numbers in the format '### ### ####'.
+- The first three digits represent the area code, followed by a space, then the next three digits represent the exchange code, followed by another space, and finally, the last four digits represent the subscriber number.
+
+Output Column Summary:
+- The output column data consists of phone numbers in the format '###-###-####'.
+- The phone numbers have been formatted with hyphens between the area code, exchange code, and subscriber number for better readability.

@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of the names of various universities or educational institutions along with their locations.
+- Each entry includes the name of the institution followed by the city, state, and country (if applicable).
+
+Summary for Output Column:
+- The output column consists of the formatted information for each university or educational institution, including the name, city, state, and country (if applicable).
+- The output format is consistent, with the institution name followed by the location details in a standardized manner.
+
+Overall Summary:
+- The input data provides information about different universities and their locations in a structured format.
+- The output column transforms this input data into a standardized format, making it easier to read and understand the details of each institution.
+- The assistant successfully processes the input data and generates the desired output format for each entry.

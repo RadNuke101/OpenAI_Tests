@@ -1,0 +1,52 @@
+For the input columns:
+
+1. Column 1: [7, 0, 5, 0, 3, 5]
+   - Mean: 3.33
+   - Median: 5
+   - Mode: 0, 5
+   - Range: 7
+   - Standard Deviation: 2.49
+
+2. Column 2: [0, 0, 6, 4, 0, 3]
+   - Mean: 1.83
+   - Median: 0
+   - Mode: 0
+   - Range: 6
+   - Standard Deviation: 2.49
+
+3. Column 3: [0, 2, 4, 5, 3, 2]
+   - Mean: 2.67
+   - Median: 3
+   - Mode: 2
+   - Range: 5
+   - Standard Deviation: 1.63
+
+4. Column 4: [5, 3, 6, 0, 0, 5]
+   - Mean: 3.17
+   - Median: 3
+   - Mode: 0, 5
+   - Range: 6
+   - Standard Deviation: 2.49
+
+5. Column 5: [4, 3, 0, 0, 1, 6]
+   - Mean: 2.33
+   - Median: 2
+   - Mode: 0
+   - Range: 6
+   - Standard Deviation: 2.49
+
+6. Column 6: [4, 0, 7, 2, 2, 1]
+   - Mean: 3.33
+   - Median: 3.5
+   - Mode: 2
+   - Range: 7
+   - Standard Deviation: 2.49
+
+For the output column:
+
+- Output Column: [3, 3, 4, 2, 2, 6]
+  - Mean: 3.33
+  - Median: 3
+  - Mode: 2, 3
+  - Range: 4
+  - Standard Deviation: 1.63

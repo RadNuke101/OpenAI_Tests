@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common first three digits are 938, 308, 623, 981, 118, and 244.
+- The range of first three digits is from 118 to 981.
+- There are no repeated first three digits in the input data.
+
+For the output column data:
+
+- The most common output is 938, 308, 623, 981, 118, and 244.
+- The range of outputs is from 118 to 981.
+- There are no repeated outputs in the data.

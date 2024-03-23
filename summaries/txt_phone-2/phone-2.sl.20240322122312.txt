@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common last three digits are 504, 545, 749, 843, 214, and 094.
+- The least common last three digits are 504, 545, 749, 843, 214, and 094.
+- The range of last three digits is 504 to 094.
+
+For the output column data:
+
+- The most common last three digits are 504, 545, 749, 843, 214, and 094.
+- The least common last three digits are 504, 545, 749, 843, 214, and 094.
+- The range of last three digits is 504 to 094.

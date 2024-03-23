@@ -1,0 +1,13 @@
+For the input column data:
+
+1. The input column data consists of strings representing numbers with various formats, such as integers, decimals, and negative numbers.
+2. The input values may contain special characters like '%', '-', and '.'.
+3. The input values are a mix of positive and negative numbers, with some values having decimal points.
+
+For the output column data:
+
+1. The output column data consists of numbers with various formats, including integers and decimals.
+2. The output values do not contain any special characters like '%', '-' or '.'.
+3. The output values are all positive numbers, regardless of the input format.
+
+Overall, the input column data contains a variety of numerical formats and special characters, while the output column data consists of positive numbers without any special characters.

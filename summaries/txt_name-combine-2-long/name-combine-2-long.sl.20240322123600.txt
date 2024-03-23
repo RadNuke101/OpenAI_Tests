@@ -1,0 +1,10 @@
+Summary for input column data:
+- The input column data consists of pairs of first names and last names.
+- The first names vary in length and are diverse in terms of gender and origin.
+- The last names are also diverse and vary in length.
+- Each pair of names is separated by a comma.
+
+Summary for output column:
+- The output column consists of the first initial of the first name followed by a period, then a space, and the last name.
+- The output format is consistent across all entries.
+- The output provides a concise representation of the full name.

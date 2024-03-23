@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column data consists of words that all start with the word "that" followed by another word. The second word varies in each input, such as "ensures," "will," "have," "know," and "mouse."
+
+Output Column Summary:
+- The output column consists of the second word from each input, which are "ensures," "will," "have," "know," and "mouse."

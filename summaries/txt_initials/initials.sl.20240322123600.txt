@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of 'First Name Last Name'.
+- Each full name is separated by a space.
+- The first names vary in length and can contain both uppercase and lowercase letters.
+- The last names also vary in length and can contain both uppercase and lowercase letters.
+
+Summary for Output Column:
+- The output column consists of initials in the format of 'First Initial.Last Initial'.
+- The initials are separated by a period.
+- The first initial is always uppercase.
+- The last initial is always uppercase.
+- The initials are derived from the first and last names in the input column data.

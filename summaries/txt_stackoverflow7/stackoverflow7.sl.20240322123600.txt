@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains two items with model numbers. The first item is labeled as 'Item 1' and has the model number AQ-S810W-2AVDF. The second item does not have a label but has the model number AQ-S810W-2AVDF.
+
+Output Column Summary:
+- The output column contains two items with model numbers. The first item is associated with 'Item 1' and has the model number AQ-S810W-2AVDF. The second item does not have an associated label but has the model number AQ-S810W-2AVDF.

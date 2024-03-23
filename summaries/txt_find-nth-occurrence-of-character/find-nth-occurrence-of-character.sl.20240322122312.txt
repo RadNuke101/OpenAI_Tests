@@ -1,0 +1,13 @@
+Summary for Input Column 1:
+- The input column consists of strings indicating replies to three individuals: _aya, _tasisuke, and _chan.
+- The number of replies to each individual seems to affect the output value.
+
+Summary for Input Column 2:
+- The input column consists of numerical values representing the number of replies made.
+- The output value appears to be influenced by the number of replies specified in this column.
+
+Summary for Output Column:
+- The output column contains numerical values that are calculated based on the input data provided in the corresponding rows.
+- The output values seem to be derived from a specific calculation or formula based on the input values.
+
+Overall, the input data involves specifying replies to three individuals, and the output values are determined by a calculation that takes into account the number of replies made.

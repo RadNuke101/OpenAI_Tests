@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of phone numbers in the format '+XX YYY-ZZZ-ZZZ', where XX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number.
+- The country codes range from 6 to 172.
+- The area codes and phone numbers vary in length.
+
+Summary for output column data:
+- The output column data consists of formatted phone numbers in the format 'XX.YYY.ZZZ.ZZZ', where XX is the country code, YYY is the area code, and ZZZ.ZZZ is the phone number.
+- The formatted phone numbers follow a consistent pattern with periods separating the country code, area code, and phone number.
+- The output column data matches the input column data but in a standardized format.

@@ -1,0 +1,7 @@
+Input Column Summary:
+- The first input column contains names such as 'brown', 'traci', 'thomas', 'linda', 'ward', and 'jack'.
+- The second input column contains names such as 'traci', 'linda', and 'jack'.
+
+Output Column Summary:
+- The output column follows a pattern where the first letter of the second input column name is combined with the first input column name followed by '_acme.com'.
+- Examples include 'tbrown_acme.com', 'lthomas_acme.com', and 'jward_acme.com'.

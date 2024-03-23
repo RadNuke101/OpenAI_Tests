@@ -1,0 +1,19 @@
+For the input column data:
+
+- The input column data consists of strings representing numbers.
+- The numbers in the input column data can have varying lengths.
+- The input column data may contain leading zeros in some numbers.
+- The numbers in the input column data are represented as strings.
+
+For the output column data:
+
+- The output column data consists of numbers.
+- The numbers in the output column data can have varying lengths.
+- The output column data does not contain leading zeros.
+- The numbers in the output column data are integers.
+
+Overall Summary:
+
+- The input column data contains strings representing numbers, while the output column data contains actual integer numbers.
+- The input column data may have leading zeros, which are not present in the output column data.
+- The input and output column data are directly related, with the output being the integer representation of the numbers in the input column data.

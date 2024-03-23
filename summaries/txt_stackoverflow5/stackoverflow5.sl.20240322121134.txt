@@ -1,0 +1,35 @@
+Input Column Summaries:
+1. First input column: 
+   - Total values: 2
+   - Unique values: valentine day, movie blah=2blahblah, The
+   - Data types: String
+
+2. Second input column:
+   - Total values: 2
+   - Unique values: 1915, 1914
+   - Data types: Integer
+
+3. Third input column:
+   - Total values: 2
+   - Unique values: 50, 54
+   - Data types: String
+
+4. Fourth input column:
+   - Total values: 2
+   - Unique values: None
+   - Data types: String
+
+5. Fifth input column:
+   - Total values: 2
+   - Unique values: 7.1, 7.9
+   - Data types: Float
+
+6. Sixth input column:
+   - Total values: 2
+   - Unique values: 45, 17
+   - Data types: Integer
+
+Output Column Summary:
+- Total values: 2
+- Unique values: valentine day, movie blah=2blahblah, The
+- Data types: String

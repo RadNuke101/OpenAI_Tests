@@ -1,0 +1,13 @@
+Summary for input column data:
+- The input column data consists of various universities or educational institutions along with their locations in the form of city, state, and country.
+- Each input consists of the name of the university followed by the location details.
+
+Summary for output column data:
+- The output column data consists of the location details of the universities or educational institutions mentioned in the input column data.
+- The location details include the city, state, and country where the university is located.
+
+Overall summary:
+- The input column data provides information about different universities and their locations.
+- The output column data displays the specific location details of each university mentioned in the input.
+- The format of the output includes the city, state, and country where the university is situated.
+- The assistant is able to accurately extract and present the location information for each university mentioned in the input.

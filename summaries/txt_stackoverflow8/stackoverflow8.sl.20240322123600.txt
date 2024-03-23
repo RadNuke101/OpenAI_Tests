@@ -1,0 +1,9 @@
+Input Column Data Summary:
+- Column 1: 
+  - Total entries: 2
+  - File names: Sheet1.xls
+  - File paths: home/Excel/Sheet1.xls, home/user/Sheet1.xls
+
+Output Column Summary:
+- Total entries: 2
+- File names: Sheet1.xls

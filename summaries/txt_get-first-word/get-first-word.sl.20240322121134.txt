@@ -1,0 +1,14 @@
+Input Column Summary:
+- The input column contains sentences with one or more words.
+- The sentences are enclosed in square brackets.
+- Each sentence starts with a capital letter.
+
+Output Column Summary:
+- The output column contains individual words extracted from the sentences in the input column.
+- The words are separated by commas.
+- The words are in lowercase.
+
+Overall Summary:
+- The input column consists of sentences enclosed in square brackets, starting with a capital letter.
+- The output column contains individual words extracted from the sentences in the input column, separated by commas and in lowercase.
+- The output words are the first words of each sentence in the input column.

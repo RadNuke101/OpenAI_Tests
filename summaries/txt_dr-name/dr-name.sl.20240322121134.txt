@@ -1,0 +1,10 @@
+For the input column data:
+
+1. The input column data consists of names in the format ['First Name Last Name'].
+2. The titles 'Dr.' are added before the first names in the output.
+3. The input names include Nancy FreeHafer, Andrew Cencici, Jan Kotas, and Mariya Sergienko.
+
+For the output column data:
+
+1. The output column data consists of names with the title 'Dr.' added before the first names.
+2. The output names include Dr. Nancy, Dr. Andrew, Dr. Jan, and Dr. Mariya.

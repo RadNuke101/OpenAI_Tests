@@ -1,0 +1,15 @@
+Input Column Data Summary:
+1. Input column data consists of strings with alphanumeric characters and special characters.
+2. Each input string contains a combination of words, numbers, and underscores.
+3. The input strings follow a pattern of having multiple words separated by spaces, with occasional numbers and underscores interspersed.
+
+Output Column Summary:
+1. The output column contains a specific pattern of words, numbers, and underscores.
+2. The output typically includes a combination of words followed by numbers and additional words.
+3. The output consistently ends with a specific keyword or identifier, such as "PAX" or "SSKA".
+
+Overall Summary:
+1. The input column data follows a consistent format of alphanumeric characters and special characters.
+2. The output column consistently displays a specific pattern of words, numbers, and keywords.
+3. The input strings are processed to extract the relevant information that matches the expected output pattern.
+4. The output column provides a clear indication of the relevant data extracted from the input strings.

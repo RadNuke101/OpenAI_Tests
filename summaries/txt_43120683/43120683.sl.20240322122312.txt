@@ -1,0 +1,5 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of words and numbers, such as 'one, 1', 'two, 2', 'three, 3', and 'four, 4'.
+
+Summary for Output Column:
+- The output column corresponds to different types of fruits based on the input number, such as apples for 'one', bananas for 'two', strawberries for 'three', and oranges for 'four'.

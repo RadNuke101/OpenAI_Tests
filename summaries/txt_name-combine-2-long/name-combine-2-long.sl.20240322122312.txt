@@ -1,0 +1,11 @@
+Summary for input column data:
+
+- The first names in the input column data range from traditional names like Nancy, Andrew, and Jan to more unique names like Lakenya, Mariya, and Salley.
+- The last names in the input column data range from common surnames like FreeHafer, Cencici, and Kotas to more uncommon ones like Withers, Edison, and Junkin.
+- The initials generated from the input column data range from single-letter initials like N., A., and J. to two-letter initials like L. W., M. S., and S. H.
+
+Summary for output column data:
+
+- The output column data consists of the first name initials followed by the last name initial, separated by a space and a period.
+- The output initials range from common combinations like N. F., A. C., and J. K. to more unique combinations like L. W., M. S., and S. H.
+- The output initials provide a concise and standardized way to represent the full names in the input data.

@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of sentences with placeholders enclosed in angle brackets (< >).
+- The placeholders indicate that certain words or phrases need to be replaced.
+- The placeholders are used to represent strings, numbers, or other values that need to be inserted into the sentences.
+- The input data includes a variety of sentences with different placeholders and formatting.
+
+Summary for Output Column:
+- The output column contains sentences where the placeholders have been replaced with actual values.
+- The output sentences are formatted correctly with the placeholders replaced by the appropriate words or numbers.
+- The output column reflects the successful transformation of the input sentences into meaningful and complete sentences.
+- The output accurately represents the intended meaning of the input sentences after the placeholders have been replaced.

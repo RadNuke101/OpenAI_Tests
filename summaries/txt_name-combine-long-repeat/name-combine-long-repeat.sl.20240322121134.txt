@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of first names and last names.
+- The first names range from Nancy to Jenee.
+- The last names range from FreeHafer to Pannell.
+- Each pair of names is separated by a comma.
+
+Summary for Output Column:
+- The output column consists of full names formed by combining the first name and last name from the input.
+- The full names range from Nancy FreeHafer to Jenee Pannell.
+- Each full name is separated by a space.

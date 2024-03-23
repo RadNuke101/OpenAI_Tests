@@ -1,0 +1,8 @@
+For the input column data, the summary is as follows:
+- The first input column contains the following values: 'ABCDE', 'FGHI', 'JKL', 'MNOPQR'.
+- The second input column contains the following values: 'A', 'ABCDE', 'FGHI', 'JKL'.
+- The third input column contains the following values: 'FGHI', 'JKL'.
+- The fourth input column contains the following values: 'MNOPQR'.
+
+For the output column data, the summary is as follows:
+- The output column contains the following values: 'MNOPQR', 'JKL'.

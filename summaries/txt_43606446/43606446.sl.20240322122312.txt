@@ -1,0 +1,9 @@
+For the input column data:
+
+1. Currency pairs include USD.EUR, KOR.JPN.
+2. Exchange types include IDEALPRO, CASH.
+3. Currency options include EUR, USD, WON, YEN.
+
+For the output column data:
+
+1. The output currencies include EUR, USD, WON, YEN.

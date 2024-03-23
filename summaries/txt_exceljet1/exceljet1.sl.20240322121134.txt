@@ -1,0 +1,11 @@
+Summary for Input Column 1 (Full Names):
+- The input column contains full names in the format "First Name Last Name".
+- The names in the input column are 'ann chang', 'bobby smith', 'art lennox', 'smith bagshaw'.
+
+Summary for Input Column 2 (Email Addresses):
+- The input column contains email addresses in various formats.
+- The email addresses in the input column are 'achang_maaker.com', 'bobt_sphynx.uk.co', 'art.lennox_svxn.com', 'smith_bbbbb.com'.
+
+Summary for Output Column (Domain Names):
+- The output column contains domain names extracted from the email addresses.
+- The domain names in the output column are 'maaker.com', 'sphynx.uk.co', 'svxn.com', 'bbbbb.com'.

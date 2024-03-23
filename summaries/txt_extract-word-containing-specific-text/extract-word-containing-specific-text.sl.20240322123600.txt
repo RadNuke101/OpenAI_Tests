@@ -1,0 +1,7 @@
+Input column data summary:
+- The input column data consists of email addresses and domain names.
+- Each input is a sentence mentioning an action related to a specific domain or email address.
+
+Output column summary:
+- The output column contains domain names extracted from the input sentences.
+- The extracted domain names are the targets of the actions mentioned in the input sentences.

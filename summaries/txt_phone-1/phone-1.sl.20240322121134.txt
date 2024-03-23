@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The second number in the input column data is the desired output.
+- The second number in each input is the focus of the task.
+- The second number in the input data is the target value.
+- The second number in the input data is the key value.
+- The second number in the input data is the main point of interest.
+
+Summary for Output Column Data:
+- The output column contains the second number from each input.
+- The output column displays the target values extracted from the input data.
+- The output column shows the key numbers identified from the input data.
+- The output column lists the main points of interest extracted from the input data.

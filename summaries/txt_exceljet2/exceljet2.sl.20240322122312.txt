@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of domain names in the format of ['www.domain.com'], ['mail.net'], ['www.amaon.co.uk'].
+- Each input contains a domain name with different extensions such as .com, .net, .co.uk.
+
+Summary for Output Column Data:
+- The output column data consists of the domain extensions extracted from the input domain names.
+- The output includes the extensions com, net, uk.
+
+Overall Summary:
+- The input column data contains various domain names with different extensions.
+- The output column data shows the extracted domain extensions from the input domain names.
+- The process involves extracting the last part of the domain name after the last dot to determine the domain extension.

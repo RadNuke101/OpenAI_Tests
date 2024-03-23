@@ -1,0 +1,5 @@
+Input Column Summary:
+1. Column 1: The input data consists of a string with various alphanumeric characters and words separated by spaces. The format seems to include a combination of numbers, letters, and special characters.
+
+Output Column Summary:
+1. The output column contains specific words or phrases that appear towards the end of the input string. These words or phrases include "HEEN PAX 77820", "PAX", and "BOX 4403 PAX SSKA". They seem to represent specific identifiers or information within the input data.

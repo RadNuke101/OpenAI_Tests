@@ -1,0 +1,10 @@
+Summary for input column data:
+- Country codes range from +6 to +172.
+- Phone numbers consist of 9 digits separated by hyphens.
+- The input data is consistent in format and structure.
+
+Summary for output column data:
+- The phone numbers have been formatted consistently with periods separating the digits.
+- The output data is well-formatted and easy to read.
+
+Overall, the input and output data follow a clear pattern and are formatted consistently.

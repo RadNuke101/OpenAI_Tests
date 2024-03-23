@@ -1,0 +1,14 @@
+Summary for input column data:
+- The input data consists of university names and their corresponding locations, primarily in the United States.
+- The locations include cities and states, with some entries also including the country (USA).
+- The universities are located in various cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, Berkeley, Cambridge, Houston, New Haven, New York, and Urbana.
+
+Summary for output column data:
+- The output data consists of the locations of the universities, specifically the cities and states where they are located.
+- The locations are in the United States and include cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, Berkeley, Cambridge, Houston, New Haven, New York, and Urbana.
+- The format of the locations is typically City, State, USA.
+
+Overall summary:
+- The input data provides university names and their locations, while the output data focuses on the specific cities and states where the universities are located.
+- The universities are located in various cities across the United States, showcasing the diversity of locations for higher education institutions.
+- The consistent format of City, State, USA in the output data highlights the standardized way of presenting the locations of the universities.

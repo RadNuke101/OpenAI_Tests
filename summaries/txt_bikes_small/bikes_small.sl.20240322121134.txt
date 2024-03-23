@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of motorcycle brands followed by their respective engine sizes.
+- The common motorcycle brands in the input data are Ducati and Honda.
+- The engine sizes mentioned in the input data are 100, 125, 250, and 550.
+
+Summary for Output Column:
+- The output column consists of the motorcycle brand extracted from the input data.
+- The output column includes only two unique values, Ducati and Honda.
+- The output column reflects the motorcycle brand extracted from the input data for each row.

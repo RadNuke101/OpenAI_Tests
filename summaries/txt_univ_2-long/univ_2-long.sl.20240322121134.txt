@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of the name of universities or colleges along with their locations in the format of city, state, and country.
+- The universities or colleges mentioned are located in various cities across the United States, such as Philadelphia, Los Angeles, New York, Cambridge, and more.
+- Each input includes the name of the institution followed by the city and state where it is located, with some entries also including the country name.
+
+Summary for output column data:
+- The output column data consists of the name of universities or colleges along with their locations in the format of city, state, and country, followed by the abbreviation "USA" to indicate the country.
+- The output accurately reflects the input data by displaying the name of the institution, city, state, and country for each entry.
+- The output consistently follows the same format for all entries, making it easy to identify the location of each university or college.

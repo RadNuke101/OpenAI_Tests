@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- Input column 1: Contains phrases describing scenes with colors and objects.
+- Input column 2: Contains the color "yellow".
+- Input column 3: Contains the color "green".
+- Input column 4: Contains the object "dog".
+
+Summary for Output Column:
+- Output column: Indicates whether the input phrase contains the colors "yellow" and "green" along with the object "dog". Returns true if all three are present, false otherwise.

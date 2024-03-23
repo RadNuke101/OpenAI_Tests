@@ -1,0 +1,7 @@
+Summary for input column data:
+- The first three digits in each input represent the country code.
+- The middle three digits represent the area code.
+- The last three digits represent the local number.
+
+Summary for output column data:
+- The output column represents the middle three digits of the phone number, which correspond to the area code.

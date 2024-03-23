@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of full names in the format ['First Name Last Name'].
+- Each input consists of a first name followed by a last name.
+- The last name is the desired output for each input.
+
+Summary for output column:
+- The output column consists of last names extracted from the input data.
+- Each output is the last name of the corresponding input full name.
+- The last names vary in length and structure, but they are all extracted correctly from the input data.

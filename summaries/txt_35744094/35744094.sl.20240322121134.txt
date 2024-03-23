@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of URLs with different formats, including 'http' and 'https'.
+- Each URL contains information about a specific company and product, such as Apple and Microsoft.
+
+Summary for Output Column:
+- The output column contains the specific product names extracted from the URLs, such as 'mac', 'windows', and 'microsoft'.
+- The output column provides a clear indication of the main product associated with each company mentioned in the input URLs.

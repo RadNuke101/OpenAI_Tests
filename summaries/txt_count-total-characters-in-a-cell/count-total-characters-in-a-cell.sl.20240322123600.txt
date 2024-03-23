@@ -1,0 +1,9 @@
+Input Column Summary:
+- Input column data consists of strings containing one or more words.
+- The length of each input string varies based on the number of words and spaces present.
+- The input strings may contain single or multiple spaces between words.
+
+Output Column Summary:
+- The output column contains integer values representing the total number of characters in each input string.
+- The output values are calculated by counting the characters in each input string, including spaces.
+- The output values vary based on the length of the input strings.

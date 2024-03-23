@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column consists of pairs of first and last names. Each pair represents a person's full name.
+
+Output Column Summary:
+- The output column consists of full names with the first and last names combined.

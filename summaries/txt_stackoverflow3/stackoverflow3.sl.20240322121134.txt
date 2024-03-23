@@ -1,0 +1,11 @@
+Input Column Summary:
+- The input column data consists of birth dates and locations in the format 'geb. DD MMM YYYY Location'. 
+- The birth dates are in the format 'DD MMM YYYY' where DD represents the day, MMM represents the month abbreviation, and YYYY represents the year.
+- The location is mentioned after the birth date and is separated by a space.
+- Some entries may not have a location mentioned after the birth date.
+
+Output Column Summary:
+- The output column data consists of locations only.
+- It includes the locations mentioned after the birth dates in the input column data.
+- If an input entry does not have a location mentioned, the output column entry is empty.
+- The output column contains the locations extracted from the input column data.

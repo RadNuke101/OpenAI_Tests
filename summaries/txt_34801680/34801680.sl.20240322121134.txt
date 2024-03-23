@@ -1,0 +1,7 @@
+Input column summary:
+- The input column contains company names in the format 'Name= Company Name'. 
+- The company names vary in length and may include special characters or spaces after the '=' sign.
+
+Output column summary:
+- The output column contains the extracted company names without the 'Name=' prefix.
+- The company names in the output column match the company names in the input column after removing the 'Name=' prefix.

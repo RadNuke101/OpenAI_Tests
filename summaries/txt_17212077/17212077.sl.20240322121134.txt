@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common format for the dates is MM/DD/YYYY.
+- All dates are in the 21st century.
+- The dates are spread across different months and years.
+
+For the output column data:
+
+- The output format is consistently MM/YYYY.
+- The years range from 2009 to 2013.
+- The most common output format is MM/YYYY.

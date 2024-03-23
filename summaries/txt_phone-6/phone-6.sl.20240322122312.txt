@@ -1,0 +1,23 @@
+For the input column data:
+
+- The first three digits after the country code are extracted from each phone number.
+- For the first input, the extracted digits are 769.
+- For the second input, the extracted digits are 973.
+- For the third input, the extracted digits are 647.
+- For the fourth input, the extracted digits are 027.
+- For the fifth input, the extracted digits are 001.
+- For the sixth input, the extracted digits are 310.
+- For the seventh input, the extracted digits are 775.
+
+For the output column data:
+
+- The extracted digits from each phone number are:
+  - 769
+  - 973
+  - 647
+  - 027
+  - 001
+  - 310
+  - 775
+
+These are the summaries for the input and output columns based on the provided data.

@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common middle number in the input column data is 599, appearing in the input ['623-599-749'].
+- The least common middle number in the input column data is 424, appearing in the input ['981-424-843'].
+- The average middle number in the input column data is 611.5.
+
+For the output column data:
+
+- The most common output number is 655, appearing in the output ['244-655-094'].
+- The least common output number is 424, appearing in the output ['981-424-843'].
+- The average output number is 599.5.

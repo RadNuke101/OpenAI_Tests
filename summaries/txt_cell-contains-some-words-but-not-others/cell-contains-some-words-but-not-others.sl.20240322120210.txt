@@ -1,0 +1,10 @@
+Summary for input column data:
+1. ['red ball, green sweater', 'red', 'green', 'pink'] - Contains items in red, green, and pink colors.
+2. ['pink ball, green sweater', 'red', 'green', 'pink'] - Contains items in pink and green colors, but not red.
+3. ['blue sea, pink ribbon', 'red', 'blue', 'pink'] - Contains items in blue and pink colors, but not red.
+4. ['black sea, white ribbon', 'red', 'blue', 'pink'] - Contains items in blue and pink colors, but not red.
+5. ['red green blue', 'red', 'blue', 'pink'] - Contains items in red and blue colors, but not pink.
+
+Summary for output column data:
+1. True - Indicates that the input contains all the specified colors (red, green, pink).
+2. False - Indicates that the input does not contain all the specified colors (red, green, pink).

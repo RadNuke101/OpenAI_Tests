@@ -1,0 +1,12 @@
+Summary for input column data:
+- The input column data consists of pairs of university names and their corresponding locations.
+- The locations include city, state, and country information for each university.
+
+Summary for output column data:
+- The output column data consists of the locations of the universities in the format of city, state, and country.
+- The locations are formatted consistently with city, state abbreviation, and country information.
+
+Overall summary:
+- The input data includes various universities and their locations across the United States.
+- The output data provides the city, state, and country information for each university location.
+- The data is well-structured and follows a consistent format for both input and output columns.

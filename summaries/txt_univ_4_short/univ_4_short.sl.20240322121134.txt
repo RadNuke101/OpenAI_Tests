@@ -1,0 +1,12 @@
+Summary for input column data:
+- The input column data consists of various universities or educational institutions along with their locations in the format of city, state, country.
+- The locations mentioned in the input column data include cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, and New York, among others.
+- The states mentioned in the input column data include Pennsylvania, California, New York, Maryland, and Michigan.
+- The countries mentioned in the input column data are all within the USA.
+
+Summary for output column data:
+- The output column data consists of the locations corresponding to the universities or educational institutions mentioned in the input column data.
+- The locations in the output column data are in the format of city, state, country.
+- The output column data includes cities such as Philadelphia, Los Angeles, Ithaca, College Park, Ann Arbor, and New York, among others.
+- The states in the output column data include Pennsylvania, California, New York, Maryland, and Michigan.
+- All locations in the output column data are within the USA.

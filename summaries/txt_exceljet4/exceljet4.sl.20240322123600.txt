@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of URLs with different protocols such as https, ftp, and sftp.
+- Each input value is formatted as [protocol]=[//domain].
+- The domain part of the input values varies, including examples like exceljet.net, microsoft.com, someserver.com, and 127.0.0.1.
+
+Summary for Output Column:
+- The output column contains extracted domain names from the input URLs.
+- The output values include exceljet.net/catalog, microsoft.com, someserver.com, and 127.0.0.1.
+- The output column provides the main domain names without the protocol prefix.

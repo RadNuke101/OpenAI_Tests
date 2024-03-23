@@ -1,0 +1,9 @@
+Summary for Input Column:
+- The input column contains data in the format ['text, number'].
+- The text represents a number written in words.
+- The number corresponds to the quantity of a specific fruit.
+
+Summary for Output Column:
+- The output column provides a description of the quantity of a specific fruit.
+- The description is based on the number provided in the input column.
+- Each number corresponds to a different type of fruit (apple, banana, strawberry, orange).

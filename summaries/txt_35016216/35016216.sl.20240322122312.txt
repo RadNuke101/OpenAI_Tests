@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- The first input column data contains a mix of uppercase letters, lowercase letters, and numbers. The output for this column is the value 'C0abc'.
+- The second input column data contains only lowercase letters. The output for this column is the value 'def'.
+- The third input column data contains a mix of uppercase letters, numbers, and lowercase letters. The output for this column is the value 'C0dd'.
+- The fourth input column data contains only lowercase letters. The output for this column is the value 'qwe'.
+
+Summary for Output Column:
+- The output column contains a mix of lowercase letters. The values in this column are 'C0abc', 'def', 'C0dd', and 'qwe'.

@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains date and time information in the format 'Month Day, Year, Hour=Minute AM/PM - Phone Number= Text'. 
+
+Output Column Summary:
+- The output column contains the extracted date and time information from the input column.

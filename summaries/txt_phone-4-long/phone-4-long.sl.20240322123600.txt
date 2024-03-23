@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input data consists of phone numbers in the format XXX-XXX-XXX.
+- Each phone number is unique and does not repeat in the dataset.
+- The phone numbers range from 000-000-000 to 999-999-999.
+
+Summary for output column data:
+- The output data consists of formatted phone numbers in the format XXX.XXX.XXX.
+- Each output phone number corresponds to a unique input phone number.
+- The output phone numbers are correctly formatted with periods separating the digits.

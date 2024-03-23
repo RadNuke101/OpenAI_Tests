@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- The input column data consists of the word "spreadsheet" split into individual characters.
+- Each input column corresponds to a specific character in the word "spreadsheet".
+- The input column data ranges from '1' to '5', representing the position of the character in the word "spreadsheet".
+
+Summary for Output Column:
+- The output column contains the characters 's', 'p', 'r', 'e', 'a' corresponding to the input values '1', '2', '3', '4', '5' respectively.
+- The output column represents the character extracted from the word "spreadsheet" based on the input value provided.

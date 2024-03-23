@@ -1,0 +1,9 @@
+For the input column data:
+
+- The most common unit is 'h', appearing in 2 out of 4 inputs.
+- The units 'v', 'hrs', and 'm' each appear once in the input column data.
+
+For the output column data:
+
+- The most common unit is 'h', appearing in 2 out of 4 outputs.
+- The units 'v', 'hrs', and 'm' each appear once in the output column data.

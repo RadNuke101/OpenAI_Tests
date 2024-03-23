@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of names of individuals, each with a first name and a last name.
+- The first names in the input column data are diverse and unique, ranging from Launa to Jenee.
+- The last names in the input column data are also varied, such as Withers, Edison, Hage, Akiyama, and many more.
+
+Summary for output column:
+- The output column consists of titles with the prefix "Dr." followed by the first name of the individual from the input column data.
+- The output column consistently follows the format of "Dr. [First Name]" for each input name.
+- The output column reflects a respectful and professional tone by using the title "Dr." before each first name.

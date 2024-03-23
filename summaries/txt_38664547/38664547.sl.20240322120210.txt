@@ -1,0 +1,6 @@
+Input column data summary:
+- The input column data consists of words that all contain the word "that" followed by another word.
+- The second word in each input is the focus of the output.
+
+Output column summary:
+- The output column contains the second word from each input, which is the key focus of the input phrases.

@@ -1,0 +1,17 @@
+Summary for Input Column Data:
+- The input column data consists of various university names along with their respective locations.
+- Each entry includes the name of the university followed by the city, state, and country (if applicable).
+- The universities mentioned are located in different cities across the United States, such as Philadelphia, Los Angeles, New York, and more.
+- Some entries also include the abbreviation of the university name, such as Penn for University of Pennsylvania and NYU for New York University.
+
+Summary for Output Column Data:
+- The output column data consists of the university name followed by its location in the format of city, state, and country (if applicable).
+- Each entry provides a clear and concise representation of the university's name and where it is located.
+- The output column data mirrors the input column data but in a standardized format for easy readability and understanding.
+- The locations mentioned in the output column data include cities like Philadelphia, Los Angeles, New York, and states like Pennsylvania, California, and more.
+
+Overall Summary:
+- The input column data contains information about various universities and their locations across the United States.
+- The output column data presents this information in a structured and consistent format for better clarity.
+- Both the input and output column data focus on university names and their corresponding locations, providing a comprehensive overview of higher education institutions in different cities and states.
+- The summaries highlight the key details present in the input and output column data, emphasizing the universities' names and locations as the primary focus of the dataset.

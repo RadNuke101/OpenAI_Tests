@@ -1,0 +1,12 @@
+Input Summary:
+- Input 1: ['R/V<208,0,32>']
+- Input 2: ['R/S<184,28,16>']
+- Input 3: ['R/B<255,88,80>']
+
+Output Summary:
+- Output 1: R/V 208 0 32
+- Output 2: R/S 184 28 16
+- Output 3: R/B 255 88 80
+
+Summary:
+The inputs consist of strings with a specific format containing color codes enclosed in angle brackets. The outputs are the color codes extracted from the inputs along with the corresponding color initials. The format of the output is the color initial followed by the extracted color codes separated by spaces.

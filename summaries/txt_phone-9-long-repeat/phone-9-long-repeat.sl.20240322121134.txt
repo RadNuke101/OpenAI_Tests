@@ -1,0 +1,5 @@
+For the input column data, the numbers are formatted as international phone numbers with the country code included. The numbers are separated by hyphens and spaces. The country codes range from 2 to 199.
+
+For the output column, the numbers have been reformatted to remove the plus sign and spaces, and the hyphens have been replaced with periods to create a standard phone number format.
+
+Overall, the input data consists of international phone numbers with varying country codes, and the output data has been standardized to a common phone number format.

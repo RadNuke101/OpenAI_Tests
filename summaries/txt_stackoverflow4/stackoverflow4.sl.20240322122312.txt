@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+1. Column 1: 
+   - Input values are in the format ['R/V<208,0,32>', 'R/S<184,28,16>', 'R/B<255,88,80>']
+   - The values consist of a letter followed by a slash and another letter, then a set of three numbers enclosed in angle brackets.
+   - The numbers represent different color components.
+
+Summary for Output Column Data:
+1. Output Column:
+   - Output values are in the format 'R/V 208 0 32', 'R/S 184 28 16', 'R/B 255 88 80'
+   - The values consist of a letter followed by a slash and another letter, then three numbers separated by spaces.
+   - The numbers represent different color components.

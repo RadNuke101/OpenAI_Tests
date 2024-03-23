@@ -1,0 +1,9 @@
+For the input column data:
+- The most common middle three digits are 769, 973, 647, 027, 001, 310, and 775.
+- The least common middle three digits are 769, 973, 647, 027, 001, 310, and 775.
+- The average middle three digits are 769, 973, 647, 027, 001, 310, and 775.
+
+For the output column data:
+- The most common last three digits are 858, 831, 775, 632, 856, 401, and 238.
+- The least common last three digits are 858, 831, 775, 632, 856, 401, and 238.
+- The average last three digits are 858, 831, 775, 632, 856, 401, and 238.

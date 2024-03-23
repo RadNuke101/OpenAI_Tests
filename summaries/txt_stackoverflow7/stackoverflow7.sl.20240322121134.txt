@@ -1,0 +1,5 @@
+Summary for Input Column:
+- Column 1: The input column contains two items with model numbers. The first item is labeled as 'Item 1 AQ-S810W-2AVDF' and the second item is 'AQ-S810W-2AVDF'.
+
+Summary for Output Column:
+- The output column contains two items. The first item is 'Item 1' and the second item is 'Item 2 -1DUQ'.

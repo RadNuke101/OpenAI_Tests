@@ -1,0 +1,8 @@
+Summary for Input Column 1:
+- The input column 1 contains names such as 'brown', 'thomas', 'ward', etc.
+
+Summary for Input Column 2:
+- The input column 2 contains names such as 'traci', 'linda', 'jack', etc.
+
+Summary for Output Column:
+- The output column follows the pattern of taking the first letter of the second input name and combining it with the first input name followed by '_acme.com'. Examples include 'tbrown_acme.com', 'lthomas_acme.com', 'jward_acme.com', etc.

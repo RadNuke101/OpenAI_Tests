@@ -1,0 +1,6 @@
+For the input column data, the summary is as follows:
+- The most common brand is Honda, followed by Ducati, Acura, and Ferrari.
+- The most common engine sizes are 125, 250, and 550.
+
+For the output column data, the summary is as follows:
+- The most common brand in the output is Honda, followed by Ducati, Acura, and Ferrari.

@@ -1,0 +1,9 @@
+Input Column Summary:
+- The first names in the input column are Launa, Lakenya, Brendan, Bradford, Rudolf, and Lara.
+- The last names in the input column are Withers, Edison, Hage, Lango, Akiyama, and Constable.
+
+Output Column Summary:
+- The last names in the output column are Withers, Edison, Hage, Lango, Akiyama, and Constable.
+- The first names in the output column are Launa, Lakenya, Brendan, Bradford, Rudolf, and Lara.
+
+Overall, the output column displays the last name followed by the first name for each input.

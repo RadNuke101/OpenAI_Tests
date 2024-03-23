@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ'.
+- Each phone number has a country code (XXX), followed by the area code (YYY) and the phone number (ZZZ-ZZZ).
+
+Summary for output column:
+- The output column contains the last three digits of each phone number, which represent the actual phone number.
+- The last three digits vary from 001 to 999.
+- The output column provides the specific phone number for each corresponding input phone number.

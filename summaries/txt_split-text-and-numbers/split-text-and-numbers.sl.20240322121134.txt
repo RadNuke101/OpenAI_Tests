@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains strings with a fruit name followed by a number. The fruit name is always at the beginning of the string, followed by a number. Examples include 'apples30', 'peaches24', 'peaches0', and 'pears'. 
+
+Output Column Summary:
+- The output column contains only the fruit names extracted from the input strings. Examples include 'apples', 'peaches', 'peaches', and 'pears'.

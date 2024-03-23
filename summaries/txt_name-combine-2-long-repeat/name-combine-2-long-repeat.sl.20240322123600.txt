@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of first names and last names.
+- The first names are varied and include names like Nancy, Andrew, Jan, Mariya, Launa, Lakenya, Brendan, etc.
+- The last names are also diverse and include names like FreeHafer, Cencici, Kotas, Sergienko, Withers, Edison, Hage, etc.
+- Each pair of first name and last name is separated by a comma.
+
+Summary for Output Column Data:
+- The output column data consists of the first initial of the first name followed by a period and a space, then the last name initial followed by a period.
+- The format is consistent for all entries, with the first name initial followed by a period and a space, then the last name initial followed by a period.
+- Examples of the output format include Nancy F., Andrew C., Jan K., Mariya S., Launa W., Lakenya E., Brendan H., etc.

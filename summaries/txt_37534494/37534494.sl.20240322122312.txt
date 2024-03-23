@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of two sentences: "I love apples" and "I hate bananas".
+- Both sentences express feelings towards fruits, with one being positive and the other negative.
+
+Summary for Output Column Data:
+- The output column data consists of one word: "banana".
+- This word serves as a key to determine which sentence from the input column data should be selected as the output.
+
+Overall Summary:
+- The input column data contains contrasting emotions towards different fruits.
+- The output column data provides a specific fruit as a reference point for selecting the appropriate sentence from the input column data.

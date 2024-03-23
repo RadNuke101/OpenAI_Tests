@@ -1,0 +1,11 @@
+Input Column 1 Summary:
+- The input column 1 contains names of individuals such as Traci Brown, Mary Hannan, and Linda Thomas.
+
+Input Column 2 Summary:
+- The input column 2 contains street addresses such as 1301 Robinson Court, 1195 Amethyst Drive, and 2479 North Bend Road.
+
+Input Column 3 Summary:
+- The input column 3 contains city, state, and zip code information such as Saginaw, MI 48607, Lansing, MI 48933, and Allen, KY 41601.
+
+Output Column Summary:
+- The output column combines the information from input columns 1, 2, and 3 to form a complete address format with the name, street address, city, state, and zip code separated by "/n".

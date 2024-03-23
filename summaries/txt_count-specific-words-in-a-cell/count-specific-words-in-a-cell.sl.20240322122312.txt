@@ -1,0 +1,13 @@
+Input Column Data Summary:
+- Input column 1: ['The fox jumped over the fox', 'fox']
+- Input column 2: ['The fox jumped over the fox', 'ox']
+- Input column 3: ['The fox jumped over the fox', 'Fox']
+
+Output Column Summary:
+- Output column: [2, 2, 0]
+
+Overall Summary:
+- The input column data consists of sentences with the word 'fox' or 'ox' in them.
+- The output column shows the count of occurrences of the specified word in each sentence.
+- The first two input rows have 2 occurrences of the specified word, while the third row has 0 occurrences.
+- The output column values correspond to the count of occurrences in each input row.

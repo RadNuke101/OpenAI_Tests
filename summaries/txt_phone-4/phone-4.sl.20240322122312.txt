@@ -1,0 +1,11 @@
+For the input column data:
+
+- The input data consists of phone numbers in the format XXX-XXX-XXX.
+- The first set of numbers ranges from 118 to 981.
+- The second set of numbers ranges from 242 to 916.
+- The third set of numbers ranges from 214 to 749.
+
+For the output column data:
+
+- The output data consists of phone numbers in the format XXX.XXX.XXX.
+- The numbers in the output column match the numbers in the input column but with periods instead of hyphens.

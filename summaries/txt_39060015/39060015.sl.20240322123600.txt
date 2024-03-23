@@ -1,0 +1,6 @@
+Input Column Summary:
+- First input column: ['This is a line. /delete words in the area /keep this part']
+- Second input column: ['/delete words in the area /']
+
+Output Column Summary:
+- Output column: This is a line. keep this part

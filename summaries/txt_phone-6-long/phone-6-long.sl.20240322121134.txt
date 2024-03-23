@@ -1,0 +1,11 @@
+For the input column data:
+
+- The most common first three digits in the phone numbers are +163, +43, and +158.
+- The least common first three digits in the phone numbers are +2, +5, and +9.
+- The range of first three digits in the phone numbers is from +2 to +199.
+
+For the output column data:
+
+- The most common three-digit number in the outputs is 658.
+- The least common three-digit number in the outputs is 005.
+- The range of three-digit numbers in the outputs is from 005 to 970.

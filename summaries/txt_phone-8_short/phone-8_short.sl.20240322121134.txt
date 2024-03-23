@@ -1,0 +1,8 @@
+For the input column data:
+
+- The last three digits in each input represent the output number.
+- The first part of each input is the country code followed by the area code and phone number.
+
+For the output column data:
+
+- The output column contains the last three digits from each input, which are the phone numbers extracted from the inputs.

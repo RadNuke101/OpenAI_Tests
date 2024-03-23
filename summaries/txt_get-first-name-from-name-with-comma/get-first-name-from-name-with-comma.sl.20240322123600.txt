@@ -1,0 +1,7 @@
+Input Column Data Summary:
+- Column 1: The input column data consists of full names in the format Last name, First name.
+
+Output Column Summary:
+- The output column consists of the first names extracted from the input data.
+
+Is there anything else you would like to know or any other assistance you need?

@@ -1,0 +1,8 @@
+Input Column Summary:
+1. The input column contains information about different vehicle components such as tire pressure monitor, oil life gauge, and air conditioner maintenance.
+2. Each input starts with the name of the component followed by an alphanumeric code.
+
+Output Column Summary:
+1. The output column contains alphanumeric codes extracted from the input column data.
+2. The extracted codes are used to identify specific components or maintenance tasks related to the vehicle.
+3. The output codes are unique identifiers for each component or maintenance task mentioned in the input data.

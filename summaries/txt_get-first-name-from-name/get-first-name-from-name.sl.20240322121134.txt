@@ -1,0 +1,8 @@
+Input Column Summary:
+- The input column contains names in various formats, such as full names with middle names or initials.
+- The names may have different lengths and structures, including first name, middle name, and last name.
+
+Output Column Summary:
+- The output column contains only the first names extracted from the input names.
+- The first names in the output column are the first part of the input names before any middle names or last names.
+- The output column provides a simplified version of the input names by focusing only on the first names.

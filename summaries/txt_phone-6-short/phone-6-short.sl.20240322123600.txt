@@ -1,0 +1,9 @@
+For the input column data:
+
+- The first three digits after the country code are extracted from each phone number.
+- For the given inputs, the extracted numbers are: 769, 973, 647, 027, 001, 310, 775.
+
+For the output column data:
+
+- The extracted numbers from the input column data are: 769, 973, 647, 027, 001, 310, 775.
+- The most frequent extracted number is 775.

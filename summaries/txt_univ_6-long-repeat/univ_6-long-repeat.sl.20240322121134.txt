@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of university names and their corresponding locations.
+- The locations include city names, state abbreviations, and sometimes "USA" at the end.
+- The locations vary in format, with some including full state names and others only state abbreviations.
+
+Summary for Output Column Data:
+- The output column data consists of the formatted locations of the universities.
+- The output consistently includes the city name, state abbreviation, and "USA" at the end.
+- The output column data is standardized and follows a consistent format for all entries.

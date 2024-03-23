@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of phone numbers in the format XXX-XXX-XXX.
+- Each phone number is unique and does not repeat.
+- The phone numbers in the input column data are: 938-242-504, 308-916-545, 623-599-749, 981-424-843, 118-980-214, 244-655-094.
+
+Summary for output column data:
+- The output column data consists of phone numbers in the format XXX.XXX.XXX.
+- The output column data corresponds to the input column data with the dashes replaced by dots.
+- The output column data includes: 938.242.504, 308.916.545, 623.599.749, 981.424.843, 118.980.214, 244.655.094.

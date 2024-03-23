@@ -1,0 +1,8 @@
+Summary for Input Column 1 (First Names):
+- The first names in the input column data are Launa, Lakenya, Brendan, Bradford, and Rudolf.
+
+Summary for Input Column 2 (Last Names):
+- The last names in the input column data are Withers, Edison, Hage, Lango, and Akiyama.
+
+Summary for Output Column (Formatted Last Name, First Initial):
+- The output column data consists of the last names Withers, Edison, Hage, Lango, and Akiyama formatted with the first initial followed by a comma.

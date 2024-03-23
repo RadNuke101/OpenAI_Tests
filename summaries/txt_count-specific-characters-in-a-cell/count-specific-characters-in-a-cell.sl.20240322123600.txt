@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of two elements: 'Hannah' and a single character.
+- The character 'n' appears twice in the input column data.
+- The character 'x', 'N', 'a', and 'h' each appear once in the input column data.
+
+Summary for Output Column:
+- The output column data consists of five elements: 2, 0, 0, 2, and 1.
+- The most common output value is 0, which appears twice in the output column.
+- The output values range from 0 to 2.

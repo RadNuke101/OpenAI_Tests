@@ -1,0 +1,9 @@
+Input column data summary:
+- The input column data consists of full names in the format 'last name, first name'.
+- Each entry in the input column data is separated by a comma.
+- The names in the input column data are in the format 'last name, first name'.
+
+Output column summary:
+- The output column data consists of full names in the format 'first name, last name'.
+- Each entry in the output column data is separated by a comma.
+- The names in the output column data are in the format 'first name, last name'.

@@ -1,0 +1,7 @@
+For the input column data, the summary would be as follows:
+- Column 1: The input column contains strings of varying lengths. Each element in the column consists of uppercase letters.
+
+For the output column data, the summary would be as follows:
+- Output Column: The output column contains boolean values, either true or false.
+
+These summaries provide a general overview of the data present in each column without going into specific details for individual rows.

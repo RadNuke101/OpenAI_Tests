@@ -1,0 +1,14 @@
+Input Column Summary:
+- The input column data consists of various codes in the format of 'XX-XXXXXXX' or 'XX-XXXXXXX| XX'. 
+- The codes are alphanumeric combinations separated by a hyphen.
+- Some codes may have an additional measurement value after the pipe symbol.
+
+Output Column Summary:
+- The output column data consists of codes extracted from the input column data.
+- The output includes the codes without any additional measurement values.
+- The output may also include 'N/A' if the input data does not contain a valid code.
+
+Overall Summary:
+- The input column data contains a mix of codes with and without measurement values.
+- The output column extracts and displays only the codes without any additional information.
+- The summary provides a clear understanding of the data transformation process from input to output.

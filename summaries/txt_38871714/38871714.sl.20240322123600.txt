@@ -1,0 +1,10 @@
+Input Column Summary:
+- The input column contains two sentences with placeholders denoted by angle brackets (< >). The placeholders indicate that certain words or phrases need to be replaced.
+- The first sentence mentions changing a string to a number, while the second sentence involves a comparison between 'a' and two numbers.
+
+Output Column Summary:
+- The output column shows the corrected sentences where the placeholders have been replaced with the appropriate words or numbers.
+- The first sentence now reads "This is a string, It should be changed to a number."
+- The second sentence now reads "a  4 and a  0."
+
+Overall, the input column requires replacing placeholders with specific values, while the output column displays the corrected sentences after the replacements have been made.

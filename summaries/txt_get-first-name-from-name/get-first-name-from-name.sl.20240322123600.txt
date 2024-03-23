@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of full names in various formats, including first name, middle initial, and last name.
+- The names may have different structures, such as first name followed by last name, or first name followed by middle initial and last name.
+
+Summary for Output Column Data:
+- The output column data consists of the first names extracted from the full names in the input column.
+- The first names in the output column are the first part of the full names provided in the input column.
+
+Overall Summary:
+- The task involves extracting the first names from the full names provided in the input column data.
+- The output column contains only the first names extracted from the input column data.
+- The extraction process involves identifying the first part of each full name as the first name.

@@ -1,0 +1,6 @@
+Summary for input column data:
+1. The input data includes information about various operating systems such as AIX, VMware ESX Server, Linux, Red Hat Enterprise, and Microsoft Windows.
+2. The versions mentioned in the input data range from 5.1 to 6.1.
+
+Summary for output column data:
+1. The output versions extracted from the input data range from 1.0 to 6.1.

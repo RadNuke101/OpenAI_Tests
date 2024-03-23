@@ -1,0 +1,17 @@
+For the input column data:
+
+1. ['011016_assignment.xlsx', '1']:
+   - Summary: Extracted '011016'
+
+2. ['011016_assignment.xlsx', '2']:
+   - Summary: Extracted 'assignment.xlsx'
+
+3. ['030116_cost.xlsx', '1']:
+   - Summary: Extracted '030116'
+
+4. ['030116_cost.xlsx', '2']:
+   - Summary: Extracted 'cost.xlsx'
+
+For the output column data:
+
+- Summary: Extracted '011016', 'assignment.xlsx', '030116', 'cost.xlsx'

@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format of ['First Name Last Name'].
+- The output format required is the initials of the first and last name separated by a period (e.g., N.F. for Nancy FreeHafer).
+
+Summary for Output Column:
+- The output column consists of initials in the format of 'X.X.' where X represents the first letter of the first name and last name.
+- The initials are separated by a period as per the required output format.

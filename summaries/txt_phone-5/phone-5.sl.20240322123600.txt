@@ -1,0 +1,7 @@
+Summary for input column data:
+- The input column data consists of phone numbers in the format '+XX YYY-ZZZ-ZZZ', where XX represents the country code.
+- The country codes in the input data range from 6 to 172.
+
+Summary for output column:
+- The output column consists of extracted country codes from the input phone numbers.
+- The extracted country codes range from 6 to 172.

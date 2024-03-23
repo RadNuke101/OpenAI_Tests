@@ -1,0 +1,12 @@
+For the input column data:
+
+1. The first input column data consists of full names in the format 'first name last name'.
+2. The second input column data consists of email addresses in the format 'username_domain.com'.
+3. The common pattern in the input column data is that they contain names followed by a separator and then additional information.
+
+For the output column data:
+
+1. The output column data consists of usernames extracted from email addresses.
+2. The common pattern in the output column data is that they are the usernames extracted from the email addresses provided in the input.
+
+If you have any specific questions or need further analysis, feel free to ask!

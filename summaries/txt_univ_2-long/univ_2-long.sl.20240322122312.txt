@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input column data consists of various university names and their corresponding locations, mostly in the United States.
+- The universities mentioned include Ivy League schools like University of Pennsylvania, Cornell University, Yale University, and Harvard University, as well as other well-known institutions like UCLA, UC Berkeley, and MIT.
+- The locations range from cities like Philadelphia, New York, and Los Angeles to smaller towns like Ithaca and Storrs.
+
+Summary for output column data:
+- The output column data consists of the university name followed by its location, including city and state, and in some cases, the country (USA).
+- Each output entry provides a concise representation of the university's name and location, making it easy to identify and reference specific institutions.

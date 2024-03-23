@@ -1,0 +1,13 @@
+Summary for Input Column 1:
+- The input column contains strings with a mix of alphanumeric characters.
+- The strings may contain special characters such as asterisks (*) and alphanumeric characters.
+- The strings may have varying lengths.
+
+Summary for Input Column 2:
+- The input column contains single-digit numbers as strings.
+- The numbers are represented as strings, not integers.
+
+Summary for Output Column:
+- The output column contains strings with a mix of alphanumeric characters.
+- The strings may contain special characters such as asterisks (*) and alphanumeric characters.
+- The strings may have varying lengths.

@@ -1,0 +1,20 @@
+1. Input: ['thatensures'] - Output: ensures
+   Summary: The input contains the word "that" followed by the word "ensures". The output is the word "ensures".
+
+2. Input: ['thatwill'] - Output: will
+   Summary: The input contains the word "that" followed by the word "will". The output is the word "will".
+
+3. Input: ['thathave'] - Output: have
+   Summary: The input contains the word "that" followed by the word "have". The output is the word "have".
+
+4. Input: ['knowthat'] - Output: know
+   Summary: The input contains the word "know" followed by the word "that". The output is the word "know".
+
+5. Input: ['that'] - Output: that
+   Summary: The input contains only the word "that". The output is also the word "that".
+
+6. Input: ['mouse'] - Output: mouse
+   Summary: The input contains only the word "mouse". The output is also the word "mouse".
+
+7. Input: ['knowthat'] - Output: know
+   Summary: The input contains the word "know" followed by the word "that". The output is the word "know".

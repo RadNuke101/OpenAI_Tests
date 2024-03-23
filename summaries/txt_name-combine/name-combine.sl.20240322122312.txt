@@ -1,0 +1,10 @@
+Input Column Data Summary:
+- The input column data consists of pairs of first names and last names.
+- Each pair represents a person's full name.
+- The first names in the input column data are Launa, Lakenya, Brendan, Bradford, Rudolf, and Lara.
+- The last names in the input column data are Withers, Edison, Hage, Lango, Akiyama, and Constable.
+
+Output Column Summary:
+- The output column consists of full names with the first name followed by the last name.
+- The output column includes Launa Withers, Lakenya Edison, Brendan Hage, Bradford Lango, Rudolf Akiyama, and Lara Constable.
+- Each output represents a person's full name based on the corresponding input data.

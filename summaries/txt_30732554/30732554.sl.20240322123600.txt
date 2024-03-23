@@ -1,0 +1,12 @@
+Input Column Summary:
+- The input column data consists of various codes in the format of 'XX-XXXXX' or 'XX-XXXXXX| XX'. 
+- The codes are a combination of letters and numbers separated by a hyphen or a pipe symbol.
+- Some codes have additional characters after the pipe symbol, such as 'MM' or 'DK'.
+- Some codes do not have any additional characters and are just in the 'XX-XXXXX' format.
+- One code is marked as 'N/A'.
+
+Output Column Summary:
+- The output column data consists of codes extracted from the input column data.
+- The extracted codes are in the format of 'XX-XXXXXX'.
+- If the input code had additional characters after the pipe symbol, they are not included in the output.
+- If the input code was marked as 'N/A', it is also marked as 'N/A' in the output.

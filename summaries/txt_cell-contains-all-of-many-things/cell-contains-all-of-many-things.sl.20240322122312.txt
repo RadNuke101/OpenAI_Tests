@@ -1,0 +1,10 @@
+Summary for input column data:
+- The input data consists of sentences describing different scenes with colors and objects.
+- The sentences vary in length and structure but generally follow a similar pattern of color followed by object and location.
+- The objects mentioned in the sentences include a dog, frisbie, sun, and neon sign.
+- The colors mentioned in the sentences include yellow and green.
+
+Summary for output column data:
+- The output column indicates whether the given input sentence meets certain criteria.
+- The criteria involve the presence of specific colors (yellow and green) and objects (dog).
+- The output is true if the sentence contains all the specified colors and objects, and false otherwise.

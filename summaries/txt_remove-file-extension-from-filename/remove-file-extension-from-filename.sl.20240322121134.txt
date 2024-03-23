@@ -1,0 +1,15 @@
+Input Column Data Summaries:
+1. ['happy.jpg']: The input column data consists of file names with extensions. The output is the file name without the extension. In this case, the output is "happy".
+
+2. ['pivot table.xls']: The input column data consists of file names with extensions. The output is the file name without the extension. In this case, the output is "pivot table".
+
+3. ['sales data.csv']: The input column data consists of file names with extensions. The output is the file name without the extension. In this case, the output is "sales data".
+
+4. ['invoice3001.xls.pdf']: The input column data consists of file names with extensions. The output is the file name without the extension. In this case, the output is "invoice3001".
+
+Output Column Summary:
+The output column contains the extracted file names without extensions from the input column data. The summaries for the output column are as follows:
+- happy
+- pivot table
+- sales data
+- invoice3001

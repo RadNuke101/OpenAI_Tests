@@ -1,0 +1,11 @@
+Summary for Input Column 1 (University Names):
+- The input column contains various university names such as University of Pennsylvania, UCLA, Cornell University, Penn, University of Maryland College Park, and University of Michigan.
+
+Summary for Input Column 2 (Locations):
+- The input column contains the corresponding locations of the universities, including Phialdelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; Philadelphia, PA, USA; College Park, MD, USA; and Ann Arbor, MI, USA.
+
+Summary for Output Column (Locations):
+- The output column consists of the locations extracted from the input data, including Phialdelphia, PA, USA; Los Angeles, CA, USA; Ithaca, New York, USA; Philadelphia, PA, USA; College Park, MD, USA; and Ann Arbor, MI, USA.
+
+Overall Summary:
+- The input data includes a variety of university names and their corresponding locations. The output column accurately captures the locations mentioned in the input data.

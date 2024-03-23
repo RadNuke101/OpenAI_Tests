@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column data consists of phrases or sentences related to different topics such as focus, optimization, and life.
+
+Output Column Summary:
+- The output column data consists of words that are the key focus or theme of the input phrases or sentences, such as "time," "evil," and "life."

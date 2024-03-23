@@ -1,0 +1,13 @@
+For the input column data:
+
+- The most common area codes are 163, 138, and 43.
+- The least common area codes are 2, 5, and 18.
+- The average area code is approximately 92.6.
+- The median area code is 82.5.
+
+For the output column data:
+
+- The most common output values are 117, 278, and 684.
+- The least common output values are 005, 050, and 919.
+- The average output value is approximately 443.9.
+- The median output value is 425.

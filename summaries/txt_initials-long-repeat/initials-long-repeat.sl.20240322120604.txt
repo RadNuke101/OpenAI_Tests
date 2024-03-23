@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format ['First Name Last Name'].
+- The task is to extract the initials from each full name and format them as 'Initial Initial.' (e.g., 'Nancy FreeHafer' becomes 'N.F.').
+- The initials are extracted by taking the first letter of the first name and the first letter of the last name.
+- The output for each input is the formatted initials.
+
+Summary for Output Column:
+- The output column consists of the formatted initials for each input full name.
+- The initials are in the format 'Initial Initial.' (e.g., 'N.F.').
+- The output column contains the initials for all input full names.

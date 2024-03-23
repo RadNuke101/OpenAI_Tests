@@ -1,0 +1,9 @@
+Input Column Summary:
+1. The input column data contains information related to vehicle components and their respective codes.
+2. Each input consists of a component name followed by a code, separated by a space.
+3. The code is a unique identifier for the specific component mentioned in the input.
+
+Output Column Summary:
+1. The output column contains the extracted codes from the input data.
+2. The extracted codes are alphanumeric strings that serve as unique identifiers for the vehicle components.
+3. The output column provides the extracted codes corresponding to the input data.

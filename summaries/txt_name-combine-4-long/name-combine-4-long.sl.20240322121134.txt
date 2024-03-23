@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input column data consists of pairs of first names and last names.
+- The last names are listed first followed by a comma and then the first initial of the first name.
+- The input data includes a variety of names such as Launa Withers, Lakenya Edison, Brendan Hage, etc.
+
+Summary for output column:
+- The output column consists of last names followed by a comma and then the first initial of the first name.
+- The output data includes last names such as Withers, Edison, Hage, etc. with the corresponding first initial of the first name.

@@ -1,0 +1,7 @@
+Input Column Summary:
+1. ['https=//abc.com/def', 'http=//www.abc.com/def/cef', 'http=//chandoo.org/wp/def-def']
+   - The input column contains URLs with different formats, including protocol, domain, and path information.
+
+Output Column Summary:
+1. ['https=//abc.com/', 'http=//www.abc.com', 'http=//chandoo.org/']
+   - The output column contains cleaned URLs with only the protocol and domain information, removing any path or additional characters.

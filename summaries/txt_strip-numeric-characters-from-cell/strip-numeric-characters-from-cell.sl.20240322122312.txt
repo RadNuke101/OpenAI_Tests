@@ -1,0 +1,8 @@
+Input Column Summary:
+- Column 1: The input column contains phrases with varying lengths and content, such as names, numbers, and words. The phrases are not consistent in structure or format.
+
+Output Column Summary:
+- The output column contains names or descriptions that are typically preceded by other words or numbers. The names or descriptions vary in length and content, but they are always the last part of the input phrases.
+
+Overall Summary:
+- The input column consists of diverse phrases with different types of information, while the output column consistently contains names or descriptions. The input phrases do not follow a specific pattern, making it challenging to extract the desired output.

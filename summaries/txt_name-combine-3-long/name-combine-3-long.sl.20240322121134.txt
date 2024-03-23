@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of first names and last names.
+- The first names are varied and include names like Launa, Lakenya, Brendan, Bradford, Rudolf, Lara, Madelaine, Salley, Micha, Teddy, Coralee, Jeff, Vena, Karrie, Tobias, Celsa, Kimberley, Phillip, Elias, Lashanda, Mackenzie, Kathlyn, Georgina, Beata, Desiree, Jeanice, Mariel, Alida, Jacqualine, Joaquin, Samuel, Malissa, Alaina, Trinidad, Carlene, Melodi, Bess, Chong, Jani, Jacquiline, Hayley, Andria, Irwin, Gertude, Stefany, Rae, Cruz, Maryann, Annalisa, Jenee.
+- The last names are also varied and include names like Withers, Edison, Hage, Lango, Akiyama, Constable, Ghoston, Hornak, Junkin, Bobo, Scalia, Quashie, Babiarz, Lain, Dermody, Hopkins, Halpern, Rowden, Neil, Cortes, Spell, Eccleston, Brescia, Miah, Seamons, Soderstrom, Jurgens, Bogle, Olague, Clasen, Richert, Marcus, Partida, Mulloy, Garrard, Chism, Chilcott, Aylward, Ramthun, Heintz, Marquess, Spagnoli, Covelli, Montiel, Reily, Mcgaughey, Latimore, Casler, Gregori, Pannell.
+- The first names and last names are combined to form a full name.
+
+Summary for Output Column:
+- The output column consists of initials followed by the last name.
+- The initials are the first letter of the first name.
+- The last names are the same as in the input column data.
+- The output column provides a concise representation of each person's full name.

@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- The input column data consists of various university names and their corresponding locations.
+- The locations include cities and states within the USA.
+- Some universities are located in cities such as Berkeley, Philadelphia, Ann Arbor, Cambridge, Houston, Los Angeles, College Park, New Haven, New York, Urbana, and Storrs.
+
+Summary for Output Column Data:
+- The output column data consists of the locations of the universities in the format City, State, USA.
+- The locations include cities such as Berkeley, Philadelphia, Ann Arbor, Cambridge, Houston, Los Angeles, College Park, New Haven, New York, Urbana, and Storrs within the USA.

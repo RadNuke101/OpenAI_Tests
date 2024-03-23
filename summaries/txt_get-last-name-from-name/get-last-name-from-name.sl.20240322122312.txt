@@ -1,0 +1,10 @@
+Input Column Summary:
+- The input column consists of full names in the format 'First Name Last Name'.
+- The last name is always the second part of the input.
+- Examples include 'Park Kim', 'Lee Kim', and 'Kim Lee'.
+
+Output Column Summary:
+- The output column consists of last names extracted from the input column.
+- The last name is always the second part of the input.
+- Examples include 'Kim', 'Kim', and 'Lee'.
+- The output column contains only the last names extracted from the input column.

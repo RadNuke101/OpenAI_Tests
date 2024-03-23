@@ -1,0 +1,16 @@
+Summary for Input Column Data:
+- The input column data consists of motorcycle brands followed by their model numbers.
+- The brands included in the input data are Ducati and Honda.
+- The model numbers range from 100 to 550.
+- The input data follows a consistent pattern of brand followed by model number.
+
+Summary for Output Column Data:
+- The output column data consists of the motorcycle brand extracted from the input data.
+- The output column contains only two unique values: Ducati and Honda.
+- The output data is derived from the brand part of the input data.
+
+Overall Summary:
+- The input data consists of motorcycle brand and model number combinations.
+- The output data is extracted from the brand part of the input data.
+- The input data follows a consistent pattern of brand followed by model number.
+- The output data contains only two unique values: Ducati and Honda.

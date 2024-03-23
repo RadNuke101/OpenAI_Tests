@@ -1,0 +1,6 @@
+Summary for Input Column Data:
+- The first column data consists of a mix of uppercase letters, lowercase letters, and numbers. The output for this column is the value that starts with an uppercase letter followed by a number and lowercase letters.
+- The second column data consists of lowercase letters only. The output for this column is the value itself.
+
+Summary for Output Column:
+- The output column consists of a mix of uppercase letters, lowercase letters, and numbers. The summary for this column is to output the value as it is.

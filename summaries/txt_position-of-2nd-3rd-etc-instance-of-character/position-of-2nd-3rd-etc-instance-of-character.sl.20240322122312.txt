@@ -1,0 +1,20 @@
+Input Column Summaries:
+1. Column 1 (['100x15x50', 'cat-in-the-hat']): 
+   - Contains a mix of alphanumeric characters and special characters.
+   - Includes dimensions or descriptive words separated by 'x' or '-'.
+   - No consistent pattern observed.
+
+2. Column 2 (['x', '-']): 
+   - Contains single special characters ('x' and '-').
+   - Used as separators in the input strings.
+
+3. Column 3 (['2', '3']): 
+   - Contains numeric values.
+   - Represents a multiplier or quantity.
+
+Output Column Summary:
+- Output values: [7, 11]
+- Represents the calculated results based on the input data.
+- The output values are integers.
+
+Overall, the input columns contain a mix of alphanumeric characters, special characters, and numeric values, while the output column consists of integer results calculated based on the input data.

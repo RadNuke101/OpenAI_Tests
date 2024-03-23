@@ -1,0 +1,5 @@
+Input Column Summary:
+- Column 1: The input column contains phone numbers in various formats, including with dashes, parentheses, and periods.
+
+Output Column Summary:
+- The output column contains phone numbers with all non-numeric characters removed, resulting in a clean and standardized format.

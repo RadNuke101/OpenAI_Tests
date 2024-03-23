@@ -1,0 +1,19 @@
+Input Column Data Summary:
+1. Input column 1: 
+   - Contains a string with placeholders for usernames.
+   - Examples include phrases like "An example string with _username in it RT _AwesomeUser says _username is awesome".
+   - The placeholder for the username is denoted by '_username'.
+
+2. Input column 2:
+   - Contains the username that needs to be counted in the corresponding input column 1.
+   - Examples include usernames like 'username', 'AwesomeUser', and 'example'.
+
+Output Column Data Summary:
+1. Output column:
+   - Contains the count of occurrences of the specified username in the corresponding input column 1.
+   - Examples include counts like 2, 1, and 3 for different usernames.
+
+Overall Summary:
+- The input data consists of strings with placeholders for usernames and the usernames that need to be counted.
+- The output data provides the count of occurrences of the specified usernames in the input strings.
+- The task involves identifying and counting the occurrences of specific usernames in the input strings.

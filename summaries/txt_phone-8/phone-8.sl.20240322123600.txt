@@ -1,0 +1,7 @@
+For the input column data:
+- The last three digits in each input represent the desired output number.
+- The input numbers are formatted as country code followed by three groups of three digits separated by hyphens.
+
+For the output column data:
+- The output numbers represent the last three digits from each input number.
+- The output column contains the last three digits extracted from each input number.

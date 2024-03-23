@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ'.
+- Each phone number includes the country code (XXX), area code (YYY), and the phone number itself (ZZZ-ZZZ).
+
+Summary for Output Column Data:
+- The output data is formatted as '+XXX (YYY) ZZZ-ZZZ'.
+- It includes the country code in the format '+XXX', the area code in parentheses (YYY), and the phone number (ZZZ-ZZZ).
+
+Overall Summary:
+- The input data consists of phone numbers in a specific format, and the output data transforms this format into a different, more readable format.
+- The transformation involves rearranging the components of the phone number and adding symbols for clarity.
+- The assistant successfully processed the input data and generated the corresponding output data in the desired format.

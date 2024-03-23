@@ -1,0 +1,10 @@
+Summary for input column data:
+- The first input column data consists of phrases or sentences.
+- The second input column data consists of single words.
+
+Summary for output column data:
+- The output column data consists of boolean values (true or false) indicating whether the second input word is present in the first input sentence.
+
+Overall summary:
+- The task involves checking if a specific word is present in a given sentence.
+- The output is true if the word is found in the sentence, and false if it is not found.

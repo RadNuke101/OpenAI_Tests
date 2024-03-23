@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The first input column data consists of a sentence with placeholders enclosed in angle brackets (< >). The placeholders indicate that certain words should be replaced with specific values.
+- The second input column data contains a mathematical expression with comparisons using the less than (<) and greater than (>) symbols.
+
+Summary for Output Column Data:
+- The output column data shows the result of replacing the placeholders in the first input sentence with the specified values.
+- The output column also displays the mathematical expression from the second input column with the placeholders replaced by actual numbers.
+
+Overall Summary:
+- The input data involves replacing placeholders in a sentence and evaluating a mathematical expression.
+- The output data shows the modified sentence with placeholders replaced by actual values and the mathematical expression with placeholders replaced by numbers.

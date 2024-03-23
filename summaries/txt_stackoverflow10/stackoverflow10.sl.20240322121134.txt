@@ -1,0 +1,8 @@
+Summary for input column data:
+- The input column data consists of dates in various formats, including month, day, and year.
+- Some entries include additional information such as township names.
+- The years in the input data range from 1721 to 1892.
+
+Summary for output column:
+- The output column consists of years extracted from the input dates.
+- The years in the output column range from 1721 to 1892.

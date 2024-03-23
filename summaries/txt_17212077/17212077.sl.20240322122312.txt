@@ -1,0 +1,11 @@
+For the input column data:
+
+- The input column data consists of dates in the format MM/DD/YYYY.
+- The summary for the input column data shows that the month and year are extracted from each date.
+- The output for each input date is in the format MM/YYYY, where only the month and year are displayed.
+
+For the output column data:
+
+- The output column data consists of dates in the format MM/YYYY.
+- The summary for the output column data shows that only the month and year are displayed for each date.
+- The output column data has been transformed from the input column data by removing the day component.

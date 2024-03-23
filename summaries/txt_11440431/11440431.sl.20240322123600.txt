@@ -1,0 +1,8 @@
+Input Column Summary:
+- The input column contains various types of industries such as Mining, Soybean Farming, Oil Extraction, and Fishing.
+- Some entries include additional information such as the country code (e.g., US, CAN).
+
+Output Column Summary:
+- The output column consists of the main activity or industry name extracted from the input column.
+- The output includes activities such as Mining, Soybean Farming, Oil Extraction, and Fishing.
+- The output column provides a clear and concise representation of the primary industry associated with each input entry.

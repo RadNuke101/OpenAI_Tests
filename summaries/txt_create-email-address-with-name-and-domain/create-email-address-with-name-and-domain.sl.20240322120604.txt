@@ -1,0 +1,24 @@
+For the input column data:
+
+1. First Names: ['ayako', 'amy', 'tom']
+   - Average length: 4.67 characters
+   - Most common starting letter: A
+   - Most common ending letter: Y
+
+2. Last Names: ['ogawa', 'johnson', 'chang']
+   - Average length: 6 characters
+   - Most common starting letter: J
+   - Most common ending letter: N
+
+3. Domains: ['acme.com', 'google.com', 'upenn.edu']
+   - Most common domain extension: .com
+   - Most common domain name: google
+
+For the output column data:
+
+- Concatenated Names: ['aogawa_acme.com', 'ajohnson_google.com', 'tchang_upenn.edu']
+  - Average length: 19.33 characters
+  - Most common starting letter: A
+  - Most common ending letter: M
+
+These summaries provide insights into the input and output data columns, including average lengths, common starting and ending letters, and common domain extensions.

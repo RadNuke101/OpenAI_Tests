@@ -1,0 +1,12 @@
+Summary for input column data:
+- The input data consists of pairs of first and last names.
+- The first names vary in length and are unique.
+- The last names also vary in length and are unique.
+- The format of the input data is consistent, with each pair separated by a comma.
+
+Summary for output column data:
+- The output data consists of the first initial of the first name followed by a period and a space, then the last name.
+- The output format is consistent for all entries.
+- The output preserves the first initial of the first name and the full last name.
+
+Overall, the input data contains unique pairs of first and last names, while the output data standardizes the format to include the first initial of the first name followed by the full last name.

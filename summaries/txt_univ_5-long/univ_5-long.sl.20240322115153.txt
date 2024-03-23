@@ -1,0 +1,43 @@
+Input Summary:
+1. ['University of Pennsylvania', 'Phialdelphia, PA, USA'] - Output: Phialdelphia, PA, USA
+2. ['UCLA', 'Los Angeles, CA'] - Output: Los Angeles, CA, USA
+3. ['Cornell University', 'Ithaca, New York, USA'] - Output: Ithaca, NY, USA
+4. ['Penn', 'Philadelphia, PA, USA'] - Output: Philadelphia, PA, USA
+5. ['University of Maryland College Park', 'College Park, MD'] - Output: College Park, MD, USA
+6. ['University of Michigan', 'Ann Arbor, MI, USA'] - Output: Ann Arbor, MI, USA
+7. ['UC Berkeley', 'Berkeley, CA'] - Output: Berkeley, CA, USA
+8. ['MIT', 'Cambridge, MA'] - Output: Cambridge, MA, USA
+9. ['Rice University', 'Houston, TX'] - Output: Houston, TX, USA
+10. ['Yale University', 'New Haven, CT, USA'] - Output: New Haven, CT, USA
+11. ['Columbia University', 'New York, NY, USA'] - Output: New York, NY, USA
+12. ['NYU', 'New York, New York, USA'] - Output: New York, NY, USA
+13. ['UC Berkeley', 'Berkeley, CA'] - Output: Berkeley, CA, USA
+14. ['UIUC', 'Urbana, IL'] - Output: Urbana, IL, USA
+15. ['Temple University', 'Philadelphia, PA'] - Output: Philadelphia, PA, USA
+16. ['Harvard University', 'Cambridge, MA, USA'] - Output: Cambridge, MA, USA
+17. ['University of Connecticut', 'Storrs, CT, USA'] - Output: Storrs, CT, USA
+18. ['Drexel University', 'Philadelphia, PA'] - Output: Philadelphia, PA, USA
+19. ['New Haven University', 'New Haven, CT, USA'] - Output: New Haven, CT, USA
+20. ['University of California, Santa Barbara', 'Santa Barbara, CA, USA'] - Output: Santa Barbara, CA, USA
+
+Output Summary:
+1. Phialdelphia, PA, USA
+2. Los Angeles, CA, USA
+3. Ithaca, NY, USA
+4. Philadelphia, PA, USA
+5. College Park, MD, USA
+6. Ann Arbor, MI, USA
+7. Berkeley, CA, USA
+8. Cambridge, MA, USA
+9. Houston, TX, USA
+10. New Haven, CT, USA
+11. New York, NY, USA
+12. New York, NY, USA
+13. Berkeley, CA, USA
+14. Urbana, IL, USA
+15. Philadelphia, PA, USA
+16. Cambridge, MA, USA
+17. Storrs, CT, USA
+18. Philadelphia, PA, USA
+19. New Haven, CT, USA
+20. Santa Barbara, CA, USA

@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains data in the format ['Name= Company Name']. The company name is located after the '=' sign.
+
+Output Column Summary:
+- The output column contains the extracted company names from the input data. The company names are the main focus of the output column.

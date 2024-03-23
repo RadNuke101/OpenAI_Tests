@@ -1,0 +1,5 @@
+Input column data summary:
+- The input column data consists of phrases or sentences related to focusing, making choices, and life.
+
+Output column summary:
+- The output column consists of words related to time, evil, and life.

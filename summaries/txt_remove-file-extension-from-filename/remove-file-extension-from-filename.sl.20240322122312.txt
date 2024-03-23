@@ -1,0 +1,10 @@
+Sure! Here are the summaries for each input column data and the output column:
+
+Input Column Data Summaries:
+1. ['happy.jpg']: The input column data contains the file name 'happy.jpg'.
+2. ['pivot table.xls']: The input column data contains the file name 'pivot table.xls'.
+3. ['sales data.csv']: The input column data contains the file name 'sales data.csv'.
+4. ['invoice3001.xls.pdf']: The input column data contains the file name 'invoice3001.xls.pdf'.
+
+Output Column Summary:
+- The output column contains the following values: 'happy', 'pivot table', 'sales data', 'invoice3001'.

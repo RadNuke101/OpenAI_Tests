@@ -1,0 +1,7 @@
+Summary for Input Column Data:
+- The input data consists of strings related to the nursery rhyme "Humpty Dumpty".
+- Each input string varies in length and content, but all are related to the same theme.
+
+Summary for Output Column:
+- The output column provides the length of each input string in terms of the number of characters.
+- The output values range from 2 to 6, corresponding to the length of the input strings provided.

@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of pairs of university names and their corresponding locations.
+- The universities mentioned are diverse, ranging from Ivy League institutions like University of Pennsylvania and Yale University to public universities like UCLA and UC Berkeley.
+- The locations include cities and states within the USA, such as Philadelphia, PA, Los Angeles, CA, and New Haven, CT.
+
+Summary for output column data:
+- The output column data consists of the university names followed by their respective locations.
+- Each output entry follows the format of "University Name, City, State, Country" (if applicable).
+- The output provides a clear and concise representation of the university and its location.

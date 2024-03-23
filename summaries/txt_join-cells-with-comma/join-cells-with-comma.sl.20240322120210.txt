@@ -1,0 +1,11 @@
+For the input column data:
+
+1. ['figs', '', 'apples']: The input column contains a mix of fruits, including figs and apples. There is also an empty string present in one of the entries.
+
+2. ['mangos', 'kiwis', 'grapes']: The input column consists of different types of fruits, such as mangos, kiwis, and grapes.
+
+For the output column data:
+
+1. Output: The output column contains the fruits listed in the input column data, with an additional empty string at the end in the first example.
+
+Overall, the input columns consist of various fruits, while the output column mirrors the input data with an additional empty string in the first example.

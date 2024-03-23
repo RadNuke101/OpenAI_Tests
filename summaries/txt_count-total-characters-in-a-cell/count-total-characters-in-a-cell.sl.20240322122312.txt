@@ -1,0 +1,7 @@
+For the input column data, the summary would be as follows:
+- The first input ['The'] has a length of 3 characters.
+- The second input ['The quick fox'] has a length of 13 characters.
+- The third input ['The quick  fox'] has a length of 14 characters.
+
+For the output column data, the summary would be:
+- The output column has values 3, 13, and 14.

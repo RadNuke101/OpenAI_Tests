@@ -1,0 +1,9 @@
+For the input column data:
+- The values are ['-%134', '500', '5.125', '-%43.00'].
+- The data types in this column are a mix of strings representing numbers with special characters.
+- The values include both positive and negative numbers, with decimals in some cases.
+
+For the output column data:
+- The values are ['%134', '500', '5.125', '%43.00'].
+- The data types in this column are strings representing numbers with a percentage sign.
+- All values in this column are positive numbers, with decimals in some cases.

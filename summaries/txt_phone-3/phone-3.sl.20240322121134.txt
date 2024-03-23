@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of phone numbers in the format '###-###-###'.
+- Each phone number is unique and does not repeat in the dataset.
+- The first three digits represent the area code, followed by the next three digits representing the exchange code, and the final three digits representing the subscriber number.
+
+Summary for output column:
+- The output column data consists of formatted phone numbers in the format '(###) ###-###'.
+- The output column data corresponds to the input column data after applying the specified formatting.
+- The output column data maintains the original phone number information while presenting it in a standardized format.

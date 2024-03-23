@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The last three digits in each input are the output values.
+- The first input column data is 504.
+- The second input column data is 545.
+- The third input column data is 749.
+- The fourth input column data is 843.
+- The fifth input column data is 214.
+- The sixth input column data is 094.
+
+Summary for Output Column:
+- The output column values are 504, 545, 749, 843, 214, 094.

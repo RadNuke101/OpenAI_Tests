@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of a single sentence: "you can do anything but you cant do everything."
+- The input column data also includes a number indicating the position of the word to be extracted from the sentence.
+
+Summary for output column:
+- The output column contains the extracted word based on the position specified in the input column data.
+
+Overall summary:
+- The input column data provides a sentence and a position, and the output column provides the word at the specified position in the sentence.

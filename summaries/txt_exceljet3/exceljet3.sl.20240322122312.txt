@@ -1,0 +1,8 @@
+Summary for input column data:
+- Year: The input data consists of the year 2016.
+- Make: The input data consists of the make Subaru.
+- Model: The input data consists of the model Outback Wagon.
+- Fuel Economy: The input data consists of the fuel economy 25/33.
+
+Summary for output column data:
+- Output: The output data consists of the values 2016, Subaru, Outback Wagon, and 25/33.

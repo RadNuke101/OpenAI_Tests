@@ -1,0 +1,14 @@
+For the input column data:
+
+- The data consists of strings representing numerical values with possible negative signs and decimal points.
+- The values may include percentages indicated by the presence of '%'.
+- Some values have leading negative signs, while others do not.
+- The values may or may not have decimal points.
+
+For the output column data:
+
+- The output values are numerical values with possible decimal points.
+- The values may include percentages indicated by the presence of '%'.
+- All output values are positive, regardless of the input having negative signs.
+
+Overall, the input column data includes a variety of numerical formats with different symbols, while the output column data consists of positive numerical values with possible decimal points.

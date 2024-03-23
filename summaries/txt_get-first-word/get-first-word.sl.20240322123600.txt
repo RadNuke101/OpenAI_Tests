@@ -1,0 +1,10 @@
+Input Column Summary:
+- The input column contains phrases with one or more words.
+- The phrases are enclosed in square brackets.
+- The words in the phrases are separated by spaces.
+
+Output Column Summary:
+- The output column contains individual words extracted from the input phrases.
+- Each word is separated by a comma.
+- If the input phrase contains only one word, the output is that word.
+- If the input phrase contains multiple words, the output is the first word in the phrase.

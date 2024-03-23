@@ -1,0 +1,11 @@
+Summary for Input Column Data:
+- The input column data consists of pairs of first and last names.
+- The first names in the input data range from Launa to Jenee.
+- The last names in the input data range from Withers to Pannell.
+- Each pair of names is separated by a comma.
+
+Summary for Output Column:
+- The output column consists of initials followed by the last name.
+- The initials in the output column range from L to J.
+- The last names in the output column range from Withers to Pannell.
+- Each initial and last name pair is separated by a period.

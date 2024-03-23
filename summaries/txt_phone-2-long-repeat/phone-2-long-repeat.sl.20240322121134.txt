@@ -1,0 +1,15 @@
+For the input column data:
+
+- The input column data consists of phone numbers in the format '###-###-###'.
+- Each phone number is unique and does not repeat within the dataset.
+- The phone numbers in the input column data do not follow any specific pattern or sequence.
+
+For the output column data:
+
+- The output column data consists of the last three digits of each phone number in the input column data.
+- The output values range from 000 to 999.
+- The output values are unique and do not repeat within the dataset.
+
+Overall Summary:
+
+The input column data contains unique phone numbers in the format '###-###-###', while the output column data consists of the last three digits of each phone number. The output values range from 000 to 999 and are unique within the dataset.

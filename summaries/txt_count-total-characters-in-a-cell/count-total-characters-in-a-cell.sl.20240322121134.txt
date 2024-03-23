@@ -1,0 +1,9 @@
+Input Column Summary:
+- The first input column contains strings of varying lengths.
+- The lengths of the strings range from 3 to 14 characters.
+- Some strings may contain extra spaces which are counted in the length.
+
+Output Column Summary:
+- The output column contains integer values representing the length of the strings in the input column.
+- The integer values range from 3 to 14.
+- The output values correspond directly to the lengths of the strings in the input column.

@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column contains full names in the format of 'First Name Middle Name Last Name'.
+- The last name is always the last element in the full name.
+- The input column data includes names like 'Sarah Jane Jones' and 'Bob Jane Smithfield'.
+
+Output Column Summary:
+- The output column contains only the last names extracted from the full names in the input column.
+- The output includes last names like 'Jones' and 'Smithfield'.
+- The last names in the output column are extracted from the last element of each full name in the input column.

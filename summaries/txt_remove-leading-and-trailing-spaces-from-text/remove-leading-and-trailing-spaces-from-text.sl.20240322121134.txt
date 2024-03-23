@@ -1,0 +1,7 @@
+Input Column Summary:
+- The input column contains movie titles with varying numbers of spaces before and between words.
+- The titles include "The Shawshank", "The Godfather", and "Pulp Fiction".
+
+Output Column Summary:
+- The output column contains the corrected movie titles without extra spaces.
+- The corrected titles are "The Shawshank", "The Godfather", and "Pulp Fiction".

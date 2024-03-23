@@ -1,0 +1,7 @@
+Summary for input column data:
+
+The input column data consists of phone numbers in the format ['XXX-XXX-XXX']. Each phone number is unique and follows the same format. The first three digits represent the area code, the next three digits represent the exchange code, and the last three digits represent the subscriber number.
+
+Summary for output column data:
+
+The output column data consists of formatted phone numbers in the format XXX.XXX.XXX. Each phone number has been correctly formatted with periods separating the area code, exchange code, and subscriber number. The output column data matches the input column data in terms of content, with the only difference being the formatting.

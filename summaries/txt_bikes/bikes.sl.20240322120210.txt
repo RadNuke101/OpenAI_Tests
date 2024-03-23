@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column contains data related to motorcycle brands and their corresponding engine sizes.
+- The data follows a pattern where the brand name is followed by the engine size (e.g., Ducati100, Honda125).
+- The brand names in the input column include Ducati and Honda.
+
+Output Column Summary:
+- The output column contains the brand names extracted from the input data.
+- The output column shows the brand name corresponding to each input data, such as Ducati or Honda.
+- The output column summarizes the brand names extracted from the input data.

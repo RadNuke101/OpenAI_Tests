@@ -1,0 +1,6 @@
+For the input column data:
+1. The first input column contains a mix of alphanumeric characters, with some entries starting with '**' and others containing only numbers. 
+2. The second input column contains single-digit numbers ranging from 1 to 3.
+
+For the output column data:
+1. The output column contains a mix of alphanumeric characters, with some entries starting with numbers and others containing only letters.

@@ -1,0 +1,12 @@
+Input column data:
+- The input column data consists of words that all contain the word "that" within them.
+- The words in the input column data range from longer words like "thatensures" to shorter words like "that."
+- Each word in the input column data has a unique structure where "that" is a common prefix.
+
+Output column data:
+- The output column data consists of words that are derived from the input column data by removing the common prefix "that."
+- The output column data includes words like "ensures," "will," "have," "know," and "mouse."
+- The output column data retains the meaning of the original words while removing the common prefix.
+
+Overall summary:
+The input column data contains words with a common prefix "that," while the output column data consists of words derived from the input by removing this common prefix. The output words maintain the original meaning of the input words.

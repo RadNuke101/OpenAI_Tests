@@ -1,0 +1,14 @@
+For the input column data:
+
+- The input column data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ'.
+- The country code (XXX) ranges from 2 to 199.
+- The middle three digits (YYY) range from 0 to 999.
+- The last three digits (ZZZ) range from 0 to 999.
+
+For the output column data:
+
+- The output column data consists of the middle three digits of the phone numbers.
+- The middle three digits range from 0 to 999.
+- The most common middle three digits in the output column are 757, 858, 787, 507, 050, 537, 969, 539, 275, 461, 347, 986, 276, 746, 898, 946, 041, 592, 008, 122, 366, 433, 436, 083, 245, 542, 782, 369, 369, 618, 671, 087, 571, 960, 982, 092, 601, 591, 765, 734, 845, 622, 707, 213, 077, 287, 545, 097, 736, 771, 457, 250, 317, 629, 119, 380, 224, 680, 204, 820, 938, 296, 401, 365, 119, 666, 759, 020, 575, 126, 585, 430, 831, 718, 716, 685, 289, 740, 997, 100, 462, 005, 757, 858, 541, 901, 075, 953, 878, 582, 484, 148, 919, 851, 056, 132, 162, 051, 981, 728, 746.
+- The median of the middle three digits is 546.
+- The mean of the middle three digits is 487.

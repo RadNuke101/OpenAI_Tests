@@ -1,0 +1,9 @@
+Input Column Summary:
+- The input column contains sentences with placeholders for usernames, such as '_username' or '_name1'.
+- The placeholders are surrounded by other text, such as 'this is a _username in the middle' or 'twitter names look like= _name'.
+- The input column data varies in structure and content but consistently includes placeholders for usernames.
+
+Output Column Summary:
+- The output column contains the extracted usernames from the input sentences.
+- The extracted usernames include '_username', '_name', or '_name1'.
+- The output column data consists of the extracted usernames from the corresponding input sentences.

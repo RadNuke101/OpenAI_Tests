@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of phone numbers in the format '###-###-###'.
+- Each phone number is unique and does not repeat in the dataset.
+- The area codes in the phone numbers range from 118 to 981.
+
+Summary for output column:
+- The output column data consists of formatted phone numbers in the pattern '(###) ###-###'.
+- The output phone numbers are correctly formatted with the area code enclosed in parentheses.
+- Each output phone number corresponds to a unique input phone number.

@@ -1,0 +1,11 @@
+Summary for input column data:
+- The input column data consists of phrases or sentences.
+- Each input is a list containing a phrase or sentence and a keyword to search for within that phrase or sentence.
+
+Summary for output column data:
+- The output column data consists of boolean values (true or false) indicating whether the keyword was found in the corresponding input phrase or sentence.
+
+Overall summary:
+- The task involves checking if a specific keyword is present in each input phrase or sentence.
+- The output is true if the keyword is found and false if it is not found.
+- The goal is to determine whether the keyword exists within the given input data.

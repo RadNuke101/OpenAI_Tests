@@ -1,0 +1,11 @@
+For the input column data, the summary is as follows:
+- The input column data consists of phone numbers in the format '###-###-###'.
+- The first three digits represent the area code, followed by the exchange code, and finally the subscriber number.
+- The input column data is consistent in format and structure.
+
+For the output column data, the summary is as follows:
+- The output column data consists of the middle three digits from each phone number.
+- The middle three digits represent the exchange code in the phone number.
+- The output column data ranges from 049 to 951.
+
+If you need further analysis or specific insights, feel free to ask!

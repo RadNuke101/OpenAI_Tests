@@ -1,0 +1,15 @@
+Input Column Summary:
+- The input column data consists of phrases related to different car parts and maintenance tasks.
+- Each phrase contains a combination of words and alphanumeric codes.
+- The alphanumeric codes are typically used to identify specific components or parts.
+
+Output Column Summary:
+- The output column data consists of alphanumeric codes extracted from the input phrases.
+- The codes serve as identifiers for specific components or parts mentioned in the input.
+- The codes are extracted based on a pattern of being preceded by a specific keyword or phrase in the input.
+
+Overall Summary:
+- The input data includes information about various car parts and maintenance tasks, with alphanumeric codes used for identification.
+- The output data consists of the extracted alphanumeric codes from the input phrases.
+- The extraction process involves identifying the codes based on their position relative to specific keywords in the input.
+- The summaries provide a clear understanding of the input and output data, highlighting the importance of alphanumeric codes in the context of car maintenance.

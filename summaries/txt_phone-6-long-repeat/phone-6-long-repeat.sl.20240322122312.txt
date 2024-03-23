@@ -1,0 +1,10 @@
+Summary for Input Column Data:
+- The input column data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ', where XXX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number.
+- The area code is the middle part of the phone number and is the focus of the output for each input.
+- The area codes range from three to four digits in length.
+- The country code is always three digits in length and is not relevant to the output.
+
+Summary for Output Column:
+- The output column consists of the extracted area codes from the phone numbers in the input column.
+- The area codes range from three to four digits in length.
+- The area codes are the focus of the output and are the same as the middle part of the phone numbers in the input column.

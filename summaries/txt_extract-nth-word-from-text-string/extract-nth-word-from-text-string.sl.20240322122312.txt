@@ -1,0 +1,8 @@
+Summary for input column data:
+- Input column data consists of sentences from a famous quote.
+- Each sentence is separated by a comma.
+- The second element in each input is a number indicating the position of the word to be extracted.
+
+Summary for output column:
+- The output column contains individual words extracted from the sentences based on the given position.
+- The words are extracted based on the number provided in the input column data.

@@ -1,0 +1,12 @@
+Summary for Input Column Data:
+- The input column data consists of distances in miles.
+- The values in the input column data are as follows: 736, 1255, 1221, 790.
+
+Summary for Output Column:
+- The output column consists of the corresponding distances in miles.
+- The values in the output column are: 736, 1255, 1221, 790.
+
+Overall Summary:
+- The input and output columns contain distances in miles.
+- The input values correspond directly to the output values.
+- The data in both columns seems to be consistent and accurate.

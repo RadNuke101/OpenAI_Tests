@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- The input column data consists of phone numbers in the format '###-###-###'.
+- The first three digits in each phone number represent the area code.
+- The input column data includes the following area codes: 938, 308, 623, 981, 118, 244.
+
+Summary for Output Column:
+- The output column consists of the extracted area codes from the input phone numbers.
+- The output includes the following area codes: 938, 308, 623, 981, 118, 244.

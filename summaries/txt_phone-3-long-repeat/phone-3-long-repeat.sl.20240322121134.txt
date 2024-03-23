@@ -1,0 +1,5 @@
+For the input column data, the phone numbers are formatted in the following pattern: '###-###-###'. Each phone number consists of three groups of numbers separated by hyphens. The first group has three digits, the second group has three digits, and the third group has three digits.
+
+For the output column, the phone numbers are formatted in the following pattern: '(###) ###-###'. Each phone number consists of three groups of numbers separated by a space and enclosed in parentheses. The first group has three digits, the second group has three digits, and the third group has three digits.
+
+Overall, the input column data contains phone numbers in a specific format, and the output column transforms these phone numbers into a different format by adding parentheses and rearranging the groups of numbers.

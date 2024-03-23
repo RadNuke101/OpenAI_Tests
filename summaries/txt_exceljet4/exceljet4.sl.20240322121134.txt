@@ -1,0 +1,9 @@
+Summary for Input Column Data:
+- The input column data consists of URLs with different protocols such as https, ftp, and sftp.
+- Each input value includes the protocol followed by the domain name or IP address.
+- The domain names vary from exceljet.net, microsoft.com, someserver.com to IP address 127.0.0.1.
+
+Summary for Output Column:
+- The output column contains the extracted domain names or IP addresses from the input URLs.
+- The extracted values include exceljet.net/catalog, microsoft.com, someserver.com, and 127.0.0.1.
+- The output column provides a clean and simplified version of the domain names or IP addresses present in the input URLs.

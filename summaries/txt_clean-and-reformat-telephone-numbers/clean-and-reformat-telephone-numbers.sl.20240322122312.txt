@@ -1,0 +1,5 @@
+Input Column Data Summary:
+1. Input column data consists of phone numbers in various formats such as '801-456-8765', '<978> 654-0299', and '978.654.0299'.
+
+Output Column Summary:
+1. The output column consists of phone numbers that have been standardized to remove any special characters and spaces, resulting in a clean format with only numbers (e.g., 8014568765, 9786540299).

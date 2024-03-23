@@ -1,0 +1,8 @@
+Summary for Input Column Data:
+- The input column data consists of full names in the format ['First Last']. Each name is unique and does not contain any special characters or numbers.
+- The names in the input column data are a mix of male and female names.
+
+Summary for Output Column:
+- The output column contains the first names extracted from the full names in the input column data.
+- The first names in the output column are also unique and do not contain any special characters or numbers.
+- The first names in the output column correspond to the first names of the individuals in the input column data.

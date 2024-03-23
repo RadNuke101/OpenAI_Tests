@@ -1,0 +1,17 @@
+Here are the summaries for the input and output columns:
+
+Input Column Summary:
+- The input column consists of pairs of first names and last names.
+- The first names in the input column range from Launa to Jenee.
+- The last names in the input column range from Withers to Pannell.
+- Each pair of names is in the format [First Name, Last Name].
+
+Output Column Summary:
+- The output column consists of the last names followed by the first names.
+- The output column ranges from Withers Launa to Pannell Jenee.
+- Each entry in the output column follows the format Last Name First Name.
+
+Overall Summary:
+- The input column contains a variety of first and last names.
+- The output column rearranges the names to display the last name followed by the first name.
+- The data in both the input and output columns is consistent in format and structure.

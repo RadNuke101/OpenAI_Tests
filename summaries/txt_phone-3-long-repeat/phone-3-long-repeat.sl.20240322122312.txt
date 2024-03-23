@@ -1,0 +1,10 @@
+For the input column data, the summary is as follows:
+- The phone numbers provided are in the format XXX-XXX-XXX.
+- The area codes vary from 002 to 993.
+- The middle three digits range from 000 to 999.
+- The last three digits range from 000 to 999.
+
+For the output column data, the summary is as follows:
+- All phone numbers are formatted as (XXX) XXX-XXX.
+- The phone numbers are correctly formatted with the area code in parentheses.
+- The middle three digits are separated by a space from the last four digits.

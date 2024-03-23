@@ -1,0 +1,19 @@
+Summary for Input Column 1 (Name):
+- Traci Brown
+- Mary Hannan
+- Linda Thomas
+
+Summary for Input Column 2 (Address):
+- 1301 Robinson Court
+- 1195 Amethyst Drive
+- 2479 North Bend Road
+
+Summary for Input Column 3 (City, State, Zip):
+- Saginaw, MI 48607
+- Lansing, MI 48933
+- Allen, KY 41601
+
+Summary for Output Column:
+- Traci Brown/n1301 Robinson Court/nSaginaw, MI 48607
+- Mary Hannan/n1195 Amethyst Drive/nLansing, MI 48933
+- Linda Thomas/n2479 North Bend Road/nAllen, KY 41601

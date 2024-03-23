@@ -1,0 +1,6 @@
+Summary for input column data:
+- First names: Launa, Lakenya, Brendan, Bradford, Rudolf
+- Last names: Withers, Edison, Hage, Lango, Akiyama
+
+Summary for output column:
+- Last name, First initial: Withers, L., Edison, L., Hage, B., Lango, B., Akiyama, R.

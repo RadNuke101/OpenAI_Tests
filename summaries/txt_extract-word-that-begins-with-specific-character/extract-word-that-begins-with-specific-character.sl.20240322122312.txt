@@ -1,0 +1,8 @@
+Input Column Summary:
+- The input column data consists of sentences containing placeholders starting with an underscore, such as '_username' or '_name1'.
+- The placeholders are surrounded by text, indicating that they are part of a sentence or phrase.
+
+Output Column Summary:
+- The output column contains the placeholders that were extracted from the input sentences.
+- The placeholders in the output column are the same as those found in the input sentences, such as '_username' or '_name'.
+- The output column provides a clear list of the placeholders that were identified in the input sentences.

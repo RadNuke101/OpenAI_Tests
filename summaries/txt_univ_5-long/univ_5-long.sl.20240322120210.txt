@@ -1,0 +1,5 @@
+Summary for input column data:
+- The input column data consists of the name of universities or colleges along with their respective locations in the format of city, state, and country.
+
+Summary for output column:
+- The output column data consists of the location information in the format of city, state, and country for the universities or colleges mentioned in the input column data.

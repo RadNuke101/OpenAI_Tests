@@ -1,0 +1,28 @@
+Here is the summary for the input and output data provided:
+
+Input Column Data:
+1. +106 769-858-438
+2. +83 973-757-831
+3. +62 647-787-775
+4. +172 027-507-632
+5. +72 001-050-856
+6. +95 310-537-401
+7. +6 775-969-238
+8. +174 594-539-946
+9. +155 927-275-860
+10. +167 405-461-331
+
+Output Column Data:
+1. +106 (769) 858-438
+2. +83 (973) 757-831
+3. +62 (647) 787-775
+4. +172 (027) 507-632
+5. +72 (001) 050-856
+6. +95 (310) 537-401
+7. +6 (775) 969-238
+8. +174 (594) 539-946
+9. +155 (927) 275-860
+10. +167 (405) 461-331
+
+Summary:
+The input data consists of phone numbers in the format '+XXX YYY-ZZZ-ZZZ', where XXX is the country code, YYY is the area code, and ZZZ-ZZZ is the phone number. The output data transforms the input phone numbers into a more readable format by adding parentheses around the area code. The output format is '+XXX (YYY) ZZZ-ZZZ'. Each input phone number is correctly transformed into the desired output format.

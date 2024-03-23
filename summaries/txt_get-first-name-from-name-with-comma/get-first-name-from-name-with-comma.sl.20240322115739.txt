@@ -1,0 +1,19 @@
+Input Column Data:
+1. ['Chang,Amy', '1']
+2. ['Chang,Amy', '2']
+3. ['smith,bobby', '2']
+4. ['smith,bobby', '1']
+
+Output Column Data:
+1. Amy
+2. Chang
+3. smith
+4. bobby
+
+Summary:
+1. Input: Chang,Amy | Output: Amy
+2. Input: Chang,Amy | Output: Chang
+3. Input: smith,bobby | Output: smith
+4. Input: smith,bobby | Output: bobby
+
+If you have any more input data, feel free to provide it for further analysis.

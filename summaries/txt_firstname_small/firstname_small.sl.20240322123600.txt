@@ -1,0 +1,9 @@
+Summary for input column data:
+- The input column data consists of full names in the format of first name followed by last name.
+- Each entry in the input column data represents a person's full name.
+
+Summary for output column:
+- The output column contains only the first names extracted from the full names provided in the input column data.
+- Each entry in the output column represents the first name of a person.
+
+Overall, the input column data consists of full names, and the output column contains the corresponding first names extracted from the full names.

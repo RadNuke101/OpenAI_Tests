@@ -1,0 +1,5 @@
+Input Column Summary:
+- The input column contains data related to the names of different retailers and suppliers. The data is structured in the format 'Name= Company Name', where the company name varies for each entry.
+
+Output Column Summary:
+- The output column contains the extracted company names from the input data. The company names include ABC Retailers, XYZ Suppliers, and potentially other names depending on the input data.

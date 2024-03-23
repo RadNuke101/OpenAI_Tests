@@ -1,0 +1,9 @@
+For the input column data, the summary is as follows:
+- The input data consists of phone numbers in the format XXX-XXX-XXX.
+- Each phone number is unique and does not repeat within the input data.
+- The phone numbers range from 000-000-000 to 999-999-999.
+
+For the output column data, the summary is as follows:
+- The output data consists of formatted phone numbers in the format XXX.XXX.XXX.
+- Each formatted phone number corresponds to a unique input phone number.
+- The formatted phone numbers match the original input phone numbers in terms of digits and sequence.
