@@ -1,0 +1,15 @@
+Withers, L.
+Edison, L.
+Hage, B.
+Lango, B.
+Akiyama, R.
+Error: Input list must contain exactly two elements
+Error: Input strings cannot be empty
+Error: All elements in the input list must be strings
+
+ORIGINAL OUTPUT:
+Withers, L.
+Edison, L.
+Hage, B.
+Lango, B.
+Akiyama, R.

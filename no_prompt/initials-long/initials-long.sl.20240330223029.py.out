@@ -1,0 +1,110 @@
+Input: 'Nancy FreeHafer', Output: 'N.F.'
+Input: 'Andrew Cencici', Output: 'A.C.'
+Input: 'Jan Kotas', Output: 'J.K.'
+Input: 'Mariya Sergienko', Output: 'M.S.'
+Input: 'Launa Withers', Output: 'L.W.'
+Input: 'Lakenya Edison', Output: 'L.E.'
+Input: 'Brendan Hage', Output: 'B.H.'
+Input: 'Bradford Lango', Output: 'B.L.'
+Input: 'Rudolf Akiyama', Output: 'R.A.'
+Input: 'Lara Constable', Output: 'L.C.'
+Input: 'Madelaine Ghoston', Output: 'M.G.'
+Input: 'Salley Hornak', Output: 'S.H.'
+Input: 'Micha Junkin', Output: 'M.J.'
+Input: 'Teddy Bobo', Output: 'T.B.'
+Input: 'Coralee Scalia', Output: 'C.S.'
+Input: 'Jeff Quashie', Output: 'J.Q.'
+Input: 'Vena Babiarz', Output: 'V.B.'
+Input: 'Karrie Lain', Output: 'K.L.'
+Input: 'Tobias Dermody', Output: 'T.D.'
+Input: 'Celsa Hopkins', Output: 'C.H.'
+Input: 'Kimberley Halpern', Output: 'K.H.'
+Input: 'Phillip Rowden', Output: 'P.R.'
+Input: 'Elias Neil', Output: 'E.N.'
+Input: 'Lashanda Cortes', Output: 'L.C.'
+Input: 'Mackenzie Spell', Output: 'M.S.'
+Input: 'Kathlyn Eccleston', Output: 'K.E.'
+Input: 'Georgina Brescia', Output: 'G.B.'
+Input: 'Beata Miah', Output: 'B.M.'
+Input: 'Desiree Seamons', Output: 'D.S.'
+Input: 'Jeanice Soderstrom', Output: 'J.S.'
+Input: 'Mariel Jurgens', Output: 'M.J.'
+Input: 'Alida Bogle', Output: 'A.B.'
+Input: 'Jacqualine Olague', Output: 'J.O.'
+Input: 'Joaquin Clasen', Output: 'J.C.'
+Input: 'Samuel Richert', Output: 'S.R.'
+Input: 'Malissa Marcus', Output: 'M.M.'
+Input: 'Alaina Partida', Output: 'A.P.'
+Input: 'Trinidad Mulloy', Output: 'T.M.'
+Input: 'Carlene Garrard', Output: 'C.G.'
+Input: 'Melodi Chism', Output: 'M.C.'
+Input: 'Bess Chilcott', Output: 'B.C.'
+Input: 'Chong Aylward', Output: 'C.A.'
+Input: 'Jani Ramthun', Output: 'J.R.'
+Input: 'Jacquiline Heintz', Output: 'J.H.'
+Input: 'Hayley Marquess', Output: 'H.M.'
+Input: 'Andria Spagnoli', Output: 'A.S.'
+Input: 'Irwin Covelli', Output: 'I.C.'
+Input: 'Gertude Montiel', Output: 'G.M.'
+Input: 'Stefany Reily', Output: 'S.R.'
+Input: 'Rae Mcgaughey', Output: 'R.M.'
+Input: 'Cruz Latimore', Output: 'C.L.'
+Input: 'Maryann Casler', Output: 'M.C.'
+Input: 'Annalisa Gregori', Output: 'A.G.'
+Input: 'Jenee Pannell', Output: 'J.P.'
+
+ORIGINAL OUTPUT:
+N.F.
+A.C.
+J.K.
+M.S.
+L.W.
+L.E.
+B.H.
+B.L.
+R.A.
+L.C.
+M.G.
+S.H.
+M.J.
+T.B.
+C.S.
+J.Q.
+V.B.
+K.L.
+T.D.
+C.H.
+K.H.
+P.R.
+E.N.
+L.C.
+M.S.
+K.E.
+G.B.
+B.M.
+D.S.
+J.S.
+M.J.
+A.B.
+J.O.
+J.C.
+S.R.
+M.M.
+A.P.
+T.M.
+C.G.
+M.C.
+B.C.
+C.A.
+J.R.
+J.H.
+H.M.
+A.S.
+I.C.
+G.M.
+S.R.
+R.M.
+C.L.
+M.C.
+A.G.
+J.P.

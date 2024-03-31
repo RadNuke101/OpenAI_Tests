@@ -1,0 +1,10 @@
+234
+512A
+DMX
+Error: invalid literal for int() with base 10: 'a'
+Error: Input list must contain exactly 2 elements
+
+ORIGINAL OUTPUT:
+234
+512A
+DMX

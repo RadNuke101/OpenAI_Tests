@@ -1,0 +1,9 @@
+True
+False
+True
+Error: Inputs must be strings.
+
+ORIGINAL OUTPUT:
+true
+false
+true

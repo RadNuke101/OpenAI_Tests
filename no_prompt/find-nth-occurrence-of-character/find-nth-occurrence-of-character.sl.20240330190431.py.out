@@ -1,0 +1,10 @@
+12
+18
+33
+Invalid input for num
+Error: invalid literal for int() with base 10: 'a'
+
+ORIGINAL OUTPUT:
+12
+18
+33

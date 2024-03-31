@@ -1,0 +1,10 @@
+234
+512A
+DMX
+Error: Number of elements to delete must be non-negative
+Error: Input list must contain exactly 2 elements
+
+ORIGINAL OUTPUT:
+234
+512A
+DMX

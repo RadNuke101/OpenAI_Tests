@@ -1,0 +1,14 @@
+Dr. Nancy
+Dr. Andrew
+Dr. Jan
+Dr. Mariya
+Error: Invalid input format. Input should contain a first and last name separated by a space.
+None
+Error: list index out of range
+None
+
+ORIGINAL OUTPUT:
+Dr. Nancy
+Dr. Andrew
+Dr. Jan
+Dr. Mariya

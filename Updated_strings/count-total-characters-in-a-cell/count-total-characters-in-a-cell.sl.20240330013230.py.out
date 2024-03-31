@@ -1,0 +1,9 @@
+3
+13
+14
+Error: object of type 'int' has no len()
+
+ORIGINAL OUTPUT:
+3
+13
+14

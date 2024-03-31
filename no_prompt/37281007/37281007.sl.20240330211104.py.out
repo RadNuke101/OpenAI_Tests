@@ -1,0 +1,8 @@
+Error: Input should be in the format 'ABC,BC'
+False
+Error: Input should be in the format 'ABC,BC'
+False
+
+ORIGINAL OUTPUT:
+false
+true

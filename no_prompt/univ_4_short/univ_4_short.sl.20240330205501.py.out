@@ -1,0 +1,18 @@
+PA, , USA
+Los, Angeles
+New, York, USA
+PA, , USA
+College, Park
+MI, , USA
+NY, , USA
+New, York, USA
+
+ORIGINAL OUTPUT:
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+Ithaca, NY, USA
+Philadelphia, PA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+New York, NY, USA
+New York, NY, USA

@@ -1,0 +1,42 @@
+University of Pennsylvania, Phialdelphia, USA, PA, USA
+UCLA, Los Angeles, USA, CA
+Cornell University, Ithaca, USA, New York, USA
+Penn, Philadelphia, USA, PA, USA
+University of Maryland College Park, College Park, USA, MD
+University of Michigan, Ann Arbor, USA, MI, USA
+UC Berkeley, Berkeley, USA, CA
+MIT, Cambridge, USA, MA
+Rice University, Houston, USA, TX
+Yale University, New Haven, USA, CT, USA
+Columbia University, NY, USA, NY, USA
+NYU, NY, USA, New York, USA
+UC Berkeley, Berkeley, USA, CA
+UIUC, Urbana, USA, IL
+Temple University, Philadelphia, USA, PA
+Harvard University, Cambridge, USA, MA, USA
+University of Connecticut, Storrs, USA, CT, USA
+Drexel University, Philadelphia, USA, PA
+New Haven University, New Haven, USA, CT, USA
+University of California, Santa Barbara, USA, Santa Barbara, CA, USA
+
+ORIGINAL OUTPUT:
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+Ithaca, NY, USA
+Philadelphia, PA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, NY, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+Philadelphia, PA, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA

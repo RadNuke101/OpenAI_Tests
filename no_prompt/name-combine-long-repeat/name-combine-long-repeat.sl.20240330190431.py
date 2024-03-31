@@ -1,0 +1,88 @@
+# Start time: 2024-03-30 19:18:22.249043
+
+# Content: Given that given input as ['Nancy', 'FreeHafer'] output is Nancy FreeHafer, given input as ['Andrew', 'Cencici'] output is Andrew Cencici, given input as ['Jan', 'Kotas'] output is Jan Kotas, given input as ['Mariya', 'Sergienko'] output is Mariya Sergienko, given input as ['Launa', 'Withers'] output is Launa Withers, given input as ['Launa', 'Withers'] output is Launa Withers, given input as ['Launa', 'Withers'] output is Launa Withers, given input as ['Lakenya', 'Edison'] output is Lakenya Edison, given input as ['Lakenya', 'Edison'] output is Lakenya Edison, given input as ['Lakenya', 'Edison'] output is Lakenya Edison, given input as ['Brendan', 'Hage'] output is Brendan Hage, given input as ['Brendan', 'Hage'] output is Brendan Hage, given input as ['Brendan', 'Hage'] output is Brendan Hage, given input as ['Bradford', 'Lango'] output is Bradford Lango, given input as ['Bradford', 'Lango'] output is Bradford Lango, given input as ['Bradford', 'Lango'] output is Bradford Lango, given input as ['Rudolf', 'Akiyama'] output is Rudolf Akiyama, given input as ['Rudolf', 'Akiyama'] output is Rudolf Akiyama, given input as ['Rudolf', 'Akiyama'] output is Rudolf Akiyama, given input as ['Lara', 'Constable'] output is Lara Constable, given input as ['Lara', 'Constable'] output is Lara Constable, given input as ['Lara', 'Constable'] output is Lara Constable, given input as ['Madelaine', 'Ghoston'] output is Madelaine Ghoston, given input as ['Madelaine', 'Ghoston'] output is Madelaine Ghoston, given input as ['Madelaine', 'Ghoston'] output is Madelaine Ghoston, given input as ['Salley', 'Hornak'] output is Salley Hornak, given input as ['Salley', 'Hornak'] output is Salley Hornak, given input as ['Salley', 'Hornak'] output is Salley Hornak, given input as ['Micha', 'Junkin'] output is Micha Junkin, given input as ['Micha', 'Junkin'] output is Micha Junkin, given input as ['Micha', 'Junkin'] output is Micha Junkin, given input as ['Teddy', 'Bobo'] output is Teddy Bobo, given input as ['Teddy', 'Bobo'] output is Teddy Bobo, given input as ['Teddy', 'Bobo'] output is Teddy Bobo, given input as ['Coralee', 'Scalia'] output is Coralee Scalia, given input as ['Coralee', 'Scalia'] output is Coralee Scalia, given input as ['Coralee', 'Scalia'] output is Coralee Scalia, given input as ['Jeff', 'Quashie'] output is Jeff Quashie, given input as ['Jeff', 'Quashie'] output is Jeff Quashie, given input as ['Jeff', 'Quashie'] output is Jeff Quashie, given input as ['Vena', 'Babiarz'] output is Vena Babiarz, given input as ['Vena', 'Babiarz'] output is Vena Babiarz, given input as ['Vena', 'Babiarz'] output is Vena Babiarz, given input as ['Karrie', 'Lain'] output is Karrie Lain, given input as ['Karrie', 'Lain'] output is Karrie Lain, given input as ['Karrie', 'Lain'] output is Karrie Lain, given input as ['Tobias', 'Dermody'] output is Tobias Dermody, given input as ['Tobias', 'Dermody'] output is Tobias Dermody, given input as ['Tobias', 'Dermody'] output is Tobias Dermody, given input as ['Celsa', 'Hopkins'] output is Celsa Hopkins, given input as ['Celsa', 'Hopkins'] output is Celsa Hopkins, given input as ['Celsa', 'Hopkins'] output is Celsa Hopkins, given input as ['Kimberley', 'Halpern'] output is Kimberley Halpern, given input as ['Kimberley', 'Halpern'] output is Kimberley Halpern, given input as ['Kimberley', 'Halpern'] output is Kimberley Halpern, given input as ['Phillip', 'Rowden'] output is Phillip Rowden, given input as ['Phillip', 'Rowden'] output is Phillip Rowden, given input as ['Phillip', 'Rowden'] output is Phillip Rowden, given input as ['Elias', 'Neil'] output is Elias Neil, given input as ['Elias', 'Neil'] output is Elias Neil, given input as ['Elias', 'Neil'] output is Elias Neil, given input as ['Lashanda', 'Cortes'] output is Lashanda Cortes, given input as ['Lashanda', 'Cortes'] output is Lashanda Cortes, given input as ['Lashanda', 'Cortes'] output is Lashanda Cortes, given input as ['Mackenzie', 'Spell'] output is Mackenzie Spell, given input as ['Mackenzie', 'Spell'] output is Mackenzie Spell, given input as ['Mackenzie', 'Spell'] output is Mackenzie Spell, given input as ['Kathlyn', 'Eccleston'] output is Kathlyn Eccleston, given input as ['Kathlyn', 'Eccleston'] output is Kathlyn Eccleston, given input as ['Kathlyn', 'Eccleston'] output is Kathlyn Eccleston, given input as ['Georgina', 'Brescia'] output is Georgina Brescia, given input as ['Georgina', 'Brescia'] output is Georgina Brescia, given input as ['Georgina', 'Brescia'] output is Georgina Brescia, given input as ['Beata', 'Miah'] output is Beata Miah, given input as ['Beata', 'Miah'] output is Beata Miah, given input as ['Beata', 'Miah'] output is Beata Miah, given input as ['Desiree', 'Seamons'] output is Desiree Seamons, given input as ['Desiree', 'Seamons'] output is Desiree Seamons, given input as ['Desiree', 'Seamons'] output is Desiree Seamons, given input as ['Jeanice', 'Soderstrom'] output is Jeanice Soderstrom, given input as ['Jeanice', 'Soderstrom'] output is Jeanice Soderstrom, given input as ['Jeanice', 'Soderstrom'] output is Jeanice Soderstrom, given input as ['Mariel', 'Jurgens'] output is Mariel Jurgens, given input as ['Mariel', 'Jurgens'] output is Mariel Jurgens, given input as ['Mariel', 'Jurgens'] output is Mariel Jurgens, given input as ['Alida', 'Bogle'] output is Alida Bogle, given input as ['Alida', 'Bogle'] output is Alida Bogle, given input as ['Alida', 'Bogle'] output is Alida Bogle, given input as ['Jacqualine', 'Olague'] output is Jacqualine Olague, given input as ['Jacqualine', 'Olague'] output is Jacqualine Olague, given input as ['Jacqualine', 'Olague'] output is Jacqualine Olague, given input as ['Joaquin', 'Clasen'] output is Joaquin Clasen, given input as ['Joaquin', 'Clasen'] output is Joaquin Clasen, given input as ['Joaquin', 'Clasen'] output is Joaquin Clasen, given input as ['Samuel', 'Richert'] output is Samuel Richert, given input as ['Samuel', 'Richert'] output is Samuel Richert, given input as ['Samuel', 'Richert'] output is Samuel Richert, given input as ['Malissa', 'Marcus'] output is Malissa Marcus, given input as ['Malissa', 'Marcus'] output is Malissa Marcus, given input as ['Malissa', 'Marcus'] output is Malissa Marcus, given input as ['Alaina', 'Partida'] output is Alaina Partida, given input as ['Alaina', 'Partida'] output is Alaina Partida, given input as ['Alaina', 'Partida'] output is Alaina Partida, given input as ['Trinidad', 'Mulloy'] output is Trinidad Mulloy, given input as ['Trinidad', 'Mulloy'] output is Trinidad Mulloy, given input as ['Trinidad', 'Mulloy'] output is Trinidad Mulloy, given input as ['Carlene', 'Garrard'] output is Carlene Garrard, given input as ['Carlene', 'Garrard'] output is Carlene Garrard, given input as ['Carlene', 'Garrard'] output is Carlene Garrard, given input as ['Melodi', 'Chism'] output is Melodi Chism, given input as ['Melodi', 'Chism'] output is Melodi Chism, given input as ['Melodi', 'Chism'] output is Melodi Chism, given input as ['Bess', 'Chilcott'] output is Bess Chilcott, given input as ['Bess', 'Chilcott'] output is Bess Chilcott, given input as ['Bess', 'Chilcott'] output is Bess Chilcott, given input as ['Chong', 'Aylward'] output is Chong Aylward, given input as ['Chong', 'Aylward'] output is Chong Aylward, given input as ['Chong', 'Aylward'] output is Chong Aylward, given input as ['Jani', 'Ramthun'] output is Jani Ramthun, given input as ['Jani', 'Ramthun'] output is Jani Ramthun, given input as ['Jani', 'Ramthun'] output is Jani Ramthun, given input as ['Jacquiline', 'Heintz'] output is Jacquiline Heintz, given input as ['Jacquiline', 'Heintz'] output is Jacquiline Heintz, given input as ['Jacquiline', 'Heintz'] output is Jacquiline Heintz, given input as ['Hayley', 'Marquess'] output is Hayley Marquess, given input as ['Hayley', 'Marquess'] output is Hayley Marquess, given input as ['Hayley', 'Marquess'] output is Hayley Marquess, given input as ['Andria', 'Spagnoli'] output is Andria Spagnoli, given input as ['Andria', 'Spagnoli'] output is Andria Spagnoli, given input as ['Andria', 'Spagnoli'] output is Andria Spagnoli, given input as ['Irwin', 'Covelli'] output is Irwin Covelli, given input as ['Irwin', 'Covelli'] output is Irwin Covelli, given input as ['Irwin', 'Covelli'] output is Irwin Covelli, given input as ['Gertude', 'Montiel'] output is Gertude Montiel, given input as ['Gertude', 'Montiel'] output is Gertude Montiel, given input as ['Gertude', 'Montiel'] output is Gertude Montiel, given input as ['Stefany', 'Reily'] output is Stefany Reily, given input as ['Stefany', 'Reily'] output is Stefany Reily, given input as ['Stefany', 'Reily'] output is Stefany Reily, given input as ['Rae', 'Mcgaughey'] output is Rae Mcgaughey, given input as ['Rae', 'Mcgaughey'] output is Rae Mcgaughey, given input as ['Rae', 'Mcgaughey'] output is Rae Mcgaughey, given input as ['Cruz', 'Latimore'] output is Cruz Latimore, given input as ['Cruz', 'Latimore'] output is Cruz Latimore, given input as ['Cruz', 'Latimore'] output is Cruz Latimore, given input as ['Maryann', 'Casler'] output is Maryann Casler, given input as ['Maryann', 'Casler'] output is Maryann Casler, given input as ['Maryann', 'Casler'] output is Maryann Casler, given input as ['Annalisa', 'Gregori'] output is Annalisa Gregori, given input as ['Annalisa', 'Gregori'] output is Annalisa Gregori, given input as ['Annalisa', 'Gregori'] output is Annalisa Gregori, given input as ['Jenee', 'Pannell'] output is Jenee Pannell, given input as ['Jenee', 'Pannell'] output is Jenee Pannell, given input as ['Jenee', 'Pannell'] output is Jenee Pannell, given input as ['Launa', 'Withers'] output is Launa Withers, given input as ['Lakenya', 'Edison'] output is Lakenya Edison, given input as ['Brendan', 'Hage'] output is Brendan Hage, given input as ['Bradford', 'Lango'] output is Bradford Lango, given input as ['Rudolf', 'Akiyama'] output is Rudolf Akiyama, given input as ['Lara', 'Constable'] output is Lara Constable, given input as ['Madelaine', 'Ghoston'] output is Madelaine Ghoston, given input as ['Salley', 'Hornak'] output is Salley Hornak, given input as ['Micha', 'Junkin'] output is Micha Junkin, given input as ['Teddy', 'Bobo'] output is Teddy Bobo, given input as ['Coralee', 'Scalia'] output is Coralee Scalia, given input as ['Jeff', 'Quashie'] output is Jeff Quashie, given input as ['Vena', 'Babiarz'] output is Vena Babiarz, given input as ['Karrie', 'Lain'] output is Karrie Lain, given input as ['Tobias', 'Dermody'] output is Tobias Dermody, given input as ['Celsa', 'Hopkins'] output is Celsa Hopkins, given input as ['Kimberley', 'Halpern'] output is Kimberley Halpern, given input as ['Phillip', 'Rowden'] output is Phillip Rowden, given input as ['Elias', 'Neil'] output is Elias Neil, given input as ['Lashanda', 'Cortes'] output is Lashanda Cortes, given input as ['Mackenzie', 'Spell'] output is Mackenzie Spell, given input as ['Kathlyn', 'Eccleston'] output is Kathlyn Eccleston, given input as ['Georgina', 'Brescia'] output is Georgina Brescia, given input as ['Beata', 'Miah'] output is Beata Miah, given input as ['Desiree', 'Seamons'] output is Desiree Seamons, given input as ['Jeanice', 'Soderstrom'] output is Jeanice Soderstrom, given input as ['Mariel', 'Jurgens'] output is Mariel Jurgens, given input as ['Alida', 'Bogle'] output is Alida Bogle, given input as ['Jacqualine', 'Olague'] output is Jacqualine Olague, given input as ['Joaquin', 'Clasen'] output is Joaquin Clasen, given input as ['Samuel', 'Richert'] output is Samuel Richert, given input as ['Malissa', 'Marcus'] output is Malissa Marcus, given input as ['Alaina', 'Partida'] output is Alaina Partida, given input as ['Trinidad', 'Mulloy'] output is Trinidad Mulloy, given input as ['Carlene', 'Garrard'] output is Carlene Garrard, given input as ['Melodi', 'Chism'] output is Melodi Chism, given input as ['Bess', 'Chilcott'] output is Bess Chilcott, given input as ['Chong', 'Aylward'] output is Chong Aylward, given input as ['Jani', 'Ramthun'] output is Jani Ramthun, given input as ['Jacquiline', 'Heintz'] output is Jacquiline Heintz, given input as ['Hayley', 'Marquess'] output is Hayley Marquess, given input as ['Andria', 'Spagnoli'] output is Andria Spagnoli, given input as ['Irwin', 'Covelli'] output is Irwin Covelli, given input as ['Gertude', 'Montiel'] output is Gertude Montiel, given input as ['Stefany', 'Reily'] output is Stefany Reily, given input as ['Rae', 'Mcgaughey'] output is Rae Mcgaughey, given input as ['Cruz', 'Latimore'] output is Cruz Latimore, given input as ['Maryann', 'Casler'] output is Maryann Casler, given input as ['Annalisa', 'Gregori'] output is Annalisa Gregori, given input as ['Jenee', 'Pannell'] output is Jenee Pannell, , generate a python function that matches the given input and output above, treating the input and output as strings, not lists. Add the input and output statements to the comment section of the generated python code. Incorporate exception handling with proper try catch blocks to handle all types of input exceptions. The code should be clean to run at a command prompt without any non-code and include above input in test cases. Do not include the output of the test code in the python program. Generated python code should have only executable statements and comments, nothng else.
+
+# Test cases
+# Input: 'Nancy FreeHafer', Output: 'Nancy FreeHafer'
+# Input: 'Andrew Cencici', Output: 'Andrew Cencici'
+# Input: 'Jan Kotas', Output: 'Jan Kotas'
+# Input: 'Mariya Sergienko', Output: 'Mariya Sergienko'
+# Input: 'Launa Withers', Output: 'Launa Withers'
+# Input: 'Lakenya Edison', Output: 'Lakenya Edison'
+# Input: 'Brendan Hage', Output: 'Brendan Hage'
+# Input: 'Bradford Lango', Output: 'Bradford Lango'
+# Input: 'Rudolf Akiyama', Output: 'Rudolf Akiyama'
+# Input: 'Lara Constable', Output: 'Lara Constable'
+# Input: 'Madelaine Ghoston', Output: 'Madelaine Ghoston'
+# Input: 'Salley Hornak', Output: 'Salley Hornak'
+# Input: 'Micha Junkin', Output: 'Micha Junkin'
+# Input: 'Teddy Bobo', Output: 'Teddy Bobo'
+# Input: 'Coralee Scalia', Output: 'Coralee Scalia'
+# Input: 'Jeff Quashie', Output: 'Jeff Quashie'
+# Input: 'Vena Babiarz', Output: 'Vena Babiarz'
+# Input: 'Karrie Lain', Output: 'Karrie Lain'
+# Input: 'Tobias Dermody', Output: 'Tobias Dermody'
+# Input: 'Celsa Hopkins', Output: 'Celsa Hopkins'
+# Input: 'Kimberley Halpern', Output: 'Kimberley Halpern'
+# Input: 'Phillip Rowden', Output: 'Phillip Rowden'
+# Input: 'Elias Neil', Output: 'Elias Neil'
+# Input: 'Lashanda Cortes', Output: 'Lashanda Cortes'
+# Input: 'Mackenzie Spell', Output: 'Mackenzie Spell'
+# Input: 'Kathlyn Eccleston', Output: 'Kathlyn Eccleston'
+# Input: 'Georgina Brescia', Output: 'Georgina Brescia'
+# Input: 'Beata Miah', Output: 'Beata Miah'
+# Input: 'Desiree Seamons', Output: 'Desiree Seamons'
+# Input: 'Jeanice Soderstrom', Output: 'Jeanice Soderstrom'
+# Input: 'Mariel Jurgens', Output: 'Mariel Jurgens'
+# Input: 'Alida Bogle', Output: 'Alida Bogle'
+# Input: 'Jacqualine Olague', Output: 'Jacqualine Olague'
+# Input: 'Joaquin Clasen', Output: 'Joaquin Clasen'
+# Input: 'Samuel Richert', Output: 'Samuel Richert'
+# Input: 'Malissa Marcus', Output: 'Malissa Marcus'
+# Input: 'Alaina Partida', Output: 'Alaina Partida'
+# Input: 'Trinidad Mulloy', Output: 'Trinidad Mulloy'
+# Input: 'Carlene Garrard', Output: 'Carlene Garrard'
+# Input: 'Melodi Chism', Output: 'Melodi Chism'
+# Input: 'Bess Chilcott', Output: 'Bess Chilcott'
+# Input: 'Chong Aylward', Output: 'Chong Aylward'
+# Input: 'Jani Ramthun', Output: 'Jani Ramthun'
+# Input: 'Jacquiline Heintz', Output: 'Jacquiline Heintz'
+# Input: 'Hayley Marquess', Output: 'Hayley Marquess'
+# Input: 'Andria Spagnoli', Output: 'Andria Spagnoli'
+# Input: 'Irwin Covelli', Output: 'Irwin Covelli'
+# Input: 'Gertude Montiel', Output: 'Gertude Montiel'
+# Input: 'Stefany Reily', Output: 'Stefany Reily'
+# Input: 'Rae Mcgaughey', Output: 'Rae Mcgaughey'
+# Input: 'Cruz Latimore', Output: 'Cruz Latimore'
+# Input: 'Maryann Casler', Output: 'Maryann Casler'
+# Input: 'Annalisa Gregori', Output: 'Annalisa Gregori'
+# Input: 'Jenee Pannell', Output: 'Jenee Pannell'
+
+def format_names(input_str):
+    try:
+        names = input_str.split()
+        formatted_name = ' '.join(names)
+        return formatted_name
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# Test the function with the provided test cases
+test_cases = [
+    'Nancy FreeHafer', 'Andrew Cencici', 'Jan Kotas', 'Mariya Sergienko', 'Launa Withers',
+    'Lakenya Edison', 'Brendan Hage', 'Bradford Lango', 'Rudolf Akiyama', 'Lara Constable',
+    'Madelaine Ghoston', 'Salley Hornak', 'Micha Junkin', 'Teddy Bobo', 'Coralee Scalia',
+    'Jeff Quashie', 'Vena Babiarz', 'Karrie Lain', 'Tobias Dermody', 'Celsa Hopkins',
+    'Kimberley Halpern', 'Phillip Rowden', 'Elias Neil', 'Lashanda Cortes', 'Mackenzie Spell',
+    'Kathlyn Eccleston', 'Georgina Brescia', 'Beata Miah', 'Desiree Seamons', 'Jeanice Soderstrom',
+    'Mariel Jurgens', 'Alida Bogle', 'Jacqualine Olague', 'Joaquin Clasen', 'Samuel Richert',
+    'Malissa Marcus', 'Alaina Partida', 'Trinidad Mulloy', 'Carlene Garrard', 'Melodi Chism',
+    'Bess Chilcott', 'Chong Aylward', 'Jani Ramthun', 'Jacquiline Heintz', 'Hayley Marquess',
+    'Andria Spagnoli', 'Irwin Covelli', 'Gertude Montiel', 'Stefany Reily', 'Rae Mcgaughey',
+    'Cruz Latimore', 'Maryann Casler', 'Annalisa Gregori', 'Jenee Pannell'
+]
+
+for test_case in test_cases:
+    print(format_names(test_case))
+
+# End time: 2024-03-30 19:18:34.926207
+# Elapsed time in seconds: 12.676786568999887

@@ -1,0 +1,62 @@
+CA, Berkeley, USA
+University of Pennsylvania, USA, PA, USA
+CA, Los Angeles, USA
+Cornell University, USA, New York, USA
+Penn, USA, PA, USA
+University of Michigan, USA, MI, USA
+CA, Berkeley, USA
+MA, Cambridge, USA
+University of Pennsylvania, USA, PA, USA
+CA, Los Angeles, USA
+MD, College Park, USA
+University of Michigan, USA, MI, USA
+CA, Berkeley, USA
+MA, Cambridge, USA
+TX, Houston, USA
+Yale University, USA, CT, USA
+Columbia University, USA, NY, USA
+NYU, USA, New York, USA
+PA, Philadelphia, USA
+CA, Berkeley, USA
+IL, Urbana, USA
+PA, Philadelphia, USA
+Harvard University, USA, MA, USA
+University of Connecticut, USA, CT, USA
+PA, Philadelphia, USA
+NYU, USA, New York, USA
+IL, Urbana, USA
+New Haven University, USA, CT, USA
+University of California, USA, CA, USA
+University of Connecticut, USA, CT, USA
+
+ORIGINAL OUTPUT:
+Berkeley, CA, USA
+Phialdelphia, PA, USA
+UCLA, Los Angeles, CA, USA
+Ithaca, NY, USA
+Philadelphia, PA, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, NY, USA
+Philadelphia, PA, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+DPhiladelphia, PA, USA
+New York, NY, USA
+Urbana, IL, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA
+Storrs, CT, USA

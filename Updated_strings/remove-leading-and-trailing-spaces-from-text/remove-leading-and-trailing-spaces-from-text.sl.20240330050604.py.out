@@ -1,0 +1,10 @@
+The shawshank
+The    godfather
+pulp   fiction
+Error: Input must be a list
+Error: Input list must have exactly one element
+
+ORIGINAL OUTPUT:
+The shawshank
+The godfather
+pulp fiction

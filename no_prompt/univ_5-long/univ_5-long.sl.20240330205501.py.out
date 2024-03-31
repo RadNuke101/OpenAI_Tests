@@ -1,0 +1,42 @@
+PA
+Los, Angeles, USA
+New, York, USA
+PA
+College, Park, USA
+MI
+Berkeley
+Cambridge
+Houston
+CT
+NY
+New, York, USA
+Berkeley
+Urbana
+Philadelphia
+MA
+CT
+Philadelphia
+CT
+CA
+
+ORIGINAL OUTPUT:
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+Ithaca, NY, USA
+Philadelphia, PA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, NY, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+Philadelphia, PA, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA

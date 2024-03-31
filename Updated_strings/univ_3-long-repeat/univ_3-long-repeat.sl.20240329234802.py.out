@@ -1,0 +1,51 @@
+Berkeley, USA
+Phialdelphia, USA
+Ithaca, USA
+Philadelphia, USA
+Ann Arbor, USA
+Cambridge, USA
+Los Angeles, USA
+College Park, USA
+Houston, USA
+New Haven, USA
+New York, USA
+New York, USA
+Philadelphia, USA
+Urbana, USA
+Philadelphia, USA
+Cambridge, USA
+Storrs, USA
+New Haven, USA
+Santa Barbara, USA
+Invalid input format
+
+ORIGINAL OUTPUT:
+Berkeley, CA, USA
+Phialdelphia, PA, USA
+Ithaca, New York, USA
+Philadelphia, PA, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, New York, USA
+Philadelphia, PA, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+Philadelphia, PA, USA
+New York, New York, USA
+Urbana, IL, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA
+Storrs, CT, USA

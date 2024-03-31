@@ -1,0 +1,11 @@
+J Doe
+M Naik
+N Singh
+Error: Input should contain at least two words
+Error: Input should be a list with one element
+Error: Input should contain at least two words
+
+ORIGINAL OUTPUT:
+J Doe
+M Naik
+N Singh

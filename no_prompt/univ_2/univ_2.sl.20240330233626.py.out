@@ -1,0 +1,14 @@
+Invalid input format. Please provide a valid location string.
+UCLA, Los Angeles, CA
+Invalid input format. Please provide a valid location string.
+Invalid input format. Please provide a valid location string.
+University of Maryland College Park, College Park, MD
+Invalid input format. Please provide a valid location string.
+
+ORIGINAL OUTPUT:
+University of Pennsylvania, Phialdelphia, PA, USA
+UCLA, Los Angeles, CA, USA
+Cornell University, Ithaca, New York, USA
+Penn, Philadelphia, PA, USA
+University of Maryland College Park, College Park, MD, USA
+University of Michigan, Ann Arbor, MI, USA

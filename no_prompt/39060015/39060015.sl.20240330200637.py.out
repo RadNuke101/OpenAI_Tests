@@ -1,0 +1,6 @@
+This is a line. /delete words in the area /keep this part
+/delete words in the area /
+No delete keyword in this input
+
+ORIGINAL OUTPUT:
+This is a line. keep this part

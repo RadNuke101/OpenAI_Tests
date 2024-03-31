@@ -1,0 +1,12 @@
+Input: Mining US -> Output: Mining
+Input: Soybean Farming CAN -> Output: Soybean Farming
+Input: Soybean Farming -> Output: Soybean Farming
+Input: Oil Extraction US -> Output: Oil Extraction
+Input: Fishing -> Output: Fishing
+
+ORIGINAL OUTPUT:
+Mining
+Soybean Farming
+Soybean Farming
+Oil Extraction
+Fishing
