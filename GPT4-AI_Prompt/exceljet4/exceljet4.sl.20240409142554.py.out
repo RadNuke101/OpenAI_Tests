@@ -1,0 +1,14 @@
+tps=//exceljet.net/catalog
+tps=//microsoft.com
+p=//someserver.com
+tp=//127.0.0.1
+tps=//exceljet.net/catalog
+tps=//microsoft.com
+p=//someserver.com
+tp=//127.0.0.1
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+exceljet.net/catalog
+microsoft.com
+someserver.com
+127.0.0.1

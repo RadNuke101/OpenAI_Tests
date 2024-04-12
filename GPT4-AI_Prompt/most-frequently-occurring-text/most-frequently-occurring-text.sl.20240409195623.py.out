@@ -1,0 +1,14 @@
+cat
+red
+firm
+soft
+['cat', 'dog', 'cat']
+['blue', 'red', 'red']
+['firm', 'firm', 'soft']
+['soft', 'soft', 'soft']
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+cat
+red
+firm
+soft
