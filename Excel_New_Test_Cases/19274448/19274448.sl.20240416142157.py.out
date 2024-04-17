@@ -1,0 +1,28 @@
+['true']
+['false']
+['true']
+['false']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+true
+false
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+[
+t
+r
+u
+e
+,
+ 
+f
+a
+l
+s
+e
+]
+
+
+
+

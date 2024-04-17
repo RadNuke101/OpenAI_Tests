@@ -1,0 +1,17 @@
+valentine day=1915=50==7.1=4
+movie blah
+blah
+day=1915=50==7.1=4
+valentine day=1915=50==7.1=4
+movie blah
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+valentine day
+movie blah=2blahblah, The
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+blah=2blahblah, alpha The
+day
+
+

@@ -1,0 +1,32 @@
+x66448
+z66448
+zx6448
+zx6648
+zx6644
+abdefgh00123
+abcdegh00123
+acdefgh00123
+abcdefgh0123
+bcdefgh00123
+x66448
+z66448
+zx6448
+zx6648
+zx6644
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+x66448
+z66448
+zx448
+zx668
+zx6644
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+abdefgh00123
+abcdegh00123
+acdefgh00123
+abcdefgh123
+bcdefgh00123
+
+

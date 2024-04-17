@@ -1,0 +1,83 @@
+['University of Pennsylvania, USA', 'Phialdelphia, PA, USA']
+['University of Washington, USA', 'Seattle, WA, USA']
+['USC, USA', 'Los Angeles, CA, USA']
+['Northwestern University, USA', 'Evanston, IL, USA']
+['Ohio State University, USA', 'Columbus, OH, USA']
+['University of Colorado Boulder, USA', 'Boulder, CO, USA']
+['University of Texas at Austin, USA', 'Austin, TX, USA']
+['TAMU, USA', 'College Station, TX, USA']
+['University of Arizona, USA', 'Tucson, AZ, USA']
+['University of Oregon, USA', 'Eugene, OR, USA']
+['University of Miami, USA', 'Coral Gables, FL, USA']
+['Carnegie Mellon University, USA', 'Pittsburgh, PA, USA']
+['California Institute of Technology, USA', 'Pasadena, CA, USA']
+['UCSD, USA', 'La Jolla, CA, USA']
+['University of Pittsburgh, USA', 'Pittsburgh, PA, USA']
+['Florida State University, USA', 'Tallahassee, FL, USA']
+['Brown University, USA', 'Providence, RI, USA']
+['Pennsylvania State University, USA', 'University Park, PA, USA']
+['University of Florida, USA', 'Gainesville, FL, USA']
+['Duke University, USA', 'Durham, NC, USA']
+['Johns Hopkins University, USA', 'Baltimore, MD, USA']
+['University of Maryland, College Park, USA', 'College Park, MD, USA']
+['University of Iowa, USA', 'Iowa City, IA, USA']
+['University of Georgia, USA', 'Athens, GA, USA']
+['Rutgers, The State University of New Jersey, USA', 'New Brunswick, NJ, USA']
+['University of Virginia, USA', 'Charlottesville, VA, USA']
+['Indiana University Bloomington, USA', 'Bloomington, IN, USA']
+['University of North Carolina at Chapel Hill, USA', 'Chapel Hill, NC, USA']
+['Georgia Institute of Technology, USA', 'Atlanta, GA, USA']
+['University of Wisconsin Madison, USA', 'Madison, WI, USA']
+['University of Minnesota Twin Cities, USA', 'Minneapolis, MN, USA']
+['Virginia Tech, USA', 'Blacksburg, VA, USA']
+['University of Pennsylvania, USA', 'Phialdelphia, PA, USA']
+['UCLA, USA', 'Los Angeles, CA, USA']
+['Cornell University, USA', 'Ithaca, New York, USA']
+['Penn, USA', 'Philadelphia, PA, USA']
+['University of Maryland College Park, USA', 'College Park, MD, USA']
+['University of Michigan, USA', 'Ann Arbor, MI, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+Ithaca, New York, USA
+Philadelphia, PA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Phialdelphia, PA, USA
+Seattle, WA, USA
+Los Angeles, CA, USA
+Evanston, IL, USA
+Columbus, OH, USA
+Boulder, CO, USA
+Austin, TX, USA
+College Station, TX, USA
+Tucson, AZ, USA
+Eugene, OR, USA
+Coral Gables, FL, USA
+Pittsburgh, PA, USA
+Pasadena, CA, USA
+La Jolla, CA, USA
+Pittsburgh, PA, USA
+Tallahassee, FL, USA
+Providence, RI, USA
+University Park, PA, USA
+Gainesville, FL, USA
+Durham, NC, USA
+Baltimore, MD, USA
+College Park, MD, USA
+Iowa City, IA, USA
+Athens, GA, USA
+New Brunswick, NJ, USA
+Charlottesville, VA, USA
+Bloomington, IN, USA
+Chapel Hill, NC, USA
+Atlanta, GA, USA
+Madison, WI, USA
+Minneapolis, MN, USA
+Blacksburg, VA, USA
+
+

@@ -1,0 +1,33 @@
+['Polygonum']
+['Hippuris']
+['Lysimachia']
+['Juncus']
+['Lycopus']
+['Nymphaea']
+['Polygonum']
+['Lycopus']
+['Polygonum']
+['Lysimachia']
+['Polygonum']
+['Hippuris']
+['Lysimachia']
+['Juncus']
+['Lycopus']
+['Nymphaea']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Polygonum
+Hippuris
+Lysimachia
+Juncus bulbosus
+Lycopus europaeus
+Nymphaea
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Polygonum pengioius
+Lycopus
+Polygonum
+Lysimachia amphibium
+
+

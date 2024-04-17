@@ -1,0 +1,21 @@
+['New House']
+['Brand New House']
+['Housing']
+['ABV Housing']
+['Trucking']
+['New Truck']
+['ABV Trucking']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Trucking
+New Truck
+ABV Trucking
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+New House
+Brand New House
+Housing
+ABV Housing
+
+

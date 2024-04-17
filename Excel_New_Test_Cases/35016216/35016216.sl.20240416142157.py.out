@@ -1,0 +1,25 @@
+q1owieurqowiperuqwopieruwoqpiur, q1owieurqowiperuqwopieruwoqpiur
+c0qopweirup, joqiwejr
+c0pqowieqioweruqoiwpru, d
+joqiwejr, joqiwejr
+d, d
+c0abc, def
+def, def
+c0dd, qwe
+qwe, qwe
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+C0abc
+def
+C0dd
+qwe
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+q1owieurqowiperuqwopieruwoqpiur
+C0qopweirup
+C0pqowieqioweruqoiwpru
+joqiwejr
+d
+
+

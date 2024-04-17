@@ -1,0 +1,56 @@
+['General Electric']
+['General Electric']
+['General Electric']
+['Microsoft']
+['Microsoft']
+['Nintendo']
+['Nintendo']
+['Nintendo']
+['General Electric']
+['Microsoft']
+['Microsoft']
+['Microsoft']
+['Microsoft']
+['Walmart']
+['General Electric']
+['Microsoft']
+['Walmart']
+['Walmart']
+['Walmart']
+['Nintendo']
+['Walmart']
+['General Electric']
+['General Electric']
+['General Electric']
+['Microsoft']
+['Microsoft']
+['Nintendo']
+['Nintendo']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+General Electric
+General Electric
+General Electric
+Microsoft
+Microsoft
+Nintendo
+Nintendo
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Nintendo
+General Electric
+Microsoft
+Microsoft
+Microsoft
+Microsoft
+Walmart
+General Electric
+Microsoft
+Walmart
+Walmart
+Walmart
+Nintendo
+Walmart
+
+

@@ -1,0 +1,33 @@
+['']
+['makes']
+['have']
+['otherwise']
+['yields']
+['should']
+['ensures']
+['will']
+['have']
+['know']
+['']
+['mouse']
+['know']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+ensures
+will
+have
+know
+that
+mouse
+know
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+that
+makes
+have
+otherwise
+yields
+should
+
+

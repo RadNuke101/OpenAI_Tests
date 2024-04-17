@@ -1,0 +1,25 @@
+['quick']
+['small']
+['The']
+['']
+['']
+['That']
+['The']
+['quick']
+['']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+The
+quick
+
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+quick
+small
+The
+
+
+That
+
+

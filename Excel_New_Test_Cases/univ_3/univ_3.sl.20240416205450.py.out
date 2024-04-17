@@ -1,0 +1,89 @@
+[', USA', 'Phialdelphia, PA, USA']
+[', USA', ', USA']
+[', USA', 'Ithaca, New York, USA']
+[', USA', 'Philadelphia, PA, USA']
+[', USA', ', USA']
+[', USA', 'Ann Arbor, MI, USA']
+[', USA', ', USA']
+[', USA', 'Bloomington, IN, USA']
+[', USA', 'Tucson, AZ, USA']
+[', USA', 'Eugene, OR, USA']
+[', USA', ', USA']
+[', USA', 'Coral Gables, FL, USA']
+[', USA', 'Blacksburg, VA, USA']
+[', USA', 'New Brunswick, NJ, USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', 'Minneapolis, MN, USA']
+[', USA', 'Boulder, CO, USA']
+[', USA', ', USA']
+[', USA', 'Athens, GA, USA']
+[', USA', 'Columbus, OH, USA']
+[', USA', ', USA']
+[', USA', 'College Park, MD, USA']
+[', USA', 'Iowa City, IA, USA']
+[', USA', 'Phialdelphia, PA, USA']
+[', USA', 'Tallahassee, FL, USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', 'University Park, PA, USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', ', USA']
+[', USA', 'Pittsburgh, PA, USA']
+[', USA', 'Madison, WI, USA']
+[', USA', 'Phialdelphia, PA, USA']
+[', USA', ', USA']
+[', USA', 'Ithaca, New York, USA']
+[', USA', 'Philadelphia, PA, USA']
+[', USA', ', USA']
+[', USA', 'Ann Arbor, MI, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+Ithaca, New York, USA
+Philadelphia, PA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Pasadena, CA, USA
+Bloomington, IN, USA
+Tucson, AZ, USA
+Eugene, OR, USA
+Pittsburgh, PA, USA
+Coral Gables, FL, USA
+Blacksburg, VA, USA
+New Brunswick, NJ, USA
+Evanston, IL, USA
+Los Angeles, CA, USA
+Minneapolis, MN, USA
+Boulder, CO, USA
+Providence, RI, USA
+Athens, GA, USA
+Columbus, OH, USA
+Seattle, WA, USA
+College Park, MD, USA
+Iowa City, IA, USA
+Phialdelphia, PA, USA
+Tallahassee, FL, USA
+La Jolla, CA, USA
+Baltimore, MD, USA
+Durham, NC, USA
+Atlanta, GA, USA
+Austin, TX, USA
+Chapel Hill, NC, USA
+University Park, PA, USA
+Charlottesville, VA, USA
+Gainesville, FL, USA
+College Station, TX, USA
+Pittsburgh, PA, USA
+Madison, WI, USA
+
+

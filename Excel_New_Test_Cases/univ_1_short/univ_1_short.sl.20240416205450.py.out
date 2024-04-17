@@ -1,0 +1,87 @@
+university of pennsylvania, phialdelphia, pa, usa
+cornell university, ithaca, new york, usa
+university of maryland college park, college park, md
+university of michigan, ann arbor, mi, usa
+yale university, new haven, ct, usa
+columbia university, new york, ny, usa
+brown university, providence, ri
+university of texas at austin, austin, tx
+university of virginia, charlottesville, va
+pennsylvania state university, university park, pa, usa
+university of washington, seattle, wa
+ohio state university, columbus, oh, usa
+university of minnesota twin cities, minneapolis, mn, usa
+university of arizona, tucson, az, usa
+rutgers, the state university of new jersey, new brunswick, nj, usa
+tamu, college station, tx
+university of georgia, athens, ga, usa
+northwestern university, evanston, il
+university of colorado boulder, boulder, co, usa
+georgia institute of technology, atlanta, ga
+california institute of technology, pasadena, ca
+virginia tech, blacksburg, va, usa
+university of pittsburgh, pittsburgh, pa, usa
+university of miami, coral gables, fl, usa
+university of wisconsin madison, madison, wi, usa
+indiana university bloomington, bloomington, in, usa
+university of iowa, iowa city, ia, usa
+carnegie mellon university, pittsburgh, pa
+johns hopkins university, baltimore, md
+florida state university, tallahassee, fl, usa
+university of florida, gainesville, fl
+university of maryland, college park, college park, md, usa
+duke university, durham, nc
+university of north carolina at chapel hill, chapel hill, nc
+ucsd, la jolla, ca
+usc, los angeles, ca
+university of oregon, eugene, or, usa
+university of pennsylvania, phialdelphia, pa, usa
+cornell university, ithaca, new york, usa
+university of maryland college park, college park, md
+university of michigan, ann arbor, mi, usa
+yale university, new haven, ct, usa
+columbia university, new york, ny, usa
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+University of Pennsylvania, Phialdelphia, PA, USA
+Cornell University, Ithaca, New York, USA
+University of Maryland College Park, College Park, MD
+University of Michigan, Ann Arbor, MI, USA
+Yale University, New Haven, CT, USA
+Columbia University, New York, NY, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Brown University, Providence, RI
+University of Texas at Austin, Austin, TX
+University of Virginia, Charlottesville, VA
+Pennsylvania State University, University Park, PA, USA
+University of Washington, Seattle, WA
+Ohio State University, Columbus, OH, USA
+University of Minnesota Twin Cities, Minneapolis, MN, USA
+University of Arizona, Tucson, AZ, USA
+Rutgers, The State University of New Jersey, New Brunswick, NJ, USA
+TAMU, College Station, TX
+University of Georgia, Athens, GA, USA
+Northwestern University, Evanston, IL
+University of Colorado Boulder, Boulder, CO, USA
+Georgia Institute of Technology, Atlanta, GA
+California Institute of Technology, Pasadena, CA
+Virginia Tech, Blacksburg, VA, USA
+University of Pittsburgh, Pittsburgh, PA, USA
+University of Miami, Coral Gables, FL, USA
+University of Wisconsin Madison, Madison, WI, USA
+Indiana University Bloomington, Bloomington, IN, USA
+University of Iowa, Iowa City, IA, USA
+Carnegie Mellon University, Pittsburgh, PA
+Johns Hopkins University, Baltimore, MD
+Florida State University, Tallahassee, FL, USA
+University of Florida, Gainesville, FL
+University of Maryland, College Park, College Park, MD, USA
+Duke University, Durham, NC
+University of North Carolina at Chapel Hill, Chapel Hill, NC
+UCSD, La Jolla, CA
+USC, Los Angeles, CA
+University of Oregon, Eugene, OR, USA
+
+

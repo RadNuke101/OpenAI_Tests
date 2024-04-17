@@ -1,0 +1,26 @@
+aogawa_acme.com
+ajohnson_google.com
+tchang_upenn.edu
+aogawa_apple.com
+tchang_banana.org
+aogawa_usa.gov
+ajohnson_gmail.com
+tchang_harvard.edu
+aogawa_acme.com
+ajohnson_google.com
+tchang_upenn.edu
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+aogawa_acme.com
+ajohnson_google.com
+tchang_upenn.edu
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+aogawa_apple.com
+tchang_banana.org
+aogawa_usa.gov
+ajohnson_gmail.com
+tchang_harvard.edu
+
+

@@ -1,0 +1,32 @@
+['Mining US']
+['Soybean Farming CAN']
+['Soybean Farming']
+['Oil Extraction US']
+['Fishing']
+['Corn Farming US']
+['Corn Farming']
+['Housing']
+['Oil Refinement US']
+['Transpotation US']
+['Mining US']
+['Soybean Farming CAN']
+['Soybean Farming']
+['Oil Extraction US']
+['Fishing']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Mining
+Soybean Farming
+Soybean Farming
+Oil Extraction
+Fishing
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Corn Farming
+Corn Farming
+Housing
+Oil Refinement
+Transpotation
+
+

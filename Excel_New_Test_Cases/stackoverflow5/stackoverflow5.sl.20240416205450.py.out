@@ -1,0 +1,17 @@
+valentine day
+movie blah=2blahblah, The
+blah=2blahblah, alpha The
+day
+valentine day
+movie blah=2blahblah, The
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+valentine day
+movie blah=2blahblah, The
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+blah=2blahblah, alpha The
+day
+
+
