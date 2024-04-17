@@ -1,0 +1,62 @@
+UC Berkeley, Berkeley
+University of Pennsylvania, Phialdelphia
+UCLA, Los Angeles
+Cornell University, Ithaca
+Penn, Philadelphia
+University of Michigan, Ann Arbor
+UC Berkeley, Berkeley
+MIT, Cambridge
+University of Pennsylvania, Phialdelphia
+UCLA, Los Angeles
+University of Maryland College Park, College Park
+University of Michigan, Ann Arbor
+UC Berkeley, Berkeley
+MIT, Cambridge
+Rice University, Houston
+Yale University, New Haven
+Columbia University, New York
+NYU, New York
+Drexel University, Philadelphia
+UC Berkeley, Berkeley
+UIUC, Urbana
+Temple University, Philadelphia
+Harvard University, Cambridge
+University of Connecticut, Storrs
+Drexel University, Philadelphia
+NYU, New York
+UIUC, Urbana
+New Haven University, New Haven
+University of California, Santa Barbara
+University of Connecticut, Storrs
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+UC Berkeley, Berkeley, CA
+University of Pennsylvania, Phialdelphia, PA, USA
+UCLA, Los Angeles, CA
+Cornell University, Ithaca, New York, USA
+Penn, Philadelphia, PA, USA
+University of Michigan, Ann Arbor, MI, USA
+UC Berkeley, Berkeley, CA
+MIT, Cambridge, MA
+University of Pennsylvania, Phialdelphia, PA, USA
+UCLA, Los Angeles, CA
+University of Maryland College Park, College Park, MD
+University of Michigan, Ann Arbor, MI, USA
+UC Berkeley, Berkeley, CA
+MIT, Cambridge, MA
+Rice University, Houston, TX
+Yale University, New Haven, CT, USA
+Columbia University, New York, NY, USA
+NYU, New York, New York, USA
+Drexel University, Philadelphia, PA
+UC Berkeley, Berkeley, CA
+UIUC, Urbana, IL
+Temple University, Philadelphia, PA
+Harvard University, Cambridge, MA, USA
+University of Connecticut, Storrs, CT, USA
+Drexel University, Philadelphia, PA
+NYU, New York, New York, USA
+UIUC, Urbana, IL
+New Haven University, New Haven, CT, USA
+University of California, Santa Barbara, Santa Barbara, CA, USA
+University of Connecticut, Storrs, CT, USA

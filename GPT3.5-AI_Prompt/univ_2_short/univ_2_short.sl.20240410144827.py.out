@@ -1,0 +1,14 @@
+['University of Pennsylvania, USA', 'Phialdelphia, PA, USA, USA']
+['UCLA, USA', 'Los Angeles, CA, USA']
+['Cornell University, USA', 'Ithaca, New York, USA, USA']
+['Penn, USA', 'Philadelphia, PA, USA, USA']
+['University of Maryland College Park, USA', 'College Park, MD, USA']
+['University of Michigan, USA', 'Ann Arbor, MI, USA, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+University of Pennsylvania, Phialdelphia, PA, USA
+UCLA, Los Angeles, CA, USA
+Cornell University, Ithaca, New York, USA
+Penn, Philadelphia, PA, USA
+University of Maryland College Park, College Park, MD, USA
+University of Michigan, Ann Arbor, MI, USA

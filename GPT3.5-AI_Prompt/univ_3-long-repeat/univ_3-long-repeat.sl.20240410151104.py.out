@@ -1,0 +1,61 @@
+['Berkeley, CA, USA', 'Phialdelphia, PA, USA, USA', 'Ithaca, New York, USA, USA', 'Philadelphia, PA, USA, USA', 'Ann Arbor, MI, USA, USA', 'Cambridge, MA, USA', 'Los Angeles, CA, USA', 'College Park, MD, USA', 'Houston, TX, USA', 'New Haven, CT, USA, USA', 'New York, NY, USA, USA', 'New York, New York, USA, USA', 'Philadelphia, PA, USA', 'Urbana, IL, USA', 'Philadelphia, PA, USA', 'Cambridge, MA, USA, USA', 'Storrs, CT, USA, USA', 'New Haven, CT, USA, USA', 'Santa Barbara, Santa Barbara, CA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MD, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'TX, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'NY, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'CA, USA']
+[', USA', 'IL, USA']
+[', USA', 'PA, USA']
+[', USA', 'MA, USA, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'IL, USA']
+[', USA', 'CT, USA, USA']
+['Santa Barbara, USA', 'CA, USA, USA']
+[', USA', 'CT, USA, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+Berkeley, CA, USA
+Phialdelphia, PA, USA
+Ithaca, New York, USA
+Philadelphia, PA, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, New York, USA
+Philadelphia, PA, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+Philadelphia, PA, USA
+New York, New York, USA
+Urbana, IL, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA
+Storrs, CT, USA

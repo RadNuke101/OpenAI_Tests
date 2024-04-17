@@ -1,0 +1,62 @@
+['CA']
+['Phialdelphia, PA, USA']
+['CA']
+['Ithaca, New York, USA']
+['Philadelphia, PA, USA']
+['Arbor, MI, USA']
+['CA']
+['MA']
+['Phialdelphia, PA, USA']
+['CA']
+['MD']
+['Arbor, MI, USA']
+['CA']
+['MA']
+['TX']
+['Haven, CT, USA']
+['York, NY, USA']
+['York, New York, USA']
+['PA']
+['CA']
+['IL']
+['PA']
+['Cambridge, MA, USA']
+['Storrs, CT, USA']
+['PA']
+['York, New York, USA']
+['IL']
+['Haven, CT, USA']
+['Santa Barbara', 'Barbara, CA, USA']
+['Storrs, CT, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM SL FILE:
+Berkeley, CA, USA
+Phialdelphia, PA, USA
+UCLA, Los Angeles, CA, USA
+Ithaca, NY, USA
+Philadelphia, PA, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Phialdelphia, PA, USA
+Los Angeles, CA, USA
+College Park, MD, USA
+Ann Arbor, MI, USA
+Berkeley, CA, USA
+Cambridge, MA, USA
+Houston, TX, USA
+New Haven, CT, USA
+New York, NY, USA
+New York, NY, USA
+Philadelphia, PA, USA
+Berkeley, CA, USA
+Urbana, IL, USA
+Philadelphia, PA, USA
+Cambridge, MA, USA
+Storrs, CT, USA
+DPhiladelphia, PA, USA
+New York, NY, USA
+Urbana, IL, USA
+New Haven, CT, USA
+Santa Barbara, CA, USA
+Storrs, CT, USA
