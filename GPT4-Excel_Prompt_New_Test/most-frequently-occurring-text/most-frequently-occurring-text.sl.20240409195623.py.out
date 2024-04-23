@@ -1,0 +1,20 @@
+cat
+red
+firm
+soft
+['cat', 'dog', 'cat']
+['blue', 'red', 'red']
+['firm', 'firm', 'soft']
+['soft', 'soft', 'soft']
+['cat', 'dog', 'cat']
+['blue', 'red', 'red']
+['firm', 'firm', 'soft']
+['soft', 'soft', 'soft']
+['frog', 'dog', 'frog']
+['hard', 'hard', 'soft']
+['software', 'software', 'software']
+['yellow', 'blue', 'yellow']
+['soft', 'hard', 'hard']
+['frog', 'frog', 'dog']
+['blue', 'yellow', 'yellow']
+['something', 'something', 'something']
