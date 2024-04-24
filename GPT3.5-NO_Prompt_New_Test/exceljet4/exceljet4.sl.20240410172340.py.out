@@ -1,0 +1,35 @@
+exceljet.net/catalog
+microsoft.com
+someserver.com
+127.0.0.1
+exceljet.net/catalog
+microsoft.com
+someserver.com
+127.0.0.1
+exceljet.net/catalog
+microsoft.com
+someserver.com
+127.0.0.1
+localhost:2763/mywebsite
+amazon.com
+exceljet.net/index.html
+myserver.io
+127.0.0.1:12345/something
+localhost:2763/mywebsite/blog
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+127.0.0.1
+microsoft.com
+someserver.com
+exceljet.net/catalog
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+localhost:2763/mywebsite/blog
+exceljet.net/index.html
+amazon.com
+127.0.0.1:12345/something
+myserver.io
+localhost:2763/mywebsite
+
+

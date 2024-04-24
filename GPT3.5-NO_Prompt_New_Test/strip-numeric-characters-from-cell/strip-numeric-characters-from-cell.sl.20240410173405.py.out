@@ -1,0 +1,25 @@
+mcdonald
+500
+apples
+mcdonald
+500
+apples
+mcdonald
+500
+apples
+paoid
+500
+bananas
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+ jim mcdonald
+ apples
+ price is 
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+ jim mcdonald alicned paoid
+ bananas
+ the highest price is 
+
+

@@ -1,0 +1,28 @@
+/users/dave/shotcut.xls
+/users/dave/formulas.xls
+/users/dave/pivot table.xls
+/users/dave/shotcut.xls
+/users/dave/formulas.xls
+/users/dave/pivot table.xls
+/users/dave/shotcut.xls
+/users/dave/formulas.xls
+/users/dave/pivot table.xls
+/users/david/table.xls
+/users/dave/sales data.xls
+/users/david/experimental result.xls
+/users/david/sales data.xls
+/users/dave/table.xls
+/users/dave/experimental result.xls
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+shotcut.xls
+pivot table.xls
+formulas.xls
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+table.xls
+experimental result.xls
+sales data.xls
+
+

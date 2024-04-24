@@ -1,0 +1,19 @@
+This is a line.  keep this part
+
+This is a line.  keep this part
+
+This is a line.  keep this part
+
+int main() {  * TODO * ; return 0; }
+* any comment *
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+
+This is a line. keep this part
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+int main() { ; return 0; }
+
+
+
