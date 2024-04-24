@@ -1,0 +1,93 @@
+PA
+CA
+NY
+PA
+MD
+MI
+NY
+New York
+PA
+CA
+NY
+PA
+MD
+MI
+NY
+New York
+TX
+VA
+MN
+FL
+WI
+IA
+CA
+NC
+CA
+VA
+RI
+AZ
+GA
+GA
+FL
+PA
+NC
+IL
+PA
+WA
+TX
+OH
+PA
+MD
+CO
+OR
+CA
+NJ
+IN
+PA
+FL
+MD
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+New York, NY, USA
+Los Angeles, CA, USA
+Philadelphia, PA, USA
+Phialdelphia, PA, USA
+College Park, MD, USA
+Ithaca, NY, USA
+Ann Arbor, MI, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Gainesville, FL, USA
+Tallahassee, FL, USA
+Seattle, WA, USA
+College Station, TX, USA
+Phialdelphia, PA, USA
+Providence, RI, USA
+Charlottesville, VA, USA
+Iowa City, IA, USA
+Baltimore, MD, USA
+Durham, NC, USA
+Pittsburgh, PA, USA
+Eugene, OR, USA
+Coral Gables, FL, USA
+Athens, GA, USA
+New Brunswick, NJ, USA
+La Jolla, CA, USA
+College Park, MD, USA
+Atlanta, GA, USA
+Evanston, IL, USA
+Austin, TX, USA
+University Park, PA, USA
+Boulder, CO, USA
+Bloomington, IN, USA
+Columbus, OH, USA
+Los Angeles, CA, USA
+Blacksburg, VA, USA
+Madison, WI, USA
+Chapel Hill, NC, USA
+Minneapolis, MN, USA
+Pasadena, CA, USA
+Tucson, AZ, USA
+
+

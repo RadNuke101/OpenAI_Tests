@@ -1,0 +1,21 @@
+['india china']
+['indonesia']
+['india china']
+['indonesia']
+['china india']
+['korea']
+['argentina korea']
+['finland']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+indonesia
+india china
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+finland india
+argentina india
+indonesia
+india china
+
+

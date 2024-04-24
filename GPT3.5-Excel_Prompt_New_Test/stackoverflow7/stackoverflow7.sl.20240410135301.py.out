@@ -1,0 +1,19 @@
+['Item 1', 'AQ-S810W-2AVDF']
+['Item 2', 'AQ-230A']
+['Item 1', 'AQ-S810W-2AVDF']
+['Item 2', 'AQ-230A']
+['Item 1', 'AQ-S910W-2AVDF']
+['Item 2', 'AQ-231A']
+['Item 1', 'AQ-S810W-2AVDFG']
+['Item 2', 'AQ-231']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Item 2 -1DUQ
+Item 1
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Item 2 -1DUQ
+Item 1
+
+

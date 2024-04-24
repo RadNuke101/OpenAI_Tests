@@ -1,0 +1,25 @@
+['jim mcdonald']
+['price is']
+['apples']
+['jim mcdonald']
+['price is']
+['apples']
+['jim mcdonald']
+['price is']
+['apples']
+['jim mcdonald alicned paoid']
+['the highest price is']
+['bananas']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+ price is 
+ jim mcdonald
+ apples
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+ bananas
+ jim mcdonald alicned paoid
+ the highest price is 
+
+

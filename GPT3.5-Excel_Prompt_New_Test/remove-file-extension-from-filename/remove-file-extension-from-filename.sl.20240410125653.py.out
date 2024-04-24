@@ -1,0 +1,27 @@
+happy
+pivot table
+sales data
+invoice3001
+happy
+pivot table
+sales data
+invoice3001
+invoice3022
+normal table
+sales sheet
+sad
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+happy
+sales data
+pivot table
+invoice3001
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+sad
+invoice3022
+sales sheet
+normal table
+
+

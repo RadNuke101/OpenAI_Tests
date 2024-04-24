@@ -1,0 +1,36 @@
+cat
+red
+firm
+soft
+cat
+red
+firm
+soft
+cat
+red
+firm
+soft
+frog
+hard
+software
+yellow
+hard
+frog
+yellow
+something
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+cat
+soft
+red
+firm
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+something
+yellow
+hard
+frog
+software
+
+
