@@ -1,0 +1,95 @@
+University of Pennsylvania, Phialdelphia,  PA,  USA, USA
+UCLA, Los Angeles,  CA, USA
+Cornell University, Ithaca,  New York,  USA, USA
+Penn, Philadelphia,  PA,  USA, USA
+University of Maryland College Park, College Park,  MD, USA
+University of Michigan, Ann Arbor,  MI,  USA, USA
+University of Pennsylvania, Phialdelphia,  PA,  USA, USA
+UCLA, Los Angeles,  CA, USA
+Cornell University, Ithaca,  New York,  USA, USA
+Penn, Philadelphia,  PA,  USA, USA
+University of Maryland College Park, College Park,  MD, USA
+University of Michigan, Ann Arbor,  MI,  USA, USA
+University of Pennsylvania, Phialdelphia,  PA,  USA, USA
+UCLA, Los Angeles,  CA, USA
+Cornell University, Ithaca,  New York,  USA, USA
+Penn, Philadelphia,  PA,  USA, USA
+University of Maryland College Park, College Park,  MD, USA
+University of Michigan, Ann Arbor,  MI,  USA, USA
+Indiana University Bloomington, Bloomington,  IN,  USA, USA
+University of Colorado Boulder, Boulder,  CO,  USA, USA
+Carnegie Mellon University, Pittsburgh,  PA, USA
+University of Virginia, Charlottesville,  VA, USA
+Brown University, Providence,  RI, USA
+University of Arizona, Tucson,  AZ,  USA, USA
+University of Miami, Coral Gables,  FL,  USA, USA
+Virginia Tech, Blacksburg,  VA,  USA, USA
+University of Iowa, Iowa City,  IA,  USA, USA
+University of Washington, Seattle,  WA, USA
+University of Florida, Gainesville,  FL, USA
+UCSD, La Jolla,  CA, USA
+University of Maryland, College Park, College Park,  MD,  USA, USA
+TAMU, College Station,  TX, USA
+University of Oregon, Eugene,  OR,  USA, USA
+Duke University, Durham,  NC, USA
+University of Texas at Austin, Austin,  TX, USA
+Rutgers, The State University of New Jersey, New Brunswick,  NJ,  USA, USA
+University of Pittsburgh, Pittsburgh,  PA,  USA, USA
+Ohio State University, Columbus,  OH,  USA, USA
+Johns Hopkins University, Baltimore,  MD, USA
+Northwestern University, Evanston,  IL, USA
+Georgia Institute of Technology, Atlanta,  GA, USA
+USC, Los Angeles,  CA, USA
+Pennsylvania State University, University Park,  PA,  USA, USA
+California Institute of Technology, Pasadena,  CA, USA
+Florida State University, Tallahassee,  FL,  USA, USA
+University of Minnesota Twin Cities, Minneapolis,  MN,  USA, USA
+University of Pennsylvania, Phialdelphia,  PA,  USA, USA
+University of North Carolina at Chapel Hill, Chapel Hill,  NC, USA
+University of Wisconsin Madison, Madison,  WI,  USA, USA
+University of Georgia, Athens,  GA,  USA, USA
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+University of Maryland College Park, College Park, MD, USA
+University of Pennsylvania, Phialdelphia, PA, USA
+University of Michigan, Ann Arbor, MI, USA
+UCLA, Los Angeles, CA, USA
+Penn, Philadelphia, PA, USA
+Cornell University, Ithaca, New York, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+University of Texas at Austin, Austin, TX, USA
+University of Florida, Gainesville, FL, USA
+Georgia Institute of Technology, Atlanta, GA, USA
+University of Arizona, Tucson, AZ, USA
+USC, Los Angeles, CA, USA
+Johns Hopkins University, Baltimore, MD, USA
+University of Virginia, Charlottesville, VA, USA
+Florida State University, Tallahassee, FL, USA
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+University of Pittsburgh, Pittsburgh, PA, USA
+UCSD, La Jolla, CA, USA
+University of Oregon, Eugene, OR, USA
+California Institute of Technology, Pasadena, CA, USA
+University of Minnesota Twin Cities, Minneapolis, MN, USA
+University of Miami, Coral Gables, FL, USA
+Indiana University Bloomington, Bloomington, IN, USA
+University of Maryland, College Park, College Park, MD, USA
+University of Georgia, Athens, GA, USA
+University of Pennsylvania, Phialdelphia, PA, USA
+University of Colorado Boulder, Boulder, CO, USA
+Northwestern University, Evanston, IL, USA
+Brown University, Providence, RI, USA
+TAMU, College Station, TX, USA
+University of Iowa, Iowa City, IA, USA
+Pennsylvania State University, University Park, PA, USA
+Rutgers, The State University of New Jersey, New Brunswick, NJ, USA
+Ohio State University, Columbus, OH, USA
+University of Wisconsin Madison, Madison, WI, USA
+Duke University, Durham, NC, USA
+Carnegie Mellon University, Pittsburgh, PA, USA
+Virginia Tech, Blacksburg, VA, USA
+University of Washington, Seattle, WA, USA
+
+

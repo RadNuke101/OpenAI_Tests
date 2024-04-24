@@ -1,0 +1,19 @@
+
+/delete words in the area
+
+/delete words in the area
+
+/delete words in the area
+int main() {
+/* any comment */
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+
+This is a line. keep this part
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+
+int main() { ; return 0; }
+
+

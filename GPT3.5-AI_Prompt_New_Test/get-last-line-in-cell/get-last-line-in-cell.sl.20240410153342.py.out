@@ -1,0 +1,37 @@
+2015-follow-up,interested
+2015-order placed
+2015 - First call
+2015-follow-up,interested
+2015-order placed
+2015 - First call
+2015-follow-up,interested
+2015-order placed
+2015 - First call
+2088-follow-up,notinterested
+2015-follow-up,interested
+2015 - First call
+2088-follow-up,interested
+2015-order placed
+2088-order placed
+2015-follow-up,interested
+2015-order placed
+2015 - 1st call
+2088 - First call
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+11/1/2015 - First call
+11/15/2015-follow-up,interested
+12/3/2015-order placed
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+11/1/2088 - First call
+11/15/2088-follow-up,interested
+12/3/2088-order placed
+12/1/2015 - First call
+11/15/2088-follow-up,notinterested
+11/15/2015-follow-up,interested
+11/1/2015 - 1st call
+12/3/2015-order placed
+
+

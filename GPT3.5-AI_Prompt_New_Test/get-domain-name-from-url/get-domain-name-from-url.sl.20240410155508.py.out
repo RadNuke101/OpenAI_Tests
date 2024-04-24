@@ -1,0 +1,25 @@
+https///
+http///
+http///
+https///
+http///
+http///
+https///
+http///
+http///
+https///
+http///
+http///
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+http=//www.abc.com
+https=//abc.com/
+http=//chandoo.org/
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+http=//www.abc.com
+https=//abc.com/
+http=//chandoo.org/
+
+

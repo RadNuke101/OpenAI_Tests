@@ -1,0 +1,38 @@
+['ann']
+['']
+['t.']
+['r..']
+['ann']
+['']
+['t.']
+['r..']
+['ann']
+['']
+['t.']
+['r..']
+['']
+['von']
+['']
+['f.']
+['ann']
+['thomas']
+['ann']
+['t.']
+['']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+
+ann
+r. tom
+t.
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+
+ann
+von
+thomas
+t.
+f.
+
+

@@ -1,0 +1,29 @@
+011016, assignment.xlsx
+030116, cost.xlsx
+011016_assignment.xlsx, 1
+011016_assignment.xlsx, 2
+030116_cost.xlsx, 1
+030116_cost.xlsx, 2
+011016_assignment.xlsx, 1
+011016_assignment.xlsx, 2
+030116_cost.xlsx, 1
+030116_cost.xlsx, 2
+011028_todosheet.xlsx, 1
+030128_a.xlsx, 2
+030128_a.xlsx, 1
+011028_todosheet.xlsx, 2
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+030116
+011016
+cost.xlsx
+assignment.xlsx
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+a.xlsx
+todosheet.xlsx
+011028
+030128
+
+

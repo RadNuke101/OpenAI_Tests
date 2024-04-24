@@ -1,0 +1,27 @@
+valentine day, The (1915), Rating: 7.1, Popularity Score: 45
+
+movie blah, The (2blahblah, The), Rating: , Popularity Score: 7.9
+
+valentine day, The (1915), Rating: 7.1, Popularity Score: 45
+
+movie blah, The (2blahblah, The), Rating: , Popularity Score: 7.9
+
+valentine day, The (1915), Rating: 7.1, Popularity Score: 45
+
+movie blah, The (2blahblah, The), Rating: , Popularity Score: 7.9
+
+blah, The (2blahblah, alpha The), Rating: , Popularity Score: 7.9
+
+day, The (1915), Rating: 7.1, Popularity Score: 45
+
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+movie blah=2blahblah, The
+valentine day
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+blah=2blahblah, alpha The
+day
+
+

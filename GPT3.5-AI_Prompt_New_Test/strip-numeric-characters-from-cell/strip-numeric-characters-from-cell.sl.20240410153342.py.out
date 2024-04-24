@@ -1,0 +1,25 @@
+['mcdonald']
+['500']
+['apples']
+['mcdonald']
+['500']
+['apples']
+['mcdonald']
+['500']
+['apples']
+['paoid']
+['500']
+['bananas']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+ jim mcdonald
+ price is 
+ apples
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+ the highest price is 
+ bananas
+ jim mcdonald alicned paoid
+
+

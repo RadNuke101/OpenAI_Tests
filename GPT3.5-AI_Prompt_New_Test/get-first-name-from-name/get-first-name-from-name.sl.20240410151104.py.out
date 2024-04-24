@@ -1,0 +1,25 @@
+['Susan']
+['Ayako']
+['Bobby']
+['Susan']
+['Ayako']
+['Bobby']
+['Susan']
+['Ayako']
+['Bobby']
+['Jackson']
+['Olivia']
+['Benjamin']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Bobby
+Susan
+Ayako
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Jackson
+Benjamin
+Olivia
+
+

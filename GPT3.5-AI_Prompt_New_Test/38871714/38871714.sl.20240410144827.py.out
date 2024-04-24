@@ -1,0 +1,20 @@
+This is a string, It should be changed to a number.
+a  4 a  0
+This is a string, It should be changed to a number.
+a  4 a  0
+This is a string, It should be changed to a number.
+a  4 a  0
+This is a number, It should be updated to a string.
+This is a number, It should be updated to a string.
+a  0
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+This is a string, It should be changed to a number.
+a  4 and a  0
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+This is a number, It should be updated to a string.
+a  0
+
+

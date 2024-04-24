@@ -1,0 +1,35 @@
+['Ducati', 'Honda', 'Ducati', 'Honda', 'Honda', 'Ducati']
+['Ducati']
+['Honda']
+['Ducati']
+['Honda']
+['Honda']
+['Ducati']
+['Ducati']
+['Honda']
+['Ducati']
+['Honda']
+['Honda']
+['Ducati']
+['Ford']
+['Ford']
+['Toyota']
+['Toyota']
+['Hyundai']
+['Ford']
+['Hyundai']
+['Lamborghini']
+['Toyota']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Ducati
+Honda
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Toyota
+Ford
+Lamborghini
+Hyundai
+
+

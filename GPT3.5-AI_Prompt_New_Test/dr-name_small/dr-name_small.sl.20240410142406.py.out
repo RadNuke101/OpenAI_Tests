@@ -1,0 +1,75 @@
+['Dr. Nancy']
+['Dr. Andrew']
+['Dr. Jan']
+['Dr. Mariya']
+['Dr. Nancy']
+['Dr. Andrew']
+['Dr. Jan']
+['Dr. Mariya']
+['Dr. Smith']
+['Dr. Anderson']
+['Dr. Carter']
+['Dr. Parker']
+['Dr. Hayes']
+['Dr. Foster']
+['Dr. Martin']
+['Dr. Reynolds']
+['Dr. Foster']
+['Dr. Clark']
+['Dr. Coleman']
+['Dr. Adams']
+['Dr. Cooper']
+['Dr. Turner']
+['Dr. Turner']
+['Dr. Bennett']
+['Dr. Brooks']
+['Dr. Thompson']
+['Dr. Johnson']
+['Dr. Taylor']
+['Dr. Nelson']
+['Dr. Edwards']
+['Dr. Mitchell']
+['Dr. Harrison']
+['Dr. Davis']
+['Dr. Walker']
+['Dr. Morgan']
+['Dr. Hayes']
+['Dr. Cooper']
+['Dr. Wright']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Dr. Mariya
+Dr. Andrew
+Dr. Jan
+Dr. Nancy
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Dr. Hayes
+Dr. Brooks
+Dr. Anderson
+Dr. Smith
+Dr. Coleman
+Dr. Mitchell
+Dr. Bennett
+Dr. Walker
+Dr. Reynolds
+Dr. Parker
+Dr. Harrison
+Dr. Adams
+Dr. Martin
+Dr. Wright
+Dr. Carter
+Dr. Turner
+Dr. Davis
+Dr. Morgan
+Dr. Thompson
+Dr. Nelson
+Dr. Johnson
+Dr. Edwards
+Dr. Foster
+Dr. Clark
+Dr. Taylor
+Dr. Cooper
+
+

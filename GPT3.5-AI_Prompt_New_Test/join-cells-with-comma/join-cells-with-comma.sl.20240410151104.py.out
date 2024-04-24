@@ -1,0 +1,25 @@
+apples, figs
+grapes, kiwis, mangos
+apples, figs
+grapes, kiwis, mangos
+bananas, figs
+alpha, epsilon
+figs, trees
+alpha, beta, gamma
+grape, kiwi, mango
+beta, epsilon, gamma
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+mangos, kiwis, grapes
+figs, apples
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+figs, trees
+mango, kiwi, grape
+alpha, epsilon
+beta, gamma, epsilon
+alpha, beta, gamma
+figs, bananas
+
+

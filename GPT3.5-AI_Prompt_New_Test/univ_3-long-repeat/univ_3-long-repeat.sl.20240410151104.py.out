@@ -1,0 +1,144 @@
+['Berkeley, CA, USA', 'Phialdelphia, PA, USA, USA', 'Ithaca, New York, USA, USA', 'Philadelphia, PA, USA, USA', 'Ann Arbor, MI, USA, USA', 'Cambridge, MA, USA', 'Los Angeles, CA, USA', 'College Park, MD, USA', 'Houston, TX, USA', 'New Haven, CT, USA, USA', 'New York, NY, USA, USA', 'New York, New York, USA, USA', 'Philadelphia, PA, USA', 'Urbana, IL, USA', 'Philadelphia, PA, USA', 'Cambridge, MA, USA, USA', 'Storrs, CT, USA, USA', 'New Haven, CT, USA, USA', 'Santa Barbara, Santa Barbara, CA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MD, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'TX, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'NY, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'CA, USA']
+[', USA', 'IL, USA']
+[', USA', 'PA, USA']
+[', USA', 'MA, USA, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'IL, USA']
+[', USA', 'CT, USA, USA']
+['Santa Barbara, USA', 'CA, USA, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MD, USA']
+[', USA', 'MI, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'MA, USA']
+[', USA', 'TX, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'NY, USA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'CA, USA']
+[', USA', 'IL, USA']
+[', USA', 'PA, USA']
+[', USA', 'MA, USA, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'New York, USA, USA']
+[', USA', 'IL, USA']
+[', USA', 'CT, USA, USA']
+['Santa Barbara, USA', 'CA, USA, USA']
+[', USA', 'CT, USA, USA']
+[', USA', 'RI, USA']
+[', USA', 'GA, USA']
+[', USA', 'CA, USA']
+[', USA', 'CA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'AZ, USA, USA']
+[', USA', 'TX, USA']
+[', USA', 'OH, USA, USA']
+[', USA', 'PA, USA, USA']
+[', USA', 'FL, USA, USA']
+[', USA', 'MN, USA, USA']
+[', USA', 'IA, USA, USA']
+[', USA', 'VA, USA, USA']
+[', USA', 'NC, USA']
+[', USA', 'WI, USA, USA']
+[', USA', 'IL, USA']
+[', USA', 'VA, USA']
+['The State University of New Jersey, USA', 'NJ, USA, USA']
+[', USA', 'OR, USA, USA']
+[', USA', 'CO, USA, USA']
+[', USA', 'FL, USA, USA']
+[', USA', 'NC, USA']
+[', USA', 'MD, USA']
+['College Park, USA', 'MD, USA, USA']
+[', USA', 'IN, USA, USA']
+[', USA', 'PA, USA']
+[', USA', 'TX, USA']
+[', USA', 'GA, USA, USA']
+[', USA', 'CA, USA']
+[', USA', 'WA, USA']
+[', USA', 'FL, USA']
+[', USA', 'PA, USA, USA']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+Phialdelphia, PA, USA
+Philadelphia, PA, USA
+Ann Arbor, MI, USA
+Los Angeles, CA, USA
+Storrs, CT, USA
+Urbana, IL, USA
+Berkeley, CA, USA
+New Haven, CT, USA
+New York, New York, USA
+Cambridge, MA, USA
+Ithaca, New York, USA
+Houston, TX, USA
+Santa Barbara, CA, USA
+New York, NY, USA
+College Park, MD, USA
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+Pasadena, CA, USA
+Providence, RI, USA
+Charlottesville, VA, USA
+Seattle, WA, USA
+Columbus, OH, USA
+Coral Gables, FL, USA
+College Park, MD, USA
+Bloomington, IN, USA
+Austin, TX, USA
+Boulder, CO, USA
+Athens, GA, USA
+University Park, PA, USA
+Pittsburgh, PA, USA
+Evanston, IL, USA
+Madison, WI, USA
+La Jolla, CA, USA
+Iowa City, IA, USA
+Phialdelphia, PA, USA
+Blacksburg, VA, USA
+Minneapolis, MN, USA
+Atlanta, GA, USA
+Tucson, AZ, USA
+Eugene, OR, USA
+Los Angeles, CA, USA
+Durham, NC, USA
+New Brunswick, NJ, USA
+Tallahassee, FL, USA
+Gainesville, FL, USA
+College Station, TX, USA
+Chapel Hill, NC, USA
+Baltimore, MD, USA
+
+

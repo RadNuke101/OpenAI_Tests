@@ -1,0 +1,31 @@
+one, 1 apple
+two, 2 banana
+three, 3 strawberry
+four, 4 orange
+one, 1 apple
+two, 2 banana
+three, 3 strawberry
+four, 4 orange
+one, 1 apple
+two, 2 banana
+three, 3 strawberry
+four, 4 orange
+one, 3 apple
+three, 4 strawberry
+two, 1 banana
+four, 2 orange
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+two bananas
+three strawberries
+four oranges
+one apple
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+three oranges
+two apple
+four bananas
+one strawberries
+
+

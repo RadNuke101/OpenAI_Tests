@@ -1,0 +1,30 @@
+['The', 'quick', 'brown', 'fox.']
+['quick', 'brown', 'fox.']
+['fox.']
+['The', 'quick', 'brown', 'fox.']
+['quick', 'brown', 'fox.']
+['fox']
+['The', 'quick', 'brown', 'fox.']
+['quick', 'brown', 'fox.']
+['fox']
+['quick', 'brown', 'dog.']
+['small', 'brown', 'fox.']
+['The', 'quick', 'brown', 'dog.']
+['dog']
+['fish']
+['That', 'quick', 'brown', 'fox.']
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+
+quick
+The
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+
+The
+small
+quick
+That
+
+
