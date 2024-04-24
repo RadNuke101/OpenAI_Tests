@@ -1,0 +1,22 @@
+jim mcdonald
+price is
+apples
+jim mcdonald
+price is
+apples
+jim mcdonald alicned paoid
+the highest price is
+bananas
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+ apples
+ jim mcdonald
+ price is 
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+ bananas
+ the highest price is 
+ jim mcdonald alicned paoid
+
+

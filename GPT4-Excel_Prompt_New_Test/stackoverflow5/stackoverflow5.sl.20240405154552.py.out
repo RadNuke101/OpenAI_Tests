@@ -1,0 +1,19 @@
+valentine day=1915
+movie blah=2blahblah, The=1914
+valentine day=1915
+movie blah=2blahblah, The=1914
+valentine day=1915
+movie blah=2blahblah, The=1914
+blah=2blahblah, alpha The=1914
+day=1915
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+valentine day
+movie blah=2blahblah, The
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+day
+blah=2blahblah, alpha The
+
+

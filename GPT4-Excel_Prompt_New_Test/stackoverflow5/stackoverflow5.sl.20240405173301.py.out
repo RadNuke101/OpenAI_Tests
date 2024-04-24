@@ -1,0 +1,19 @@
+yad enitnelav=5191
+halb eivom=ehT ,halbhalb2=4191
+yad enitnelav=5191
+halb eivom=ehT ,halbhalb2=4191
+yad enitnelav=5191
+halb eivom=ehT ,halbhalb2=4191
+halb=ehT ahpla ,halbhalb2=4191
+yad=5191
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+valentine day
+movie blah=2blahblah, The
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+day
+blah=2blahblah, alpha The
+
+

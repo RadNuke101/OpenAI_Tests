@@ -1,0 +1,22 @@
+The shawshank
+The    godfather
+pulp   fiction
+The shawshank
+The    godfather
+pulp   fiction
+That    godfather
+Some text
+pulp   novel
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+The godfather
+The shawshank
+pulp fiction
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+That godfather
+pulp novel
+Some text
+
+

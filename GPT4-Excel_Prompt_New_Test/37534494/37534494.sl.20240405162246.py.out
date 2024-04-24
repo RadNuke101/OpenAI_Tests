@@ -1,0 +1,19 @@
+I hate bananas
+I love apples
+I hate bananas
+I love apples
+I hate bananas
+I love apples
+I dislike apples
+I like bananas
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+I love apples
+I hate bananas
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+I dislike apples
+I like bananas
+
+

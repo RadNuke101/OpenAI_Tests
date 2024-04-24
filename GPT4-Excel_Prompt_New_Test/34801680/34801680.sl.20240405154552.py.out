@@ -1,0 +1,17 @@
+ABC Retailers
+XYZ Suppliers
+ABC Retailers
+XYZ Suppliers
+LMN Suppliers
+UVW Providers
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+XYZ Suppliers
+ABC Retailers
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+UVW Providers
+LMN Suppliers
+
+

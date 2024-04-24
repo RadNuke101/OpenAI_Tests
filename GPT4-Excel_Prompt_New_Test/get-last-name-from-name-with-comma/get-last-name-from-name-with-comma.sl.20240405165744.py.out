@@ -1,0 +1,22 @@
+amy,chang,
+bobby,smith,
+aaron,lennox,
+amy,chang,
+bobby,smith,
+aaron,lennox,
+benjamin,hayes,
+olivia,parker,
+jackson,turner,
+
+ORIGINAL OUTPUT STRAIGHT FROM OLD SL FILE:
+aaron,lennox
+amy,chang
+bobby,smith
+
+
+ORIGINAL OUTPUT STRAIGHT FROM NEW SL FILE:
+jackson,turner
+benjamin,hayes
+olivia,parker
+
+
